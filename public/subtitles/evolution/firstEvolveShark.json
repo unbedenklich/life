@@ -1,0 +1,539 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.26747027805873325,
+      "compression_ratio": 1.4789473684210526,
+      "end": 10.68,
+      "id": 0,
+      "no_speech_prob": 0.7084980607032776,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " Ah, a familiar face graces the ocean depths. The great shark, ruler of the seas, sits unchallenged",
+      "tokens": [
+        50364,
+        2438,
+        11,
+        257,
+        4963,
+        1851,
+        677,
+        2116,
+        264,
+        7810,
+        28439,
+        13,
+        440,
+        869,
+        13327,
+        11,
+        19661,
+        295,
+        264,
+        22535,
+        11,
+        12696,
+        33686,
+        336,
+        1501,
+        292,
+        50900
+      ],
+      "words": [
+        {
+          "end": 0.8,
+          "probability": 0.321611225605011,
+          "start": 0,
+          "word": " Ah,"
+        },
+        {
+          "end": 1.54,
+          "probability": 0.9667713046073914,
+          "start": 1.32,
+          "word": " a"
+        },
+        {
+          "end": 2,
+          "probability": 0.7769628167152405,
+          "start": 1.54,
+          "word": " familiar"
+        },
+        {
+          "end": 2.68,
+          "probability": 0.8107290863990784,
+          "start": 2,
+          "word": " face"
+        },
+        {
+          "end": 3.4,
+          "probability": 0.8813870251178741,
+          "start": 2.68,
+          "word": " graces"
+        },
+        {
+          "end": 3.68,
+          "probability": 0.8093394041061401,
+          "start": 3.4,
+          "word": " the"
+        },
+        {
+          "end": 4.1,
+          "probability": 0.8318636417388916,
+          "start": 3.68,
+          "word": " ocean"
+        },
+        {
+          "end": 4.76,
+          "probability": 0.6543031930923462,
+          "start": 4.1,
+          "word": " depths."
+        },
+        {
+          "end": 5.96,
+          "probability": 0.8108357191085815,
+          "start": 5.68,
+          "word": " The"
+        },
+        {
+          "end": 6.38,
+          "probability": 0.6626062989234924,
+          "start": 5.96,
+          "word": " great"
+        },
+        {
+          "end": 7.02,
+          "probability": 0.8431036472320557,
+          "start": 6.38,
+          "word": " shark,"
+        },
+        {
+          "end": 7.74,
+          "probability": 0.7349814176559448,
+          "start": 7.42,
+          "word": " ruler"
+        },
+        {
+          "end": 8.08,
+          "probability": 0.9035017490386963,
+          "start": 7.74,
+          "word": " of"
+        },
+        {
+          "end": 8.28,
+          "probability": 0.806829035282135,
+          "start": 8.08,
+          "word": " the"
+        },
+        {
+          "end": 8.72,
+          "probability": 0.8865172863006592,
+          "start": 8.28,
+          "word": " seas,"
+        },
+        {
+          "end": 9.54,
+          "probability": 0.7954436540603638,
+          "start": 9.16,
+          "word": " sits"
+        },
+        {
+          "end": 10.68,
+          "probability": 0.9314370155334473,
+          "start": 9.54,
+          "word": " unchallenged"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26747027805873325,
+      "compression_ratio": 1.4789473684210526,
+      "end": 19.44,
+      "id": 1,
+      "no_speech_prob": 0.7084980607032776,
+      "seek": 0,
+      "start": 10.68,
+      "temperature": 0,
+      "text": " at the top of the food chain. With its distinctive eyes, sleek, streamlined head, and powerful",
+      "tokens": [
+        50900,
+        412,
+        264,
+        1192,
+        295,
+        264,
+        1755,
+        5021,
+        13,
+        2022,
+        1080,
+        27766,
+        2575,
+        11,
+        43464,
+        11,
+        48155,
+        1378,
+        11,
+        293,
+        4005,
+        51342
+      ],
+      "words": [
+        {
+          "end": 10.9,
+          "probability": 0.8980298042297363,
+          "start": 10.68,
+          "word": " at"
+        },
+        {
+          "end": 11.08,
+          "probability": 0.8117347955703735,
+          "start": 10.9,
+          "word": " the"
+        },
+        {
+          "end": 11.4,
+          "probability": 0.8360832333564758,
+          "start": 11.08,
+          "word": " top"
+        },
+        {
+          "end": 11.76,
+          "probability": 0.9020235538482666,
+          "start": 11.4,
+          "word": " of"
+        },
+        {
+          "end": 11.92,
+          "probability": 0.7993729710578918,
+          "start": 11.76,
+          "word": " the"
+        },
+        {
+          "end": 12.22,
+          "probability": 0.9200056791305542,
+          "start": 11.92,
+          "word": " food"
+        },
+        {
+          "end": 12.62,
+          "probability": 0.7175369262695312,
+          "start": 12.22,
+          "word": " chain."
+        },
+        {
+          "end": 14,
+          "probability": 0.882672905921936,
+          "start": 13.4,
+          "word": " With"
+        },
+        {
+          "end": 14.22,
+          "probability": 0.8091294765472412,
+          "start": 14,
+          "word": " its"
+        },
+        {
+          "end": 14.74,
+          "probability": 0.856208086013794,
+          "start": 14.22,
+          "word": " distinctive"
+        },
+        {
+          "end": 15.46,
+          "probability": 0.8316746354103088,
+          "start": 14.74,
+          "word": " eyes,"
+        },
+        {
+          "end": 16.36,
+          "probability": 0.9401156902313232,
+          "start": 15.88,
+          "word": " sleek,"
+        },
+        {
+          "end": 17.14,
+          "probability": 0.8858441114425659,
+          "start": 16.68,
+          "word": " streamlined"
+        },
+        {
+          "end": 18,
+          "probability": 0.8807781934738159,
+          "start": 17.14,
+          "word": " head,"
+        },
+        {
+          "end": 18.9,
+          "probability": 0.8938021659851074,
+          "start": 18.52,
+          "word": " and"
+        },
+        {
+          "end": 19.44,
+          "probability": 0.8410730957984924,
+          "start": 18.9,
+          "word": " powerful"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26747027805873325,
+      "compression_ratio": 1.4789473684210526,
+      "end": 27.6,
+      "id": 2,
+      "no_speech_prob": 0.7084980607032776,
+      "seek": 0,
+      "start": 19.44,
+      "temperature": 0,
+      "text": " tail, this apex predator is perfectly adapted for dominance. Its presence is not just a",
+      "tokens": [
+        51342,
+        6838,
+        11,
+        341,
+        48115,
+        35377,
+        307,
+        6239,
+        20871,
+        337,
+        34987,
+        13,
+        6953,
+        6814,
+        307,
+        406,
+        445,
+        257,
+        51734
+      ],
+      "words": [
+        {
+          "end": 20,
+          "probability": 0.8168256282806396,
+          "start": 19.44,
+          "word": " tail,"
+        },
+        {
+          "end": 20.96,
+          "probability": 0.8537197709083557,
+          "start": 20.66,
+          "word": " this"
+        },
+        {
+          "end": 21.52,
+          "probability": 0.7521845698356628,
+          "start": 20.96,
+          "word": " apex"
+        },
+        {
+          "end": 21.98,
+          "probability": 0.855684757232666,
+          "start": 21.52,
+          "word": " predator"
+        },
+        {
+          "end": 22.88,
+          "probability": 0.8900425434112549,
+          "start": 21.98,
+          "word": " is"
+        },
+        {
+          "end": 23.58,
+          "probability": 0.8555459976196289,
+          "start": 22.88,
+          "word": " perfectly"
+        },
+        {
+          "end": 24.08,
+          "probability": 0.8005369901657104,
+          "start": 23.58,
+          "word": " adapted"
+        },
+        {
+          "end": 24.38,
+          "probability": 0.8971657156944275,
+          "start": 24.08,
+          "word": " for"
+        },
+        {
+          "end": 24.78,
+          "probability": 0.7935022115707397,
+          "start": 24.38,
+          "word": " dominance."
+        },
+        {
+          "end": 26.02,
+          "probability": 0.7389090061187744,
+          "start": 25.74,
+          "word": " Its"
+        },
+        {
+          "end": 26.56,
+          "probability": 0.9082562327384949,
+          "start": 26.02,
+          "word": " presence"
+        },
+        {
+          "end": 26.86,
+          "probability": 0.9014277458190918,
+          "start": 26.56,
+          "word": " is"
+        },
+        {
+          "end": 27.06,
+          "probability": 0.8975245356559753,
+          "start": 26.86,
+          "word": " not"
+        },
+        {
+          "end": 27.36,
+          "probability": 0.8840207457542419,
+          "start": 27.06,
+          "word": " just"
+        },
+        {
+          "end": 27.6,
+          "probability": 0.9880826473236084,
+          "start": 27.36,
+          "word": " a"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.25099977579983795,
+      "compression_ratio": 1.1395348837209303,
+      "end": 35.06,
+      "id": 3,
+      "no_speech_prob": 0.06933479011058807,
+      "seek": 2760,
+      "start": 27.6,
+      "temperature": 0,
+      "text": " symbol of power, but a crucial force in maintaining the balance of the ocean's delicate ecosystem.",
+      "tokens": [
+        50364,
+        5986,
+        295,
+        1347,
+        11,
+        457,
+        257,
+        11462,
+        3464,
+        294,
+        14916,
+        264,
+        4772,
+        295,
+        264,
+        7810,
+        311,
+        21417,
+        11311,
+        13,
+        50744
+      ],
+      "words": [
+        {
+          "end": 27.9,
+          "probability": 0.24024367332458496,
+          "start": 27.6,
+          "word": " symbol"
+        },
+        {
+          "end": 28.12,
+          "probability": 0.9024795889854431,
+          "start": 27.9,
+          "word": " of"
+        },
+        {
+          "end": 28.54,
+          "probability": 0.8010464310646057,
+          "start": 28.12,
+          "word": " power,"
+        },
+        {
+          "end": 29.56,
+          "probability": 0.8981031775474548,
+          "start": 29.08,
+          "word": " but"
+        },
+        {
+          "end": 29.7,
+          "probability": 0.9949918389320374,
+          "start": 29.56,
+          "word": " a"
+        },
+        {
+          "end": 30.06,
+          "probability": 0.7663359642028809,
+          "start": 29.7,
+          "word": " crucial"
+        },
+        {
+          "end": 30.64,
+          "probability": 0.9209269881248474,
+          "start": 30.06,
+          "word": " force"
+        },
+        {
+          "end": 30.98,
+          "probability": 0.9011935591697693,
+          "start": 30.64,
+          "word": " in"
+        },
+        {
+          "end": 31.46,
+          "probability": 0.6901928186416626,
+          "start": 30.98,
+          "word": " maintaining"
+        },
+        {
+          "end": 31.72,
+          "probability": 0.8187570571899414,
+          "start": 31.46,
+          "word": " the"
+        },
+        {
+          "end": 32.2,
+          "probability": 0.9176157116889954,
+          "start": 31.72,
+          "word": " balance"
+        },
+        {
+          "end": 32.5,
+          "probability": 0.905084490776062,
+          "start": 32.2,
+          "word": " of"
+        },
+        {
+          "end": 32.7,
+          "probability": 0.8164458274841309,
+          "start": 32.5,
+          "word": " the"
+        },
+        {
+          "end": 33.46,
+          "probability": 0.7369742691516876,
+          "start": 32.7,
+          "word": " ocean's"
+        },
+        {
+          "end": 34.06,
+          "probability": 0.8011370301246643,
+          "start": 33.46,
+          "word": " delicate"
+        },
+        {
+          "end": 35.06,
+          "probability": 0.8165118098258972,
+          "start": 34.06,
+          "word": " ecosystem."
+        }
+      ]
+    }
+  ],
+  "transcription": " Ah, a familiar face graces the ocean depths. The great shark, ruler of the seas, sits unchallenged at the top of the food chain. With its distinctive eyes, sleek, streamlined head, and powerful tail, this apex predator is perfectly adapted for dominance. Its presence is not just a symbol of power, but a crucial force in maintaining the balance of the ocean's delicate ecosystem."
+}

@@ -1,0 +1,96 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.6169137954711914,
+      "compression_ratio": 0.9516129032258065,
+      "end": 6.3,
+      "id": 0,
+      "no_speech_prob": 0.40178626775741577,
+      "seek": 0,
+      "start": 0.38,
+      "temperature": 0,
+      "text": " Another one bites the dust, Nature's tough laugh in action.",
+      "tokens": [
+        50364,
+        3996,
+        472,
+        26030,
+        264,
+        8634,
+        11,
+        20159,
+        311,
+        4930,
+        5801,
+        294,
+        3069,
+        13,
+        50780
+      ],
+      "words": [
+        {
+          "end": 1.34,
+          "probability": 0.5823442935943604,
+          "start": 0.38,
+          "word": " Another"
+        },
+        {
+          "end": 1.82,
+          "probability": 0.7489480376243591,
+          "start": 1.34,
+          "word": " one"
+        },
+        {
+          "end": 2.3,
+          "probability": 0.7306548357009888,
+          "start": 1.82,
+          "word": " bites"
+        },
+        {
+          "end": 2.56,
+          "probability": 0.8142637610435486,
+          "start": 2.3,
+          "word": " the"
+        },
+        {
+          "end": 3.02,
+          "probability": 0.830888569355011,
+          "start": 2.56,
+          "word": " dust,"
+        },
+        {
+          "end": 4.6,
+          "probability": 0.7384475916624069,
+          "start": 4.02,
+          "word": " Nature's"
+        },
+        {
+          "end": 4.9,
+          "probability": 0.7750650644302368,
+          "start": 4.6,
+          "word": " tough"
+        },
+        {
+          "end": 5.4,
+          "probability": 0.40560492873191833,
+          "start": 4.9,
+          "word": " laugh"
+        },
+        {
+          "end": 5.86,
+          "probability": 0.8710265159606934,
+          "start": 5.4,
+          "word": " in"
+        },
+        {
+          "end": 6.3,
+          "probability": 0.7608331441879272,
+          "start": 5.86,
+          "word": " action."
+        }
+      ]
+    }
+  ],
+  "transcription": " Another one bites the dust, Nature's tough laugh in action."
+}

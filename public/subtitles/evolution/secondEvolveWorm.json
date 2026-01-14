@@ -1,0 +1,284 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.32245186397007536,
+      "compression_ratio": 1.3880597014925373,
+      "end": 7.42,
+      "id": 0,
+      "no_speech_prob": 0.2128858119249344,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " The organism has evolved yet again, growing larger and now equipped with",
+      "tokens": [
+        50364,
+        440,
+        24128,
+        575,
+        14178,
+        1939,
+        797,
+        11,
+        4194,
+        4833,
+        293,
+        586,
+        15218,
+        365,
+        50731
+      ],
+      "words": [
+        {
+          "end": 0.72,
+          "probability": 0.7567676305770874,
+          "start": 0,
+          "word": " The"
+        },
+        {
+          "end": 1.32,
+          "probability": 0.8927515745162964,
+          "start": 0.72,
+          "word": " organism"
+        },
+        {
+          "end": 1.88,
+          "probability": 0.8948889970779419,
+          "start": 1.32,
+          "word": " has"
+        },
+        {
+          "end": 2.46,
+          "probability": 0.6837936639785767,
+          "start": 1.88,
+          "word": " evolved"
+        },
+        {
+          "end": 3.02,
+          "probability": 0.8888135552406311,
+          "start": 2.46,
+          "word": " yet"
+        },
+        {
+          "end": 3.5,
+          "probability": 0.9154183268547058,
+          "start": 3.02,
+          "word": " again,"
+        },
+        {
+          "end": 4.58,
+          "probability": 0.7416204810142517,
+          "start": 4.22,
+          "word": " growing"
+        },
+        {
+          "end": 5.22,
+          "probability": 0.8594179749488831,
+          "start": 4.58,
+          "word": " larger"
+        },
+        {
+          "end": 5.82,
+          "probability": 0.8106969594955444,
+          "start": 5.22,
+          "word": " and"
+        },
+        {
+          "end": 6.42,
+          "probability": 0.8950216174125671,
+          "start": 5.82,
+          "word": " now"
+        },
+        {
+          "end": 7.02,
+          "probability": 0.8195447325706482,
+          "start": 6.42,
+          "word": " equipped"
+        },
+        {
+          "end": 7.42,
+          "probability": 0.8221403360366821,
+          "start": 7.02,
+          "word": " with"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.32245186397007536,
+      "compression_ratio": 1.3880597014925373,
+      "end": 14.94,
+      "id": 1,
+      "no_speech_prob": 0.2128858119249344,
+      "seek": 0,
+      "start": 7.42,
+      "temperature": 0,
+      "text": " small eyes. These simple eyes offer the ability to sense light and movement",
+      "tokens": [
+        50731,
+        1359,
+        2575,
+        13,
+        1981,
+        2199,
+        2575,
+        2626,
+        264,
+        3485,
+        281,
+        2020,
+        1442,
+        293,
+        3963,
+        51110
+      ],
+      "words": [
+        {
+          "end": 8.16,
+          "probability": 0.7411221265792847,
+          "start": 7.42,
+          "word": " small"
+        },
+        {
+          "end": 8.92,
+          "probability": 0.8000388145446777,
+          "start": 8.16,
+          "word": " eyes."
+        },
+        {
+          "end": 10.02,
+          "probability": 0.8568820357322693,
+          "start": 9.8,
+          "word": " These"
+        },
+        {
+          "end": 10.52,
+          "probability": 0.9178905487060547,
+          "start": 10.02,
+          "word": " simple"
+        },
+        {
+          "end": 11.06,
+          "probability": 0.8081305623054504,
+          "start": 10.52,
+          "word": " eyes"
+        },
+        {
+          "end": 12.16,
+          "probability": 0.6723925471305847,
+          "start": 11.06,
+          "word": " offer"
+        },
+        {
+          "end": 12.38,
+          "probability": 0.8089431524276733,
+          "start": 12.16,
+          "word": " the"
+        },
+        {
+          "end": 12.86,
+          "probability": 0.8424664735794067,
+          "start": 12.38,
+          "word": " ability"
+        },
+        {
+          "end": 13.16,
+          "probability": 0.9089081883430481,
+          "start": 12.86,
+          "word": " to"
+        },
+        {
+          "end": 13.46,
+          "probability": 0.7345504760742188,
+          "start": 13.16,
+          "word": " sense"
+        },
+        {
+          "end": 13.94,
+          "probability": 0.7913681268692017,
+          "start": 13.46,
+          "word": " light"
+        },
+        {
+          "end": 14.28,
+          "probability": 0.8925966620445251,
+          "start": 13.94,
+          "word": " and"
+        },
+        {
+          "end": 14.94,
+          "probability": 0.8235774040222168,
+          "start": 14.28,
+          "word": " movement"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.32245186397007536,
+      "compression_ratio": 1.3880597014925373,
+      "end": 18.3,
+      "id": 2,
+      "no_speech_prob": 0.2128858119249344,
+      "seek": 0,
+      "start": 14.94,
+      "temperature": 0,
+      "text": " giving it an edge in its environment.",
+      "tokens": [
+        51110,
+        2902,
+        309,
+        364,
+        4691,
+        294,
+        1080,
+        2823,
+        13,
+        51388
+      ],
+      "words": [
+        {
+          "end": 15.84,
+          "probability": 0.17047959566116333,
+          "start": 14.94,
+          "word": " giving"
+        },
+        {
+          "end": 16.08,
+          "probability": 0.9005838632583618,
+          "start": 15.84,
+          "word": " it"
+        },
+        {
+          "end": 16.4,
+          "probability": 0.8938457369804382,
+          "start": 16.08,
+          "word": " an"
+        },
+        {
+          "end": 16.96,
+          "probability": 0.8270419836044312,
+          "start": 16.4,
+          "word": " edge"
+        },
+        {
+          "end": 17.5,
+          "probability": 0.9025750160217285,
+          "start": 16.96,
+          "word": " in"
+        },
+        {
+          "end": 17.66,
+          "probability": 0.7917667031288147,
+          "start": 17.5,
+          "word": " its"
+        },
+        {
+          "end": 18.3,
+          "probability": 0.7579418420791626,
+          "start": 17.66,
+          "word": " environment."
+        }
+      ]
+    }
+  ],
+  "transcription": " The organism has evolved yet again, growing larger and now equipped with small eyes. These simple eyes offer the ability to sense light and movement giving it an edge in its environment."
+}

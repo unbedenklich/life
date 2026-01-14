@@ -1,0 +1,382 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.31328113262469953,
+      "compression_ratio": 1.4864864864864864,
+      "end": 7.08,
+      "id": 0,
+      "no_speech_prob": 0.017530538141727448,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " Over the next few hundred million years, stromatolites begin to rise from the",
+      "tokens": [
+        50364,
+        4886,
+        264,
+        958,
+        1326,
+        3262,
+        2459,
+        924,
+        11,
+        1056,
+        34295,
+        401,
+        3324,
+        1841,
+        281,
+        6272,
+        490,
+        264,
+        50712
+      ],
+      "words": [
+        {
+          "end": 0.96,
+          "probability": 0.734981894493103,
+          "start": 0,
+          "word": " Over"
+        },
+        {
+          "end": 1.22,
+          "probability": 0.8129910826683044,
+          "start": 0.96,
+          "word": " the"
+        },
+        {
+          "end": 1.58,
+          "probability": 0.8449063301086426,
+          "start": 1.22,
+          "word": " next"
+        },
+        {
+          "end": 1.98,
+          "probability": 0.7795534729957581,
+          "start": 1.58,
+          "word": " few"
+        },
+        {
+          "end": 2.34,
+          "probability": 0.8189147114753723,
+          "start": 1.98,
+          "word": " hundred"
+        },
+        {
+          "end": 2.94,
+          "probability": 0.7858794331550598,
+          "start": 2.34,
+          "word": " million"
+        },
+        {
+          "end": 3.54,
+          "probability": 0.8836791515350342,
+          "start": 2.94,
+          "word": " years,"
+        },
+        {
+          "end": 5.58,
+          "probability": 0.8748984485864639,
+          "start": 4.6,
+          "word": " stromatolites"
+        },
+        {
+          "end": 5.94,
+          "probability": 0.7624194622039795,
+          "start": 5.58,
+          "word": " begin"
+        },
+        {
+          "end": 6.24,
+          "probability": 0.9034104943275452,
+          "start": 5.94,
+          "word": " to"
+        },
+        {
+          "end": 6.58,
+          "probability": 0.8741828799247742,
+          "start": 6.24,
+          "word": " rise"
+        },
+        {
+          "end": 6.84,
+          "probability": 0.8187242150306702,
+          "start": 6.58,
+          "word": " from"
+        },
+        {
+          "end": 7.08,
+          "probability": 0.8147456049919128,
+          "start": 6.84,
+          "word": " the"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.31328113262469953,
+      "compression_ratio": 1.4864864864864864,
+      "end": 15.48,
+      "id": 1,
+      "no_speech_prob": 0.017530538141727448,
+      "seek": 0,
+      "start": 7.08,
+      "temperature": 0,
+      "text": " seafloor, formed by the activity of ancient Siona bacterias. These microbial",
+      "tokens": [
+        50712,
+        369,
+        2792,
+        752,
+        284,
+        11,
+        8693,
+        538,
+        264,
+        5191,
+        295,
+        7832,
+        318,
+        21758,
+        9755,
+        4609,
+        13,
+        1981,
+        49713,
+        831,
+        51134
+      ],
+      "words": [
+        {
+          "end": 7.7,
+          "probability": 0.8672342449426651,
+          "start": 7.08,
+          "word": " seafloor,"
+        },
+        {
+          "end": 8.8,
+          "probability": 0.752290666103363,
+          "start": 8.34,
+          "word": " formed"
+        },
+        {
+          "end": 9.08,
+          "probability": 0.8973746299743652,
+          "start": 8.8,
+          "word": " by"
+        },
+        {
+          "end": 9.26,
+          "probability": 0.8136685490608215,
+          "start": 9.08,
+          "word": " the"
+        },
+        {
+          "end": 9.76,
+          "probability": 0.7527974843978882,
+          "start": 9.26,
+          "word": " activity"
+        },
+        {
+          "end": 10.1,
+          "probability": 0.9058043360710144,
+          "start": 9.76,
+          "word": " of"
+        },
+        {
+          "end": 10.78,
+          "probability": 0.7615742683410645,
+          "start": 10.1,
+          "word": " ancient"
+        },
+        {
+          "end": 11.52,
+          "probability": 0.40923205204308033,
+          "start": 10.78,
+          "word": " Siona"
+        },
+        {
+          "end": 12.52,
+          "probability": 0.7348481118679047,
+          "start": 11.52,
+          "word": " bacterias."
+        },
+        {
+          "end": 14.7,
+          "probability": 0.8945470452308655,
+          "start": 14.06,
+          "word": " These"
+        },
+        {
+          "end": 15.48,
+          "probability": 0.8949660658836365,
+          "start": 14.7,
+          "word": " microbial"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.31328113262469953,
+      "compression_ratio": 1.4864864864864864,
+      "end": 22.400000000000002,
+      "id": 2,
+      "no_speech_prob": 0.017530538141727448,
+      "seek": 0,
+      "start": 15.48,
+      "temperature": 0,
+      "text": " reefs slowly alter the oceans chemistry, releasing oxygen into the water and",
+      "tokens": [
+        51134,
+        50054,
+        5692,
+        11337,
+        264,
+        25004,
+        12558,
+        11,
+        16327,
+        9169,
+        666,
+        264,
+        1281,
+        293,
+        51484
+      ],
+      "words": [
+        {
+          "end": 15.92,
+          "probability": 0.7076244950294495,
+          "start": 15.48,
+          "word": " reefs"
+        },
+        {
+          "end": 17.1,
+          "probability": 0.8382760286331177,
+          "start": 15.92,
+          "word": " slowly"
+        },
+        {
+          "end": 17.88,
+          "probability": 0.7803196310997009,
+          "start": 17.1,
+          "word": " alter"
+        },
+        {
+          "end": 18.2,
+          "probability": 0.8078708648681641,
+          "start": 17.88,
+          "word": " the"
+        },
+        {
+          "end": 18.66,
+          "probability": 0.44477611780166626,
+          "start": 18.2,
+          "word": " oceans"
+        },
+        {
+          "end": 19.44,
+          "probability": 0.6653134822845459,
+          "start": 18.66,
+          "word": " chemistry,"
+        },
+        {
+          "end": 20.54,
+          "probability": 0.9243853092193604,
+          "start": 20.08,
+          "word": " releasing"
+        },
+        {
+          "end": 21.2,
+          "probability": 0.8737850189208984,
+          "start": 20.54,
+          "word": " oxygen"
+        },
+        {
+          "end": 21.6,
+          "probability": 0.7294259071350098,
+          "start": 21.2,
+          "word": " into"
+        },
+        {
+          "end": 21.86,
+          "probability": 0.8108637928962708,
+          "start": 21.6,
+          "word": " the"
+        },
+        {
+          "end": 22.24,
+          "probability": 0.8067880868911743,
+          "start": 21.86,
+          "word": " water"
+        },
+        {
+          "end": 22.400000000000002,
+          "probability": 0.8093119263648987,
+          "start": 22.24,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.31328113262469953,
+      "compression_ratio": 1.4864864864864864,
+      "end": 26.08,
+      "id": 3,
+      "no_speech_prob": 0.017530538141727448,
+      "seek": 0,
+      "start": 22.94,
+      "temperature": 0,
+      "text": " laying the foundations of early ecosystems.",
+      "tokens": [
+        51484,
+        14903,
+        264,
+        22467,
+        295,
+        2440,
+        32647,
+        13,
+        51774
+      ],
+      "words": [
+        {
+          "end": 23.22,
+          "probability": 0.8078047633171082,
+          "start": 22.94,
+          "word": " laying"
+        },
+        {
+          "end": 23.44,
+          "probability": 0.8137915730476379,
+          "start": 23.22,
+          "word": " the"
+        },
+        {
+          "end": 24,
+          "probability": 0.8855738639831543,
+          "start": 23.44,
+          "word": " foundations"
+        },
+        {
+          "end": 24.5,
+          "probability": 0.8996174335479736,
+          "start": 24,
+          "word": " of"
+        },
+        {
+          "end": 25.1,
+          "probability": 0.87366783618927,
+          "start": 24.5,
+          "word": " early"
+        },
+        {
+          "end": 26.08,
+          "probability": 0.6891846060752869,
+          "start": 25.1,
+          "word": " ecosystems."
+        }
+      ]
+    }
+  ],
+  "transcription": " Over the next few hundred million years, stromatolites begin to rise from the seafloor, formed by the activity of ancient Siona bacterias. These microbial reefs slowly alter the oceans chemistry, releasing oxygen into the water and laying the foundations of early ecosystems."
+}

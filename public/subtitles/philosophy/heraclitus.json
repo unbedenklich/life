@@ -1,0 +1,174 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.35164499282836914,
+      "compression_ratio": 1.3472222222222223,
+      "end": 8.06,
+      "id": 0,
+      "no_speech_prob": 0.4153655171394348,
+      "seek": 0,
+      "start": 0.26,
+      "temperature": 0,
+      "text": " No man ever steps in the same river twice, for it's not the same river and he's not the same man.",
+      "tokens": [
+        50364,
+        883,
+        587,
+        1562,
+        4439,
+        294,
+        264,
+        912,
+        6810,
+        6091,
+        11,
+        337,
+        309,
+        311,
+        406,
+        264,
+        912,
+        6810,
+        293,
+        415,
+        311,
+        406,
+        264,
+        912,
+        587,
+        13,
+        50814
+      ],
+      "words": [
+        {
+          "end": 0.86,
+          "probability": 0.4367835819721222,
+          "start": 0.26,
+          "word": " No"
+        },
+        {
+          "end": 1.28,
+          "probability": 0.8573938608169556,
+          "start": 0.86,
+          "word": " man"
+        },
+        {
+          "end": 1.68,
+          "probability": 0.8186358213424683,
+          "start": 1.28,
+          "word": " ever"
+        },
+        {
+          "end": 2.16,
+          "probability": 0.6889863610267639,
+          "start": 1.68,
+          "word": " steps"
+        },
+        {
+          "end": 2.36,
+          "probability": 0.8724436163902283,
+          "start": 2.16,
+          "word": " in"
+        },
+        {
+          "end": 2.56,
+          "probability": 0.8035717010498047,
+          "start": 2.36,
+          "word": " the"
+        },
+        {
+          "end": 2.86,
+          "probability": 0.8267967700958252,
+          "start": 2.56,
+          "word": " same"
+        },
+        {
+          "end": 3.14,
+          "probability": 0.7309519052505493,
+          "start": 2.86,
+          "word": " river"
+        },
+        {
+          "end": 3.76,
+          "probability": 0.8663851022720337,
+          "start": 3.14,
+          "word": " twice,"
+        },
+        {
+          "end": 4.62,
+          "probability": 0.7991946339607239,
+          "start": 4.22,
+          "word": " for"
+        },
+        {
+          "end": 4.82,
+          "probability": 0.8481675982475281,
+          "start": 4.62,
+          "word": " it's"
+        },
+        {
+          "end": 5.04,
+          "probability": 0.8943498134613037,
+          "start": 4.82,
+          "word": " not"
+        },
+        {
+          "end": 5.22,
+          "probability": 0.8144311308860779,
+          "start": 5.04,
+          "word": " the"
+        },
+        {
+          "end": 5.46,
+          "probability": 0.8218743205070496,
+          "start": 5.22,
+          "word": " same"
+        },
+        {
+          "end": 5.8,
+          "probability": 0.7545371651649475,
+          "start": 5.46,
+          "word": " river"
+        },
+        {
+          "end": 6.56,
+          "probability": 0.5679218769073486,
+          "start": 5.8,
+          "word": " and"
+        },
+        {
+          "end": 7.04,
+          "probability": 0.822968989610672,
+          "start": 6.56,
+          "word": " he's"
+        },
+        {
+          "end": 7.24,
+          "probability": 0.8941559195518494,
+          "start": 7.04,
+          "word": " not"
+        },
+        {
+          "end": 7.44,
+          "probability": 0.816795825958252,
+          "start": 7.24,
+          "word": " the"
+        },
+        {
+          "end": 7.7,
+          "probability": 0.8175235390663147,
+          "start": 7.44,
+          "word": " same"
+        },
+        {
+          "end": 8.06,
+          "probability": 0.9003928303718567,
+          "start": 7.7,
+          "word": " man."
+        }
+      ]
+    }
+  ],
+  "transcription": " No man ever steps in the same river twice, for it's not the same river and he's not the same man."
+}

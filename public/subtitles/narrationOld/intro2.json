@@ -1,0 +1,311 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3847325268913718,
+      "compression_ratio": 1.4350649350649352,
+      "end": 8,
+      "id": 0,
+      "no_speech_prob": 0.3338369131088257,
+      "seek": 0,
+      "start": 0.74,
+      "temperature": 0,
+      "text": " As it explodes the silent world, the cell encounters lower lifeforms.",
+      "tokens": [
+        50364,
+        1018,
+        309,
+        42610,
+        264,
+        12784,
+        1002,
+        11,
+        264,
+        2815,
+        26310,
+        3126,
+        993,
+        837,
+        82,
+        13,
+        50764
+      ],
+      "words": [
+        {
+          "end": 1.98,
+          "probability": 0.840655505657196,
+          "start": 0.74,
+          "word": " As"
+        },
+        {
+          "end": 2.16,
+          "probability": 0.9032147526741028,
+          "start": 1.98,
+          "word": " it"
+        },
+        {
+          "end": 2.8,
+          "probability": 0.3608040511608124,
+          "start": 2.16,
+          "word": " explodes"
+        },
+        {
+          "end": 3.14,
+          "probability": 0.661621630191803,
+          "start": 2.8,
+          "word": " the"
+        },
+        {
+          "end": 3.56,
+          "probability": 0.792474627494812,
+          "start": 3.14,
+          "word": " silent"
+        },
+        {
+          "end": 4.24,
+          "probability": 0.865805983543396,
+          "start": 3.56,
+          "word": " world,"
+        },
+        {
+          "end": 5.26,
+          "probability": 0.7916808128356934,
+          "start": 5.08,
+          "word": " the"
+        },
+        {
+          "end": 5.54,
+          "probability": 0.7652137875556946,
+          "start": 5.26,
+          "word": " cell"
+        },
+        {
+          "end": 6.32,
+          "probability": 0.706062376499176,
+          "start": 5.54,
+          "word": " encounters"
+        },
+        {
+          "end": 7.12,
+          "probability": 0.8145217299461365,
+          "start": 6.32,
+          "word": " lower"
+        },
+        {
+          "end": 8,
+          "probability": 0.732490748167038,
+          "start": 7.12,
+          "word": " lifeforms."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3847325268913718,
+      "compression_ratio": 1.4350649350649352,
+      "end": 13.44,
+      "id": 1,
+      "no_speech_prob": 0.3338369131088257,
+      "seek": 0,
+      "start": 9.42,
+      "temperature": 0,
+      "text": " Tiny particles of organic matter floating aimlessly.",
+      "tokens": [
+        50814,
+        39992,
+        10007,
+        295,
+        10220,
+        1871,
+        12607,
+        5939,
+        12048,
+        13,
+        51064
+      ],
+      "words": [
+        {
+          "end": 9.84,
+          "probability": 0.874442994594574,
+          "start": 9.42,
+          "word": " Tiny"
+        },
+        {
+          "end": 10.46,
+          "probability": 0.8828704953193665,
+          "start": 9.84,
+          "word": " particles"
+        },
+        {
+          "end": 10.8,
+          "probability": 0.9013041257858276,
+          "start": 10.46,
+          "word": " of"
+        },
+        {
+          "end": 11.24,
+          "probability": 0.8217162489891052,
+          "start": 10.8,
+          "word": " organic"
+        },
+        {
+          "end": 11.7,
+          "probability": 0.839574933052063,
+          "start": 11.24,
+          "word": " matter"
+        },
+        {
+          "end": 12.74,
+          "probability": 0.5404810905456543,
+          "start": 11.7,
+          "word": " floating"
+        },
+        {
+          "end": 13.44,
+          "probability": 0.8932934105396271,
+          "start": 12.74,
+          "word": " aimlessly."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3847325268913718,
+      "compression_ratio": 1.4350649350649352,
+      "end": 24.44,
+      "id": 2,
+      "no_speech_prob": 0.3338369131088257,
+      "seek": 0,
+      "start": 14.4,
+      "temperature": 0,
+      "text": " These are its prey and without hesitation the cell extends its membrane engulfing them one by one.",
+      "tokens": [
+        51064,
+        1981,
+        366,
+        1080,
+        21107,
+        293,
+        1553,
+        36125,
+        264,
+        2815,
+        26448,
+        1080,
+        19651,
+        1741,
+        5757,
+        278,
+        552,
+        472,
+        538,
+        472,
+        13,
+        51614
+      ],
+      "words": [
+        {
+          "end": 14.86,
+          "probability": 0.9003872275352478,
+          "start": 14.4,
+          "word": " These"
+        },
+        {
+          "end": 15.14,
+          "probability": 0.8937050700187683,
+          "start": 14.86,
+          "word": " are"
+        },
+        {
+          "end": 15.3,
+          "probability": 0.7746198177337646,
+          "start": 15.14,
+          "word": " its"
+        },
+        {
+          "end": 15.74,
+          "probability": 0.7865563035011292,
+          "start": 15.3,
+          "word": " prey"
+        },
+        {
+          "end": 17,
+          "probability": 0.4540966749191284,
+          "start": 15.74,
+          "word": " and"
+        },
+        {
+          "end": 17.66,
+          "probability": 0.70793616771698,
+          "start": 17,
+          "word": " without"
+        },
+        {
+          "end": 18.38,
+          "probability": 0.8174206614494324,
+          "start": 17.66,
+          "word": " hesitation"
+        },
+        {
+          "end": 19.32,
+          "probability": 0.5367531180381775,
+          "start": 18.38,
+          "word": " the"
+        },
+        {
+          "end": 19.6,
+          "probability": 0.8284263014793396,
+          "start": 19.32,
+          "word": " cell"
+        },
+        {
+          "end": 20.14,
+          "probability": 0.7709364891052246,
+          "start": 19.6,
+          "word": " extends"
+        },
+        {
+          "end": 20.42,
+          "probability": 0.7906349301338196,
+          "start": 20.14,
+          "word": " its"
+        },
+        {
+          "end": 21.02,
+          "probability": 0.7993115782737732,
+          "start": 20.42,
+          "word": " membrane"
+        },
+        {
+          "end": 22.1,
+          "probability": 0.8198261062304179,
+          "start": 21.02,
+          "word": " engulfing"
+        },
+        {
+          "end": 22.34,
+          "probability": 0.7387054562568665,
+          "start": 22.1,
+          "word": " them"
+        },
+        {
+          "end": 23.06,
+          "probability": 0.6946339011192322,
+          "start": 22.34,
+          "word": " one"
+        },
+        {
+          "end": 23.76,
+          "probability": 0.8873714208602905,
+          "start": 23.06,
+          "word": " by"
+        },
+        {
+          "end": 24.44,
+          "probability": 0.8273256421089172,
+          "start": 23.76,
+          "word": " one."
+        }
+      ]
+    }
+  ],
+  "transcription": " As it explodes the silent world, the cell encounters lower lifeforms. Tiny particles of organic matter floating aimlessly. These are its prey and without hesitation the cell extends its membrane engulfing them one by one."
+}

@@ -1,0 +1,301 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.2900358415999503,
+      "compression_ratio": 1.3835616438356164,
+      "end": 5.72,
+      "id": 0,
+      "no_speech_prob": 0.16980044543743134,
+      "seek": 0,
+      "start": 0.6,
+      "temperature": 0,
+      "text": " As our cell evolves, so too does its environment.",
+      "tokens": [
+        50364,
+        1018,
+        527,
+        2815,
+        43737,
+        11,
+        370,
+        886,
+        775,
+        1080,
+        2823,
+        13,
+        50714
+      ],
+      "words": [
+        {
+          "end": 1.48,
+          "probability": 0.7973345518112183,
+          "start": 0.6,
+          "word": " As"
+        },
+        {
+          "end": 1.92,
+          "probability": 0.8132457733154297,
+          "start": 1.48,
+          "word": " our"
+        },
+        {
+          "end": 2.36,
+          "probability": 0.7870122194290161,
+          "start": 1.92,
+          "word": " cell"
+        },
+        {
+          "end": 3.18,
+          "probability": 0.7976460456848145,
+          "start": 2.36,
+          "word": " evolves,"
+        },
+        {
+          "end": 3.86,
+          "probability": 0.8948277831077576,
+          "start": 3.5,
+          "word": " so"
+        },
+        {
+          "end": 4.34,
+          "probability": 0.6927112936973572,
+          "start": 3.86,
+          "word": " too"
+        },
+        {
+          "end": 4.84,
+          "probability": 0.9026097655296326,
+          "start": 4.34,
+          "word": " does"
+        },
+        {
+          "end": 5.02,
+          "probability": 0.7733423113822937,
+          "start": 4.84,
+          "word": " its"
+        },
+        {
+          "end": 5.72,
+          "probability": 0.7513184547424316,
+          "start": 5.02,
+          "word": " environment."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2900358415999503,
+      "compression_ratio": 1.3835616438356164,
+      "end": 12.08,
+      "id": 1,
+      "no_speech_prob": 0.16980044543743134,
+      "seek": 0,
+      "start": 6.96,
+      "temperature": 0,
+      "text": " The impenetrable blackness gives way to a deep navy blue.",
+      "tokens": [
+        50714,
+        440,
+        704,
+        268,
+        302,
+        424,
+        638,
+        2211,
+        1287,
+        2709,
+        636,
+        281,
+        257,
+        2452,
+        31319,
+        3344,
+        13,
+        51022
+      ],
+      "words": [
+        {
+          "end": 7.12,
+          "probability": 0.8036671876907349,
+          "start": 6.96,
+          "word": " The"
+        },
+        {
+          "end": 8.02,
+          "probability": 0.9425713300704956,
+          "start": 7.12,
+          "word": " impenetrable"
+        },
+        {
+          "end": 8.9,
+          "probability": 0.9332253932952881,
+          "start": 8.02,
+          "word": " blackness"
+        },
+        {
+          "end": 9.66,
+          "probability": 0.8438225388526917,
+          "start": 8.9,
+          "word": " gives"
+        },
+        {
+          "end": 10.04,
+          "probability": 0.886867105960846,
+          "start": 9.66,
+          "word": " way"
+        },
+        {
+          "end": 10.3,
+          "probability": 0.9029839634895325,
+          "start": 10.04,
+          "word": " to"
+        },
+        {
+          "end": 10.5,
+          "probability": 0.9904153347015381,
+          "start": 10.3,
+          "word": " a"
+        },
+        {
+          "end": 10.86,
+          "probability": 0.9389880895614624,
+          "start": 10.5,
+          "word": " deep"
+        },
+        {
+          "end": 11.68,
+          "probability": 0.4827796220779419,
+          "start": 10.86,
+          "word": " navy"
+        },
+        {
+          "end": 12.08,
+          "probability": 0.8221453428268433,
+          "start": 11.68,
+          "word": " blue."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2900358415999503,
+      "compression_ratio": 1.3835616438356164,
+      "end": 20.02,
+      "id": 2,
+      "no_speech_prob": 0.16980044543743134,
+      "seek": 0,
+      "start": 13.04,
+      "temperature": 0,
+      "text": " We've ascended slightly to depths where the faintest glimmer of sunlight manages to penetrate.",
+      "tokens": [
+        51022,
+        492,
+        600,
+        15526,
+        3502,
+        4748,
+        281,
+        28439,
+        689,
+        264,
+        21104,
+        377,
+        1563,
+        14477,
+        295,
+        18379,
+        22489,
+        281,
+        36307,
+        13,
+        51386
+      ],
+      "words": [
+        {
+          "end": 13.36,
+          "probability": 0.893254965543747,
+          "start": 13.04,
+          "word": " We've"
+        },
+        {
+          "end": 13.88,
+          "probability": 0.8687855005264282,
+          "start": 13.36,
+          "word": " ascended"
+        },
+        {
+          "end": 14.54,
+          "probability": 0.757310688495636,
+          "start": 13.88,
+          "word": " slightly"
+        },
+        {
+          "end": 15.3,
+          "probability": 0.7591043710708618,
+          "start": 14.54,
+          "word": " to"
+        },
+        {
+          "end": 15.74,
+          "probability": 0.6763876676559448,
+          "start": 15.3,
+          "word": " depths"
+        },
+        {
+          "end": 16.14,
+          "probability": 0.8994930386543274,
+          "start": 15.74,
+          "word": " where"
+        },
+        {
+          "end": 16.34,
+          "probability": 0.800600528717041,
+          "start": 16.14,
+          "word": " the"
+        },
+        {
+          "end": 16.84,
+          "probability": 0.8915866613388062,
+          "start": 16.34,
+          "word": " faintest"
+        },
+        {
+          "end": 17.16,
+          "probability": 0.9242199659347534,
+          "start": 16.84,
+          "word": " glimmer"
+        },
+        {
+          "end": 17.42,
+          "probability": 0.9087905883789062,
+          "start": 17.16,
+          "word": " of"
+        },
+        {
+          "end": 18.1,
+          "probability": 0.8599992394447327,
+          "start": 17.42,
+          "word": " sunlight"
+        },
+        {
+          "end": 19.2,
+          "probability": 0.811832070350647,
+          "start": 18.1,
+          "word": " manages"
+        },
+        {
+          "end": 19.64,
+          "probability": 0.9009811282157898,
+          "start": 19.2,
+          "word": " to"
+        },
+        {
+          "end": 20.02,
+          "probability": 0.8958856463432312,
+          "start": 19.64,
+          "word": " penetrate."
+        }
+      ]
+    }
+  ],
+  "transcription": " As our cell evolves, so too does its environment. The impenetrable blackness gives way to a deep navy blue. We've ascended slightly to depths where the faintest glimmer of sunlight manages to penetrate."
+}

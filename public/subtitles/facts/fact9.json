@@ -1,0 +1,162 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.30877803802490233,
+      "compression_ratio": 1.1910112359550562,
+      "end": 7.74,
+      "id": 0,
+      "no_speech_prob": 0.25110292434692383,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " The collective biomass of ocean microbes outweighs that of all the oceans fish",
+      "tokens": [
+        50364,
+        440,
+        12590,
+        47420,
+        295,
+        7810,
+        35996,
+        484,
+        826,
+        10311,
+        300,
+        295,
+        439,
+        264,
+        25004,
+        3506,
+        50742
+      ],
+      "words": [
+        {
+          "end": 1.06,
+          "probability": 0.6643124222755432,
+          "start": 0,
+          "word": " The"
+        },
+        {
+          "end": 1.62,
+          "probability": 0.7371755838394165,
+          "start": 1.06,
+          "word": " collective"
+        },
+        {
+          "end": 2.28,
+          "probability": 0.7750818729400635,
+          "start": 1.62,
+          "word": " biomass"
+        },
+        {
+          "end": 2.94,
+          "probability": 0.9094860553741455,
+          "start": 2.28,
+          "word": " of"
+        },
+        {
+          "end": 3.52,
+          "probability": 0.8171069622039795,
+          "start": 2.94,
+          "word": " ocean"
+        },
+        {
+          "end": 4.36,
+          "probability": 0.7998444437980652,
+          "start": 3.52,
+          "word": " microbes"
+        },
+        {
+          "end": 5.22,
+          "probability": 0.8945516347885132,
+          "start": 4.36,
+          "word": " outweighs"
+        },
+        {
+          "end": 5.54,
+          "probability": 0.874829113483429,
+          "start": 5.22,
+          "word": " that"
+        },
+        {
+          "end": 5.98,
+          "probability": 0.9036847949028015,
+          "start": 5.54,
+          "word": " of"
+        },
+        {
+          "end": 6.62,
+          "probability": 0.8860656023025513,
+          "start": 5.98,
+          "word": " all"
+        },
+        {
+          "end": 6.86,
+          "probability": 0.7972505688667297,
+          "start": 6.62,
+          "word": " the"
+        },
+        {
+          "end": 7.3,
+          "probability": 0.6014538407325745,
+          "start": 6.86,
+          "word": " oceans"
+        },
+        {
+          "end": 7.74,
+          "probability": 0.5013934373855591,
+          "start": 7.3,
+          "word": " fish"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.30877803802490233,
+      "compression_ratio": 1.1910112359550562,
+      "end": 10.26,
+      "id": 1,
+      "no_speech_prob": 0.25110292434692383,
+      "seek": 0,
+      "start": 7.74,
+      "temperature": 0,
+      "text": " and large animals combined.",
+      "tokens": [
+        50742,
+        293,
+        2416,
+        4882,
+        9354,
+        13,
+        50972
+      ],
+      "words": [
+        {
+          "end": 8.4,
+          "probability": 0.866486668586731,
+          "start": 7.74,
+          "word": " and"
+        },
+        {
+          "end": 8.86,
+          "probability": 0.9260869026184082,
+          "start": 8.4,
+          "word": " large"
+        },
+        {
+          "end": 9.46,
+          "probability": 0.8302276730537415,
+          "start": 8.86,
+          "word": " animals"
+        },
+        {
+          "end": 10.26,
+          "probability": 0.8384172916412354,
+          "start": 9.46,
+          "word": " combined."
+        }
+      ]
+    }
+  ],
+  "transcription": " The collective biomass of ocean microbes outweighs that of all the oceans fish and large animals combined."
+}

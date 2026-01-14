@@ -1,0 +1,371 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.2766973404657273,
+      "compression_ratio": 1.4682080924855492,
+      "end": 6.98,
+      "id": 0,
+      "no_speech_prob": 0.03361065313220024,
+      "seek": 0,
+      "start": 0.42,
+      "temperature": 0,
+      "text": " Here we have a lone sail, drifting through the ancient lightless ocean.",
+      "tokens": [
+        50364,
+        1692,
+        321,
+        362,
+        257,
+        35314,
+        15758,
+        11,
+        37973,
+        807,
+        264,
+        7832,
+        1442,
+        1832,
+        7810,
+        13,
+        50714
+      ],
+      "words": [
+        {
+          "end": 1.34,
+          "probability": 0.744190514087677,
+          "start": 0.42,
+          "word": " Here"
+        },
+        {
+          "end": 1.56,
+          "probability": 0.8788143396377563,
+          "start": 1.34,
+          "word": " we"
+        },
+        {
+          "end": 1.84,
+          "probability": 0.8805068135261536,
+          "start": 1.56,
+          "word": " have"
+        },
+        {
+          "end": 2.02,
+          "probability": 0.9877325296401978,
+          "start": 1.84,
+          "word": " a"
+        },
+        {
+          "end": 2.32,
+          "probability": 0.8539851903915405,
+          "start": 2.02,
+          "word": " lone"
+        },
+        {
+          "end": 2.88,
+          "probability": 0.3269689381122589,
+          "start": 2.32,
+          "word": " sail,"
+        },
+        {
+          "end": 4.3,
+          "probability": 0.7968491315841675,
+          "start": 3.92,
+          "word": " drifting"
+        },
+        {
+          "end": 4.9,
+          "probability": 0.7811284065246582,
+          "start": 4.3,
+          "word": " through"
+        },
+        {
+          "end": 5.12,
+          "probability": 0.8110039234161377,
+          "start": 4.9,
+          "word": " the"
+        },
+        {
+          "end": 5.64,
+          "probability": 0.8094822764396667,
+          "start": 5.12,
+          "word": " ancient"
+        },
+        {
+          "end": 6.38,
+          "probability": 0.8087204098701477,
+          "start": 5.64,
+          "word": " lightless"
+        },
+        {
+          "end": 6.98,
+          "probability": 0.8541193604469299,
+          "start": 6.38,
+          "word": " ocean."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2766973404657273,
+      "compression_ratio": 1.4682080924855492,
+      "end": 13.42,
+      "id": 1,
+      "no_speech_prob": 0.03361065313220024,
+      "seek": 0,
+      "start": 8.54,
+      "temperature": 0,
+      "text": " It moves with purpose, driven by a primal instinct to survive.",
+      "tokens": [
+        50764,
+        467,
+        6067,
+        365,
+        4334,
+        11,
+        9555,
+        538,
+        257,
+        2886,
+        304,
+        16556,
+        281,
+        7867,
+        13,
+        51014
+      ],
+      "words": [
+        {
+          "end": 8.76,
+          "probability": 0.8910517692565918,
+          "start": 8.54,
+          "word": " It"
+        },
+        {
+          "end": 9.1,
+          "probability": 0.8237561583518982,
+          "start": 8.76,
+          "word": " moves"
+        },
+        {
+          "end": 9.34,
+          "probability": 0.8205429911613464,
+          "start": 9.1,
+          "word": " with"
+        },
+        {
+          "end": 9.92,
+          "probability": 0.7819185853004456,
+          "start": 9.34,
+          "word": " purpose,"
+        },
+        {
+          "end": 10.8,
+          "probability": 0.9055370092391968,
+          "start": 10.54,
+          "word": " driven"
+        },
+        {
+          "end": 11.12,
+          "probability": 0.9008582234382629,
+          "start": 10.8,
+          "word": " by"
+        },
+        {
+          "end": 11.32,
+          "probability": 0.9920509457588196,
+          "start": 11.12,
+          "word": " a"
+        },
+        {
+          "end": 11.78,
+          "probability": 0.9052297472953796,
+          "start": 11.32,
+          "word": " primal"
+        },
+        {
+          "end": 12.32,
+          "probability": 0.8598424196243286,
+          "start": 11.78,
+          "word": " instinct"
+        },
+        {
+          "end": 12.74,
+          "probability": 0.9027557969093323,
+          "start": 12.32,
+          "word": " to"
+        },
+        {
+          "end": 13.42,
+          "probability": 0.8094123005867004,
+          "start": 12.74,
+          "word": " survive."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2766973404657273,
+      "compression_ratio": 1.4682080924855492,
+      "end": 24.84,
+      "id": 2,
+      "no_speech_prob": 0.03361065313220024,
+      "seek": 0,
+      "start": 14.74,
+      "temperature": 0,
+      "text": " Every shift in direction, every subtle glide through the water, is a search for sustenance in this vast, shadowy world.",
+      "tokens": [
+        51064,
+        2048,
+        5513,
+        294,
+        3513,
+        11,
+        633,
+        13743,
+        41848,
+        807,
+        264,
+        1281,
+        11,
+        307,
+        257,
+        3164,
+        337,
+        5402,
+        268,
+        719,
+        294,
+        341,
+        8369,
+        11,
+        8576,
+        88,
+        1002,
+        13,
+        51614
+      ],
+      "words": [
+        {
+          "end": 15.4,
+          "probability": 0.7873965501785278,
+          "start": 14.74,
+          "word": " Every"
+        },
+        {
+          "end": 15.86,
+          "probability": 0.9301729202270508,
+          "start": 15.4,
+          "word": " shift"
+        },
+        {
+          "end": 16.1,
+          "probability": 0.901870608329773,
+          "start": 15.86,
+          "word": " in"
+        },
+        {
+          "end": 16.64,
+          "probability": 0.9167776107788086,
+          "start": 16.1,
+          "word": " direction,"
+        },
+        {
+          "end": 17.64,
+          "probability": 0.7285417318344116,
+          "start": 17.26,
+          "word": " every"
+        },
+        {
+          "end": 18.16,
+          "probability": 0.6591542959213257,
+          "start": 17.64,
+          "word": " subtle"
+        },
+        {
+          "end": 18.7,
+          "probability": 0.7756683230400085,
+          "start": 18.16,
+          "word": " glide"
+        },
+        {
+          "end": 18.96,
+          "probability": 0.7937543392181396,
+          "start": 18.7,
+          "word": " through"
+        },
+        {
+          "end": 19.14,
+          "probability": 0.7997960448265076,
+          "start": 18.96,
+          "word": " the"
+        },
+        {
+          "end": 19.52,
+          "probability": 0.8088440299034119,
+          "start": 19.14,
+          "word": " water,"
+        },
+        {
+          "end": 20.42,
+          "probability": 0.8949641585350037,
+          "start": 20.28,
+          "word": " is"
+        },
+        {
+          "end": 20.62,
+          "probability": 0.9937447905540466,
+          "start": 20.42,
+          "word": " a"
+        },
+        {
+          "end": 20.94,
+          "probability": 0.9337389469146729,
+          "start": 20.62,
+          "word": " search"
+        },
+        {
+          "end": 21.2,
+          "probability": 0.8986011743545532,
+          "start": 20.94,
+          "word": " for"
+        },
+        {
+          "end": 22.06,
+          "probability": 0.9012035330136617,
+          "start": 21.2,
+          "word": " sustenance"
+        },
+        {
+          "end": 22.52,
+          "probability": 0.888817310333252,
+          "start": 22.06,
+          "word": " in"
+        },
+        {
+          "end": 22.76,
+          "probability": 0.8733792901039124,
+          "start": 22.52,
+          "word": " this"
+        },
+        {
+          "end": 23.42,
+          "probability": 0.8918551802635193,
+          "start": 22.76,
+          "word": " vast,"
+        },
+        {
+          "end": 24.4,
+          "probability": 0.8275662362575531,
+          "start": 23.88,
+          "word": " shadowy"
+        },
+        {
+          "end": 24.84,
+          "probability": 0.8734070062637329,
+          "start": 24.4,
+          "word": " world."
+        }
+      ]
+    }
+  ],
+  "transcription": " Here we have a lone sail, drifting through the ancient lightless ocean. It moves with purpose, driven by a primal instinct to survive. Every shift in direction, every subtle glide through the water, is a search for sustenance in this vast, shadowy world."
+}

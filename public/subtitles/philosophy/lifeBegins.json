@@ -1,0 +1,257 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.29671521413893925,
+      "compression_ratio": 1.3064516129032258,
+      "end": 7.76,
+      "id": 0,
+      "no_speech_prob": 0.16387510299682617,
+      "seek": 0,
+      "start": 0.06,
+      "temperature": 0,
+      "text": " Life begins small, a mere speck in the vastness of the cosmos. Yet for life to",
+      "tokens": [
+        50364,
+        7720,
+        7338,
+        1359,
+        11,
+        257,
+        8401,
+        768,
+        547,
+        294,
+        264,
+        8369,
+        1287,
+        295,
+        264,
+        41794,
+        13,
+        10890,
+        337,
+        993,
+        281,
+        50750
+      ],
+      "words": [
+        {
+          "end": 1.14,
+          "probability": 0.6671882271766663,
+          "start": 0.06,
+          "word": " Life"
+        },
+        {
+          "end": 1.78,
+          "probability": 0.6581470966339111,
+          "start": 1.14,
+          "word": " begins"
+        },
+        {
+          "end": 2.42,
+          "probability": 0.8606906533241272,
+          "start": 1.78,
+          "word": " small,"
+        },
+        {
+          "end": 3.32,
+          "probability": 0.7225162982940674,
+          "start": 3.18,
+          "word": " a"
+        },
+        {
+          "end": 3.54,
+          "probability": 0.8602856397628784,
+          "start": 3.32,
+          "word": " mere"
+        },
+        {
+          "end": 4.04,
+          "probability": 0.9627523124217987,
+          "start": 3.54,
+          "word": " speck"
+        },
+        {
+          "end": 4.4,
+          "probability": 0.891015887260437,
+          "start": 4.04,
+          "word": " in"
+        },
+        {
+          "end": 4.58,
+          "probability": 0.8089519739151001,
+          "start": 4.4,
+          "word": " the"
+        },
+        {
+          "end": 5.22,
+          "probability": 0.9513328969478607,
+          "start": 4.58,
+          "word": " vastness"
+        },
+        {
+          "end": 5.44,
+          "probability": 0.9102350473403931,
+          "start": 5.22,
+          "word": " of"
+        },
+        {
+          "end": 5.62,
+          "probability": 0.8055385947227478,
+          "start": 5.44,
+          "word": " the"
+        },
+        {
+          "end": 6.14,
+          "probability": 0.8711273670196533,
+          "start": 5.62,
+          "word": " cosmos."
+        },
+        {
+          "end": 7.04,
+          "probability": 0.9381529092788696,
+          "start": 6.82,
+          "word": " Yet"
+        },
+        {
+          "end": 7.24,
+          "probability": 0.823081910610199,
+          "start": 7.04,
+          "word": " for"
+        },
+        {
+          "end": 7.56,
+          "probability": 0.8011693954467773,
+          "start": 7.24,
+          "word": " life"
+        },
+        {
+          "end": 7.76,
+          "probability": 0.9033982157707214,
+          "start": 7.56,
+          "word": " to"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.29671521413893925,
+      "compression_ratio": 1.3064516129032258,
+      "end": 16.14,
+      "id": 1,
+      "no_speech_prob": 0.16387510299682617,
+      "seek": 0,
+      "start": 7.76,
+      "temperature": 0,
+      "text": " exist must pain also exist. Is suffering the crucible in which existence is forged?",
+      "tokens": [
+        50750,
+        2514,
+        1633,
+        1822,
+        611,
+        2514,
+        13,
+        1119,
+        7755,
+        264,
+        5140,
+        32128,
+        294,
+        597,
+        9123,
+        307,
+        40226,
+        30,
+        51266
+      ],
+      "words": [
+        {
+          "end": 8.32,
+          "probability": 0.9063255190849304,
+          "start": 7.76,
+          "word": " exist"
+        },
+        {
+          "end": 9.24,
+          "probability": 0.24550926685333252,
+          "start": 8.32,
+          "word": " must"
+        },
+        {
+          "end": 9.8,
+          "probability": 0.8631101250648499,
+          "start": 9.24,
+          "word": " pain"
+        },
+        {
+          "end": 10.54,
+          "probability": 0.8204761743545532,
+          "start": 9.8,
+          "word": " also"
+        },
+        {
+          "end": 11.3,
+          "probability": 0.907178521156311,
+          "start": 10.54,
+          "word": " exist."
+        },
+        {
+          "end": 12.06,
+          "probability": 0.9093941450119019,
+          "start": 11.9,
+          "word": " Is"
+        },
+        {
+          "end": 12.64,
+          "probability": 0.8862795233726501,
+          "start": 12.06,
+          "word": " suffering"
+        },
+        {
+          "end": 13.02,
+          "probability": 0.8058505058288574,
+          "start": 12.64,
+          "word": " the"
+        },
+        {
+          "end": 13.66,
+          "probability": 0.9110558331012726,
+          "start": 13.02,
+          "word": " crucible"
+        },
+        {
+          "end": 14.42,
+          "probability": 0.8800204396247864,
+          "start": 13.66,
+          "word": " in"
+        },
+        {
+          "end": 14.62,
+          "probability": 0.9147207736968994,
+          "start": 14.42,
+          "word": " which"
+        },
+        {
+          "end": 15.26,
+          "probability": 0.9161014556884766,
+          "start": 14.62,
+          "word": " existence"
+        },
+        {
+          "end": 15.62,
+          "probability": 0.8971741795539856,
+          "start": 15.26,
+          "word": " is"
+        },
+        {
+          "end": 16.14,
+          "probability": 0.9137686491012573,
+          "start": 15.62,
+          "word": " forged?"
+        }
+      ]
+    }
+  ],
+  "transcription": " Life begins small, a mere speck in the vastness of the cosmos. Yet for life to exist must pain also exist. Is suffering the crucible in which existence is forged?"
+}

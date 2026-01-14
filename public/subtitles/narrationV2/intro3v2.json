@@ -1,0 +1,441 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.32245265415736607,
+      "compression_ratio": 1.5612244897959184,
+      "end": 7.78,
+      "id": 0,
+      "no_speech_prob": 0.00926631037145853,
+      "seek": 0,
+      "start": 0.36,
+      "temperature": 0,
+      "text": " But the ocean is not without its dangers. Larger, more evolved cells emerge from",
+      "tokens": [
+        50364,
+        583,
+        264,
+        7810,
+        307,
+        406,
+        1553,
+        1080,
+        27701,
+        13,
+        11569,
+        1321,
+        11,
+        544,
+        14178,
+        5438,
+        21511,
+        490,
+        50752
+      ],
+      "words": [
+        {
+          "end": 1.16,
+          "probability": 0.7154720425605774,
+          "start": 0.36,
+          "word": " But"
+        },
+        {
+          "end": 1.42,
+          "probability": 0.7990190982818604,
+          "start": 1.16,
+          "word": " the"
+        },
+        {
+          "end": 1.86,
+          "probability": 0.8154852390289307,
+          "start": 1.42,
+          "word": " ocean"
+        },
+        {
+          "end": 2.38,
+          "probability": 0.8986765146255493,
+          "start": 1.86,
+          "word": " is"
+        },
+        {
+          "end": 2.62,
+          "probability": 0.8993755578994751,
+          "start": 2.38,
+          "word": " not"
+        },
+        {
+          "end": 3.04,
+          "probability": 0.8401080965995789,
+          "start": 2.62,
+          "word": " without"
+        },
+        {
+          "end": 3.34,
+          "probability": 0.7877757549285889,
+          "start": 3.04,
+          "word": " its"
+        },
+        {
+          "end": 3.96,
+          "probability": 0.8213418126106262,
+          "start": 3.34,
+          "word": " dangers."
+        },
+        {
+          "end": 5.54,
+          "probability": 0.9611721038818359,
+          "start": 5.08,
+          "word": " Larger,"
+        },
+        {
+          "end": 6.08,
+          "probability": 0.8945940136909485,
+          "start": 5.84,
+          "word": " more"
+        },
+        {
+          "end": 6.54,
+          "probability": 0.7091649770736694,
+          "start": 6.08,
+          "word": " evolved"
+        },
+        {
+          "end": 6.94,
+          "probability": 0.7199358344078064,
+          "start": 6.54,
+          "word": " cells"
+        },
+        {
+          "end": 7.58,
+          "probability": 0.8244065046310425,
+          "start": 6.94,
+          "word": " emerge"
+        },
+        {
+          "end": 7.78,
+          "probability": 0.8073127865791321,
+          "start": 7.58,
+          "word": " from"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.32245265415736607,
+      "compression_ratio": 1.5612244897959184,
+      "end": 14.66,
+      "id": 1,
+      "no_speech_prob": 0.00926631037145853,
+      "seek": 0,
+      "start": 7.78,
+      "temperature": 0,
+      "text": " the darkness. Their forms more complex, their movements more deliberate. These",
+      "tokens": [
+        50752,
+        264,
+        11262,
+        13,
+        6710,
+        6422,
+        544,
+        3997,
+        11,
+        641,
+        9981,
+        544,
+        30515,
+        13,
+        1981,
+        51090
+      ],
+      "words": [
+        {
+          "end": 7.96,
+          "probability": 0.8063986301422119,
+          "start": 7.78,
+          "word": " the"
+        },
+        {
+          "end": 8.52,
+          "probability": 0.8626330494880676,
+          "start": 7.96,
+          "word": " darkness."
+        },
+        {
+          "end": 9.74,
+          "probability": 0.879513144493103,
+          "start": 9.58,
+          "word": " Their"
+        },
+        {
+          "end": 10.14,
+          "probability": 0.7342944741249084,
+          "start": 9.74,
+          "word": " forms"
+        },
+        {
+          "end": 10.64,
+          "probability": 0.753078281879425,
+          "start": 10.14,
+          "word": " more"
+        },
+        {
+          "end": 11.16,
+          "probability": 0.7401768565177917,
+          "start": 10.64,
+          "word": " complex,"
+        },
+        {
+          "end": 11.62,
+          "probability": 0.8964925408363342,
+          "start": 11.46,
+          "word": " their"
+        },
+        {
+          "end": 12.04,
+          "probability": 0.8792592287063599,
+          "start": 11.62,
+          "word": " movements"
+        },
+        {
+          "end": 12.7,
+          "probability": 0.8677692413330078,
+          "start": 12.04,
+          "word": " more"
+        },
+        {
+          "end": 13.18,
+          "probability": 0.7626612782478333,
+          "start": 12.7,
+          "word": " deliberate."
+        },
+        {
+          "end": 14.66,
+          "probability": 0.8906550407409668,
+          "start": 14.32,
+          "word": " These"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.32245265415736607,
+      "compression_ratio": 1.5612244897959184,
+      "end": 19.7,
+      "id": 2,
+      "no_speech_prob": 0.00926631037145853,
+      "seek": 0,
+      "start": 14.66,
+      "temperature": 0,
+      "text": " predators are drawn to the cells presence, driven by their own need to",
+      "tokens": [
+        51090,
+        29194,
+        366,
+        10117,
+        281,
+        264,
+        5438,
+        6814,
+        11,
+        9555,
+        538,
+        641,
+        1065,
+        643,
+        281,
+        51348
+      ],
+      "words": [
+        {
+          "end": 15.08,
+          "probability": 0.8245386481285095,
+          "start": 14.66,
+          "word": " predators"
+        },
+        {
+          "end": 15.72,
+          "probability": 0.8916915655136108,
+          "start": 15.08,
+          "word": " are"
+        },
+        {
+          "end": 16.02,
+          "probability": 0.8516944050788879,
+          "start": 15.72,
+          "word": " drawn"
+        },
+        {
+          "end": 16.2,
+          "probability": 0.8985486030578613,
+          "start": 16.02,
+          "word": " to"
+        },
+        {
+          "end": 16.38,
+          "probability": 0.8156108260154724,
+          "start": 16.2,
+          "word": " the"
+        },
+        {
+          "end": 16.58,
+          "probability": 0.536739706993103,
+          "start": 16.38,
+          "word": " cells"
+        },
+        {
+          "end": 17.2,
+          "probability": 0.5660226345062256,
+          "start": 16.58,
+          "word": " presence,"
+        },
+        {
+          "end": 18.38,
+          "probability": 0.904583215713501,
+          "start": 18.02,
+          "word": " driven"
+        },
+        {
+          "end": 18.7,
+          "probability": 0.9008523225784302,
+          "start": 18.38,
+          "word": " by"
+        },
+        {
+          "end": 18.92,
+          "probability": 0.8643335103988647,
+          "start": 18.7,
+          "word": " their"
+        },
+        {
+          "end": 19.28,
+          "probability": 0.7963306307792664,
+          "start": 18.92,
+          "word": " own"
+        },
+        {
+          "end": 19.5,
+          "probability": 0.8114153146743774,
+          "start": 19.28,
+          "word": " need"
+        },
+        {
+          "end": 19.7,
+          "probability": 0.9061399698257446,
+          "start": 19.5,
+          "word": " to"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.32245265415736607,
+      "compression_ratio": 1.5612244897959184,
+      "end": 26.2,
+      "id": 3,
+      "no_speech_prob": 0.00926631037145853,
+      "seek": 0,
+      "start": 19.7,
+      "temperature": 0,
+      "text": " survive. Our lone cell must be cautious, for these creatures are not alone.",
+      "tokens": [
+        51348,
+        7867,
+        13,
+        2621,
+        35314,
+        2815,
+        1633,
+        312,
+        25278,
+        11,
+        337,
+        613,
+        12281,
+        366,
+        406,
+        3312,
+        13,
+        51766
+      ],
+      "words": [
+        {
+          "end": 20.22,
+          "probability": 0.8205211162567139,
+          "start": 19.7,
+          "word": " survive."
+        },
+        {
+          "end": 22.2,
+          "probability": 0.8955076336860657,
+          "start": 21.52,
+          "word": " Our"
+        },
+        {
+          "end": 22.6,
+          "probability": 0.8945854902267456,
+          "start": 22.2,
+          "word": " lone"
+        },
+        {
+          "end": 23.02,
+          "probability": 0.8123220801353455,
+          "start": 22.6,
+          "word": " cell"
+        },
+        {
+          "end": 23.6,
+          "probability": 0.8254393935203552,
+          "start": 23.02,
+          "word": " must"
+        },
+        {
+          "end": 23.86,
+          "probability": 0.9117214679718018,
+          "start": 23.6,
+          "word": " be"
+        },
+        {
+          "end": 24.4,
+          "probability": 0.785499632358551,
+          "start": 23.86,
+          "word": " cautious,"
+        },
+        {
+          "end": 25.02,
+          "probability": 0.8843506574630737,
+          "start": 24.78,
+          "word": " for"
+        },
+        {
+          "end": 25.26,
+          "probability": 0.6873219013214111,
+          "start": 25.02,
+          "word": " these"
+        },
+        {
+          "end": 25.72,
+          "probability": 0.7726727724075317,
+          "start": 25.26,
+          "word": " creatures"
+        },
+        {
+          "end": 26.02,
+          "probability": 0.9045988917350769,
+          "start": 25.72,
+          "word": " are"
+        },
+        {
+          "end": 26.2,
+          "probability": 0.8738645911216736,
+          "start": 26.02,
+          "word": " not"
+        },
+        {
+          "end": 26.2,
+          "probability": 0.12951146066188812,
+          "start": 26.2,
+          "word": " alone."
+        }
+      ]
+    }
+  ],
+  "transcription": " But the ocean is not without its dangers. Larger, more evolved cells emerge from the darkness. Their forms more complex, their movements more deliberate. These predators are drawn to the cells presence, driven by their own need to survive. Our lone cell must be cautious, for these creatures are not alone."
+}

@@ -1,0 +1,225 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.2746696191675523,
+      "compression_ratio": 1.2844036697247707,
+      "end": 7.78,
+      "id": 0,
+      "no_speech_prob": 0.13144035637378693,
+      "seek": 0,
+      "start": 0.1,
+      "temperature": 0,
+      "text": " Not all organisms are destined to survive the cycle of life. In the endless",
+      "tokens": [
+        50364,
+        1726,
+        439,
+        22110,
+        366,
+        33169,
+        281,
+        7867,
+        264,
+        6586,
+        295,
+        993,
+        13,
+        682,
+        264,
+        16144,
+        50754
+      ],
+      "words": [
+        {
+          "end": 1.06,
+          "probability": 0.7366827726364136,
+          "start": 0.1,
+          "word": " Not"
+        },
+        {
+          "end": 1.76,
+          "probability": 0.9057161211967468,
+          "start": 1.06,
+          "word": " all"
+        },
+        {
+          "end": 2.6,
+          "probability": 0.8513225317001343,
+          "start": 1.76,
+          "word": " organisms"
+        },
+        {
+          "end": 3.12,
+          "probability": 0.888199508190155,
+          "start": 2.6,
+          "word": " are"
+        },
+        {
+          "end": 3.58,
+          "probability": 0.8770250082015991,
+          "start": 3.12,
+          "word": " destined"
+        },
+        {
+          "end": 4.06,
+          "probability": 0.8983193039894104,
+          "start": 3.58,
+          "word": " to"
+        },
+        {
+          "end": 4.64,
+          "probability": 0.8281522989273071,
+          "start": 4.06,
+          "word": " survive"
+        },
+        {
+          "end": 4.94,
+          "probability": 0.7943064570426941,
+          "start": 4.64,
+          "word": " the"
+        },
+        {
+          "end": 5.34,
+          "probability": 0.8966411352157593,
+          "start": 4.94,
+          "word": " cycle"
+        },
+        {
+          "end": 5.58,
+          "probability": 0.9033723473548889,
+          "start": 5.34,
+          "word": " of"
+        },
+        {
+          "end": 6.04,
+          "probability": 0.8162961006164551,
+          "start": 5.58,
+          "word": " life."
+        },
+        {
+          "end": 7.14,
+          "probability": 0.8987951278686523,
+          "start": 6.66,
+          "word": " In"
+        },
+        {
+          "end": 7.32,
+          "probability": 0.8141511678695679,
+          "start": 7.14,
+          "word": " the"
+        },
+        {
+          "end": 7.78,
+          "probability": 0.7572720646858215,
+          "start": 7.32,
+          "word": " endless"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2746696191675523,
+      "compression_ratio": 1.2844036697247707,
+      "end": 14.62,
+      "id": 1,
+      "no_speech_prob": 0.13144035637378693,
+      "seek": 0,
+      "start": 7.78,
+      "temperature": 0,
+      "text": " dance of predator and prey, some fall so that others may thrive.",
+      "tokens": [
+        50754,
+        4489,
+        295,
+        35377,
+        293,
+        21107,
+        11,
+        512,
+        2100,
+        370,
+        300,
+        2357,
+        815,
+        21233,
+        13,
+        51174
+      ],
+      "words": [
+        {
+          "end": 8.36,
+          "probability": 0.8986314535140991,
+          "start": 7.78,
+          "word": " dance"
+        },
+        {
+          "end": 8.62,
+          "probability": 0.9122330546379089,
+          "start": 8.36,
+          "word": " of"
+        },
+        {
+          "end": 9.24,
+          "probability": 0.8310941457748413,
+          "start": 8.62,
+          "word": " predator"
+        },
+        {
+          "end": 9.68,
+          "probability": 0.8903985619544983,
+          "start": 9.24,
+          "word": " and"
+        },
+        {
+          "end": 10.14,
+          "probability": 0.8345146179199219,
+          "start": 9.68,
+          "word": " prey,"
+        },
+        {
+          "end": 11.16,
+          "probability": 0.7991456389427185,
+          "start": 10.98,
+          "word": " some"
+        },
+        {
+          "end": 11.76,
+          "probability": 0.7990947961807251,
+          "start": 11.16,
+          "word": " fall"
+        },
+        {
+          "end": 12.38,
+          "probability": 0.8188979625701904,
+          "start": 11.76,
+          "word": " so"
+        },
+        {
+          "end": 12.6,
+          "probability": 0.877332329750061,
+          "start": 12.38,
+          "word": " that"
+        },
+        {
+          "end": 13.1,
+          "probability": 0.7649407982826233,
+          "start": 12.6,
+          "word": " others"
+        },
+        {
+          "end": 13.78,
+          "probability": 0.8832250237464905,
+          "start": 13.1,
+          "word": " may"
+        },
+        {
+          "end": 14.62,
+          "probability": 0.8222772479057312,
+          "start": 13.78,
+          "word": " thrive."
+        }
+      ]
+    }
+  ],
+  "transcription": " Not all organisms are destined to survive the cycle of life. In the endless dance of predator and prey, some fall so that others may thrive."
+}

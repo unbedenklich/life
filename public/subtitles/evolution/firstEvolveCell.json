@@ -1,0 +1,364 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.31514549255371094,
+      "compression_ratio": 1.4142011834319526,
+      "end": 9.66,
+      "id": 0,
+      "no_speech_prob": 0.08642316609621048,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " The cell has just evolved. Where its outer rim was once a simple white, it now bears a vibrant color.",
+      "tokens": [
+        50364,
+        440,
+        2815,
+        575,
+        445,
+        14178,
+        13,
+        2305,
+        1080,
+        10847,
+        15982,
+        390,
+        1564,
+        257,
+        2199,
+        2418,
+        11,
+        309,
+        586,
+        17276,
+        257,
+        21571,
+        2017,
+        13,
+        50864
+      ],
+      "words": [
+        {
+          "end": 0.8,
+          "probability": 0.6985127329826355,
+          "start": 0,
+          "word": " The"
+        },
+        {
+          "end": 1.2,
+          "probability": 0.7982474565505981,
+          "start": 0.8,
+          "word": " cell"
+        },
+        {
+          "end": 1.46,
+          "probability": 0.8869854211807251,
+          "start": 1.2,
+          "word": " has"
+        },
+        {
+          "end": 1.98,
+          "probability": 0.8761075735092163,
+          "start": 1.46,
+          "word": " just"
+        },
+        {
+          "end": 2.8,
+          "probability": 0.7306060791015625,
+          "start": 1.98,
+          "word": " evolved."
+        },
+        {
+          "end": 3.92,
+          "probability": 0.7708006501197815,
+          "start": 3.74,
+          "word": " Where"
+        },
+        {
+          "end": 4.18,
+          "probability": 0.6422255635261536,
+          "start": 3.92,
+          "word": " its"
+        },
+        {
+          "end": 4.5,
+          "probability": 0.6584493517875671,
+          "start": 4.18,
+          "word": " outer"
+        },
+        {
+          "end": 4.86,
+          "probability": 0.9582522511482239,
+          "start": 4.5,
+          "word": " rim"
+        },
+        {
+          "end": 5.26,
+          "probability": 0.8834879994392395,
+          "start": 4.86,
+          "word": " was"
+        },
+        {
+          "end": 5.7,
+          "probability": 0.8409854769706726,
+          "start": 5.26,
+          "word": " once"
+        },
+        {
+          "end": 6.02,
+          "probability": 0.9883916974067688,
+          "start": 5.7,
+          "word": " a"
+        },
+        {
+          "end": 6.36,
+          "probability": 0.9156986474990845,
+          "start": 6.02,
+          "word": " simple"
+        },
+        {
+          "end": 6.8,
+          "probability": 0.883312463760376,
+          "start": 6.36,
+          "word": " white,"
+        },
+        {
+          "end": 7.66,
+          "probability": 0.890816330909729,
+          "start": 7.28,
+          "word": " it"
+        },
+        {
+          "end": 8.06,
+          "probability": 0.912798285484314,
+          "start": 7.66,
+          "word": " now"
+        },
+        {
+          "end": 8.62,
+          "probability": 0.8318526148796082,
+          "start": 8.06,
+          "word": " bears"
+        },
+        {
+          "end": 8.92,
+          "probability": 0.9979962706565857,
+          "start": 8.62,
+          "word": " a"
+        },
+        {
+          "end": 9.26,
+          "probability": 0.758206307888031,
+          "start": 8.92,
+          "word": " vibrant"
+        },
+        {
+          "end": 9.66,
+          "probability": 0.5630613565444946,
+          "start": 9.26,
+          "word": " color."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.31514549255371094,
+      "compression_ratio": 1.4142011834319526,
+      "end": 14.04,
+      "id": 1,
+      "no_speech_prob": 0.08642316609621048,
+      "seek": 0,
+      "start": 10.64,
+      "temperature": 0,
+      "text": " The sudden appearance of color marks a pivotal moment.",
+      "tokens": [
+        50864,
+        440,
+        3990,
+        8967,
+        295,
+        2017,
+        10640,
+        257,
+        39078,
+        1623,
+        13,
+        51064
+      ],
+      "words": [
+        {
+          "end": 10.82,
+          "probability": 0.7843290567398071,
+          "start": 10.64,
+          "word": " The"
+        },
+        {
+          "end": 11.1,
+          "probability": 0.8170535564422607,
+          "start": 10.82,
+          "word": " sudden"
+        },
+        {
+          "end": 11.66,
+          "probability": 0.7182080149650574,
+          "start": 11.1,
+          "word": " appearance"
+        },
+        {
+          "end": 11.86,
+          "probability": 0.9116758108139038,
+          "start": 11.66,
+          "word": " of"
+        },
+        {
+          "end": 12.22,
+          "probability": 0.8372629880905151,
+          "start": 11.86,
+          "word": " color"
+        },
+        {
+          "end": 12.88,
+          "probability": 0.7069351673126221,
+          "start": 12.22,
+          "word": " marks"
+        },
+        {
+          "end": 13.12,
+          "probability": 0.9969045519828796,
+          "start": 12.88,
+          "word": " a"
+        },
+        {
+          "end": 13.48,
+          "probability": 0.7445415258407593,
+          "start": 13.12,
+          "word": " pivotal"
+        },
+        {
+          "end": 14.04,
+          "probability": 0.9084762334823608,
+          "start": 13.48,
+          "word": " moment."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.31514549255371094,
+      "compression_ratio": 1.4142011834319526,
+      "end": 22.06,
+      "id": 2,
+      "no_speech_prob": 0.08642316609621048,
+      "seek": 0,
+      "start": 14.94,
+      "temperature": 0,
+      "text": " Perhaps a new defense mechanism, or a way to communicate in its microscopic world.",
+      "tokens": [
+        51064,
+        10517,
+        257,
+        777,
+        7654,
+        7513,
+        11,
+        420,
+        257,
+        636,
+        281,
+        7890,
+        294,
+        1080,
+        47897,
+        1002,
+        13,
+        51464
+      ],
+      "words": [
+        {
+          "end": 15.44,
+          "probability": 0.8441450595855713,
+          "start": 14.94,
+          "word": " Perhaps"
+        },
+        {
+          "end": 15.96,
+          "probability": 0.9395784139633179,
+          "start": 15.44,
+          "word": " a"
+        },
+        {
+          "end": 16.12,
+          "probability": 0.8158138990402222,
+          "start": 15.96,
+          "word": " new"
+        },
+        {
+          "end": 16.58,
+          "probability": 0.8271018266677856,
+          "start": 16.12,
+          "word": " defense"
+        },
+        {
+          "end": 17.12,
+          "probability": 0.8762884140014648,
+          "start": 16.58,
+          "word": " mechanism,"
+        },
+        {
+          "end": 18.02,
+          "probability": 0.8960761427879333,
+          "start": 17.74,
+          "word": " or"
+        },
+        {
+          "end": 18.7,
+          "probability": 0.9666833877563477,
+          "start": 18.02,
+          "word": " a"
+        },
+        {
+          "end": 18.98,
+          "probability": 0.8910914063453674,
+          "start": 18.7,
+          "word": " way"
+        },
+        {
+          "end": 19.2,
+          "probability": 0.9112693667411804,
+          "start": 18.98,
+          "word": " to"
+        },
+        {
+          "end": 19.74,
+          "probability": 0.7329103350639343,
+          "start": 19.2,
+          "word": " communicate"
+        },
+        {
+          "end": 20.34,
+          "probability": 0.8977422714233398,
+          "start": 19.74,
+          "word": " in"
+        },
+        {
+          "end": 20.52,
+          "probability": 0.6741712093353271,
+          "start": 20.34,
+          "word": " its"
+        },
+        {
+          "end": 21.04,
+          "probability": 0.7208163142204285,
+          "start": 20.52,
+          "word": " microscopic"
+        },
+        {
+          "end": 22.06,
+          "probability": 0.8695305585861206,
+          "start": 21.04,
+          "word": " world."
+        }
+      ]
+    }
+  ],
+  "transcription": " The cell has just evolved. Where its outer rim was once a simple white, it now bears a vibrant color. The sudden appearance of color marks a pivotal moment. Perhaps a new defense mechanism, or a way to communicate in its microscopic world."
+}

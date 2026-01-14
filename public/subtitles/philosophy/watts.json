@@ -1,0 +1,173 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3126273685031467,
+      "compression_ratio": 1.130952380952381,
+      "end": 7.88,
+      "id": 0,
+      "no_speech_prob": 0.3140135407447815,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " The only way to make sense out of change is to plunge into it, move with it and join the dance.",
+      "tokens": [
+        50364,
+        440,
+        787,
+        636,
+        281,
+        652,
+        2020,
+        484,
+        295,
+        1319,
+        307,
+        281,
+        499,
+        27588,
+        666,
+        309,
+        11,
+        1286,
+        365,
+        309,
+        293,
+        3917,
+        264,
+        4489,
+        13,
+        50814
+      ],
+      "words": [
+        {
+          "end": 0.64,
+          "probability": 0.5781074166297913,
+          "start": 0,
+          "word": " The"
+        },
+        {
+          "end": 1,
+          "probability": 0.8525909185409546,
+          "start": 0.64,
+          "word": " only"
+        },
+        {
+          "end": 1.38,
+          "probability": 0.8916882276535034,
+          "start": 1,
+          "word": " way"
+        },
+        {
+          "end": 1.64,
+          "probability": 0.8969695568084717,
+          "start": 1.38,
+          "word": " to"
+        },
+        {
+          "end": 1.88,
+          "probability": 0.8900445699691772,
+          "start": 1.64,
+          "word": " make"
+        },
+        {
+          "end": 2.32,
+          "probability": 0.7668758034706116,
+          "start": 1.88,
+          "word": " sense"
+        },
+        {
+          "end": 2.52,
+          "probability": 0.8078855872154236,
+          "start": 2.32,
+          "word": " out"
+        },
+        {
+          "end": 2.68,
+          "probability": 0.9104911684989929,
+          "start": 2.52,
+          "word": " of"
+        },
+        {
+          "end": 3.16,
+          "probability": 0.8288905620574951,
+          "start": 2.68,
+          "word": " change"
+        },
+        {
+          "end": 3.72,
+          "probability": 0.697915256023407,
+          "start": 3.16,
+          "word": " is"
+        },
+        {
+          "end": 3.92,
+          "probability": 0.9055270552635193,
+          "start": 3.72,
+          "word": " to"
+        },
+        {
+          "end": 4.3,
+          "probability": 0.9618515372276306,
+          "start": 3.92,
+          "word": " plunge"
+        },
+        {
+          "end": 4.58,
+          "probability": 0.7450520396232605,
+          "start": 4.3,
+          "word": " into"
+        },
+        {
+          "end": 4.9,
+          "probability": 0.9074370861053467,
+          "start": 4.58,
+          "word": " it,"
+        },
+        {
+          "end": 5.58,
+          "probability": 0.8745092153549194,
+          "start": 5.24,
+          "word": " move"
+        },
+        {
+          "end": 5.9,
+          "probability": 0.8156141042709351,
+          "start": 5.58,
+          "word": " with"
+        },
+        {
+          "end": 6.18,
+          "probability": 0.9031619429588318,
+          "start": 5.9,
+          "word": " it"
+        },
+        {
+          "end": 6.78,
+          "probability": 0.6436848044395447,
+          "start": 6.18,
+          "word": " and"
+        },
+        {
+          "end": 7.1,
+          "probability": 0.8262801766395569,
+          "start": 6.78,
+          "word": " join"
+        },
+        {
+          "end": 7.32,
+          "probability": 0.8152379989624023,
+          "start": 7.1,
+          "word": " the"
+        },
+        {
+          "end": 7.88,
+          "probability": 0.8651388883590698,
+          "start": 7.32,
+          "word": " dance."
+        }
+      ]
+    }
+  ],
+  "transcription": " The only way to make sense out of change is to plunge into it, move with it and join the dance."
+}

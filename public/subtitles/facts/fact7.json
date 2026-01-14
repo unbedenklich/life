@@ -1,0 +1,165 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3010218824659075,
+      "compression_ratio": 1.1875,
+      "end": 5.74,
+      "id": 0,
+      "no_speech_prob": 0.12527216970920563,
+      "seek": 0,
+      "start": 0.68,
+      "temperature": 0,
+      "text": " Some deep sea organisms have developed bioluminescence,",
+      "tokens": [
+        50414,
+        2188,
+        2452,
+        4158,
+        22110,
+        362,
+        4743,
+        3228,
+        401,
+        449,
+        1652,
+        25434,
+        11,
+        50664
+      ],
+      "words": [
+        {
+          "end": 1.56,
+          "probability": 0.7314692735671997,
+          "start": 0.68,
+          "word": " Some"
+        },
+        {
+          "end": 1.98,
+          "probability": 0.9448056221008301,
+          "start": 1.56,
+          "word": " deep"
+        },
+        {
+          "end": 2.24,
+          "probability": 0.38496339321136475,
+          "start": 1.98,
+          "word": " sea"
+        },
+        {
+          "end": 3.02,
+          "probability": 0.8614574074745178,
+          "start": 2.24,
+          "word": " organisms"
+        },
+        {
+          "end": 3.74,
+          "probability": 0.8841344714164734,
+          "start": 3.02,
+          "word": " have"
+        },
+        {
+          "end": 4.24,
+          "probability": 0.6541906595230103,
+          "start": 3.74,
+          "word": " developed"
+        },
+        {
+          "end": 5.74,
+          "probability": 0.9623210072517395,
+          "start": 4.24,
+          "word": " bioluminescence,"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3010218824659075,
+      "compression_ratio": 1.1875,
+      "end": 10.56,
+      "id": 1,
+      "no_speech_prob": 0.12527216970920563,
+      "seek": 0,
+      "start": 6.18,
+      "temperature": 0,
+      "text": " creating their own light in a world of perpetual darkness.",
+      "tokens": [
+        50664,
+        4084,
+        641,
+        1065,
+        1442,
+        294,
+        257,
+        1002,
+        295,
+        48216,
+        11262,
+        13,
+        50914
+      ],
+      "words": [
+        {
+          "end": 7.04,
+          "probability": 0.8174691200256348,
+          "start": 6.18,
+          "word": " creating"
+        },
+        {
+          "end": 7.32,
+          "probability": 0.8935698866844177,
+          "start": 7.04,
+          "word": " their"
+        },
+        {
+          "end": 7.64,
+          "probability": 0.8184749484062195,
+          "start": 7.32,
+          "word": " own"
+        },
+        {
+          "end": 8,
+          "probability": 0.7931036949157715,
+          "start": 7.64,
+          "word": " light"
+        },
+        {
+          "end": 8.32,
+          "probability": 0.8892577886581421,
+          "start": 8,
+          "word": " in"
+        },
+        {
+          "end": 8.46,
+          "probability": 0.9426745176315308,
+          "start": 8.32,
+          "word": " a"
+        },
+        {
+          "end": 8.8,
+          "probability": 0.8821037411689758,
+          "start": 8.46,
+          "word": " world"
+        },
+        {
+          "end": 8.98,
+          "probability": 0.8982155919075012,
+          "start": 8.8,
+          "word": " of"
+        },
+        {
+          "end": 9.76,
+          "probability": 0.8713170886039734,
+          "start": 8.98,
+          "word": " perpetual"
+        },
+        {
+          "end": 10.56,
+          "probability": 0.8807315826416016,
+          "start": 9.76,
+          "word": " darkness."
+        }
+      ]
+    }
+  ],
+  "transcription": " Some deep sea organisms have developed bioluminescence, creating their own light in a world of perpetual darkness."
+}

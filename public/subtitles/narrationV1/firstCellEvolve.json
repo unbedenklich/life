@@ -1,0 +1,295 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3245994486707322,
+      "compression_ratio": 1.3286713286713288,
+      "end": 7.08,
+      "id": 0,
+      "no_speech_prob": 0.07283340394496918,
+      "seek": 0,
+      "start": 1.28,
+      "temperature": 0,
+      "text": " With each particle of nourishment, the cell grows stronger.",
+      "tokens": [
+        50364,
+        2022,
+        1184,
+        12359,
+        295,
+        22683,
+        30273,
+        11,
+        264,
+        2815,
+        13156,
+        7249,
+        13,
+        50714
+      ],
+      "words": [
+        {
+          "end": 2.32,
+          "probability": 0.8038102388381958,
+          "start": 1.28,
+          "word": " With"
+        },
+        {
+          "end": 2.9,
+          "probability": 0.8761568069458008,
+          "start": 2.32,
+          "word": " each"
+        },
+        {
+          "end": 3.6,
+          "probability": 0.7125570178031921,
+          "start": 2.9,
+          "word": " particle"
+        },
+        {
+          "end": 4.06,
+          "probability": 0.9053927659988403,
+          "start": 3.6,
+          "word": " of"
+        },
+        {
+          "end": 4.84,
+          "probability": 0.9537236392498016,
+          "start": 4.06,
+          "word": " nourishment,"
+        },
+        {
+          "end": 5.7,
+          "probability": 0.8018606305122375,
+          "start": 5.5,
+          "word": " the"
+        },
+        {
+          "end": 5.98,
+          "probability": 0.8040837645530701,
+          "start": 5.7,
+          "word": " cell"
+        },
+        {
+          "end": 6.36,
+          "probability": 0.7974022626876831,
+          "start": 5.98,
+          "word": " grows"
+        },
+        {
+          "end": 7.08,
+          "probability": 0.7357322573661804,
+          "start": 6.36,
+          "word": " stronger."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3245994486707322,
+      "compression_ratio": 1.3286713286713288,
+      "end": 15.6,
+      "id": 1,
+      "no_speech_prob": 0.07283340394496918,
+      "seek": 0,
+      "start": 7.96,
+      "temperature": 0,
+      "text": " Slowly, it begins to evolve, its outer rim showing the first signs of change.",
+      "tokens": [
+        50714,
+        29674,
+        11,
+        309,
+        7338,
+        281,
+        16693,
+        11,
+        1080,
+        10847,
+        15982,
+        4099,
+        264,
+        700,
+        7880,
+        295,
+        1319,
+        13,
+        51164
+      ],
+      "words": [
+        {
+          "end": 8.52,
+          "probability": 0.8241744041442871,
+          "start": 7.96,
+          "word": " Slowly,"
+        },
+        {
+          "end": 9.24,
+          "probability": 0.9012952446937561,
+          "start": 8.84,
+          "word": " it"
+        },
+        {
+          "end": 9.74,
+          "probability": 0.6779219508171082,
+          "start": 9.24,
+          "word": " begins"
+        },
+        {
+          "end": 10.04,
+          "probability": 0.9092103838920593,
+          "start": 9.74,
+          "word": " to"
+        },
+        {
+          "end": 10.7,
+          "probability": 0.8246265649795532,
+          "start": 10.04,
+          "word": " evolve,"
+        },
+        {
+          "end": 11.76,
+          "probability": 0.7471843957901001,
+          "start": 11.54,
+          "word": " its"
+        },
+        {
+          "end": 12.14,
+          "probability": 0.7441739439964294,
+          "start": 11.76,
+          "word": " outer"
+        },
+        {
+          "end": 12.52,
+          "probability": 0.9188175201416016,
+          "start": 12.14,
+          "word": " rim"
+        },
+        {
+          "end": 13.36,
+          "probability": 0.777807354927063,
+          "start": 12.52,
+          "word": " showing"
+        },
+        {
+          "end": 13.58,
+          "probability": 0.8052864670753479,
+          "start": 13.36,
+          "word": " the"
+        },
+        {
+          "end": 13.94,
+          "probability": 0.8130103945732117,
+          "start": 13.58,
+          "word": " first"
+        },
+        {
+          "end": 14.54,
+          "probability": 0.7028342485427856,
+          "start": 13.94,
+          "word": " signs"
+        },
+        {
+          "end": 14.78,
+          "probability": 0.9091288447380066,
+          "start": 14.54,
+          "word": " of"
+        },
+        {
+          "end": 15.6,
+          "probability": 0.8315356969833374,
+          "start": 14.78,
+          "word": " change."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3245994486707322,
+      "compression_ratio": 1.3286713286713288,
+      "end": 21.38,
+      "id": 2,
+      "no_speech_prob": 0.07283340394496918,
+      "seek": 0,
+      "start": 16.5,
+      "temperature": 0,
+      "text": " A small but vital step toward a more complex future.",
+      "tokens": [
+        51164,
+        316,
+        1359,
+        457,
+        11707,
+        1823,
+        7361,
+        257,
+        544,
+        3997,
+        2027,
+        13,
+        51464
+      ],
+      "words": [
+        {
+          "end": 16.7,
+          "probability": 0.9822447896003723,
+          "start": 16.5,
+          "word": " A"
+        },
+        {
+          "end": 17.16,
+          "probability": 0.8645599484443665,
+          "start": 16.7,
+          "word": " small"
+        },
+        {
+          "end": 17.46,
+          "probability": 0.7499071359634399,
+          "start": 17.16,
+          "word": " but"
+        },
+        {
+          "end": 18.16,
+          "probability": 0.8847905397415161,
+          "start": 17.46,
+          "word": " vital"
+        },
+        {
+          "end": 18.68,
+          "probability": 0.8245137929916382,
+          "start": 18.16,
+          "word": " step"
+        },
+        {
+          "end": 19.4,
+          "probability": 0.6393035650253296,
+          "start": 18.68,
+          "word": " toward"
+        },
+        {
+          "end": 19.64,
+          "probability": 0.9851657152175903,
+          "start": 19.4,
+          "word": " a"
+        },
+        {
+          "end": 19.92,
+          "probability": 0.8763549327850342,
+          "start": 19.64,
+          "word": " more"
+        },
+        {
+          "end": 20.58,
+          "probability": 0.7282275557518005,
+          "start": 19.92,
+          "word": " complex"
+        },
+        {
+          "end": 21.38,
+          "probability": 0.9329169392585754,
+          "start": 20.58,
+          "word": " future."
+        }
+      ]
+    }
+  ],
+  "transcription": " With each particle of nourishment, the cell grows stronger. Slowly, it begins to evolve, its outer rim showing the first signs of change. A small but vital step toward a more complex future."
+}

@@ -1,0 +1,145 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3730767291525136,
+      "compression_ratio": 1.0121951219512195,
+      "end": 7.58,
+      "id": 0,
+      "no_speech_prob": 0.24402284622192383,
+      "seek": 0,
+      "start": 0.34,
+      "temperature": 0,
+      "text": " The DNA of a single cell, if stretched out, could reach a length of about 2 meters.",
+      "tokens": [
+        50364,
+        440,
+        8272,
+        295,
+        257,
+        2167,
+        2815,
+        11,
+        498,
+        23563,
+        484,
+        11,
+        727,
+        2524,
+        257,
+        4641,
+        295,
+        466,
+        568,
+        8146,
+        13,
+        50844
+      ],
+      "words": [
+        {
+          "end": 1.18,
+          "probability": 0.5996160507202148,
+          "start": 0.34,
+          "word": " The"
+        },
+        {
+          "end": 1.66,
+          "probability": 0.924871027469635,
+          "start": 1.18,
+          "word": " DNA"
+        },
+        {
+          "end": 2.14,
+          "probability": 0.8878664374351501,
+          "start": 1.66,
+          "word": " of"
+        },
+        {
+          "end": 2.32,
+          "probability": 0.9973843693733215,
+          "start": 2.14,
+          "word": " a"
+        },
+        {
+          "end": 2.64,
+          "probability": 0.8732206225395203,
+          "start": 2.32,
+          "word": " single"
+        },
+        {
+          "end": 3.12,
+          "probability": 0.8254494071006775,
+          "start": 2.64,
+          "word": " cell,"
+        },
+        {
+          "end": 3.72,
+          "probability": 0.9015984535217285,
+          "start": 3.54,
+          "word": " if"
+        },
+        {
+          "end": 4.12,
+          "probability": 0.734929084777832,
+          "start": 3.72,
+          "word": " stretched"
+        },
+        {
+          "end": 4.58,
+          "probability": 0.8200878500938416,
+          "start": 4.12,
+          "word": " out,"
+        },
+        {
+          "end": 5.18,
+          "probability": 0.7990918159484863,
+          "start": 5.02,
+          "word": " could"
+        },
+        {
+          "end": 5.44,
+          "probability": 0.8653095960617065,
+          "start": 5.18,
+          "word": " reach"
+        },
+        {
+          "end": 5.62,
+          "probability": 0.9955240488052368,
+          "start": 5.44,
+          "word": " a"
+        },
+        {
+          "end": 5.98,
+          "probability": 0.7870701551437378,
+          "start": 5.62,
+          "word": " length"
+        },
+        {
+          "end": 6.4,
+          "probability": 0.9042540192604065,
+          "start": 5.98,
+          "word": " of"
+        },
+        {
+          "end": 6.72,
+          "probability": 0.8210515379905701,
+          "start": 6.4,
+          "word": " about"
+        },
+        {
+          "end": 7.16,
+          "probability": 0.5531883835792542,
+          "start": 6.72,
+          "word": " 2"
+        },
+        {
+          "end": 7.58,
+          "probability": 0.5609713792800903,
+          "start": 7.16,
+          "word": " meters."
+        }
+      ]
+    }
+  ],
+  "transcription": " The DNA of a single cell, if stretched out, could reach a length of about 2 meters."
+}

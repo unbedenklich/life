@@ -1,0 +1,271 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.2903882003412014,
+      "compression_ratio": 1.3076923076923077,
+      "end": 5.86,
+      "id": 0,
+      "no_speech_prob": 0.1177779957652092,
+      "seek": 0,
+      "start": 0.22,
+      "temperature": 0,
+      "text": " Our new evolved species has developed a crucial hunting strategy.",
+      "tokens": [
+        50364,
+        2621,
+        777,
+        14178,
+        6172,
+        575,
+        4743,
+        257,
+        11462,
+        12599,
+        5206,
+        13,
+        50664
+      ],
+      "words": [
+        {
+          "end": 1.14,
+          "probability": 0.7971087694168091,
+          "start": 0.22,
+          "word": " Our"
+        },
+        {
+          "end": 1.62,
+          "probability": 0.7876322269439697,
+          "start": 1.14,
+          "word": " new"
+        },
+        {
+          "end": 2.36,
+          "probability": 0.718665599822998,
+          "start": 1.62,
+          "word": " evolved"
+        },
+        {
+          "end": 2.86,
+          "probability": 0.6562190055847168,
+          "start": 2.36,
+          "word": " species"
+        },
+        {
+          "end": 3.5,
+          "probability": 0.8811550736427307,
+          "start": 2.86,
+          "word": " has"
+        },
+        {
+          "end": 3.96,
+          "probability": 0.6445727944374084,
+          "start": 3.5,
+          "word": " developed"
+        },
+        {
+          "end": 4.32,
+          "probability": 0.9923115372657776,
+          "start": 3.96,
+          "word": " a"
+        },
+        {
+          "end": 4.74,
+          "probability": 0.7697097063064575,
+          "start": 4.32,
+          "word": " crucial"
+        },
+        {
+          "end": 5.2,
+          "probability": 0.6917388439178467,
+          "start": 4.74,
+          "word": " hunting"
+        },
+        {
+          "end": 5.86,
+          "probability": 0.7880171537399292,
+          "start": 5.2,
+          "word": " strategy."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2903882003412014,
+      "compression_ratio": 1.3076923076923077,
+      "end": 9.5,
+      "id": 1,
+      "no_speech_prob": 0.1177779957652092,
+      "seek": 0,
+      "start": 6.8,
+      "temperature": 0,
+      "text": " It must aim for the heads of its prey.",
+      "tokens": [
+        50664,
+        467,
+        1633,
+        5939,
+        337,
+        264,
+        8050,
+        295,
+        1080,
+        21107,
+        13,
+        50864
+      ],
+      "words": [
+        {
+          "end": 6.92,
+          "probability": 0.8941921591758728,
+          "start": 6.8,
+          "word": " It"
+        },
+        {
+          "end": 7.3,
+          "probability": 0.8079092502593994,
+          "start": 6.92,
+          "word": " must"
+        },
+        {
+          "end": 7.72,
+          "probability": 0.8894128799438477,
+          "start": 7.3,
+          "word": " aim"
+        },
+        {
+          "end": 7.94,
+          "probability": 0.8994344472885132,
+          "start": 7.72,
+          "word": " for"
+        },
+        {
+          "end": 8.12,
+          "probability": 0.8002338409423828,
+          "start": 7.94,
+          "word": " the"
+        },
+        {
+          "end": 8.5,
+          "probability": 0.784540057182312,
+          "start": 8.12,
+          "word": " heads"
+        },
+        {
+          "end": 8.9,
+          "probability": 0.899511456489563,
+          "start": 8.5,
+          "word": " of"
+        },
+        {
+          "end": 9.1,
+          "probability": 0.7846941947937012,
+          "start": 8.9,
+          "word": " its"
+        },
+        {
+          "end": 9.5,
+          "probability": 0.7793887853622437,
+          "start": 9.1,
+          "word": " prey."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2903882003412014,
+      "compression_ratio": 1.3076923076923077,
+      "end": 15.12,
+      "id": 2,
+      "no_speech_prob": 0.1177779957652092,
+      "seek": 0,
+      "start": 10.18,
+      "temperature": 0,
+      "text": " By consuming the head, it can rapidly absorb the entire organism.",
+      "tokens": [
+        50864,
+        3146,
+        19867,
+        264,
+        1378,
+        11,
+        309,
+        393,
+        12910,
+        15631,
+        264,
+        2302,
+        24128,
+        13,
+        51164
+      ],
+      "words": [
+        {
+          "end": 10.32,
+          "probability": 0.9161569476127625,
+          "start": 10.18,
+          "word": " By"
+        },
+        {
+          "end": 10.84,
+          "probability": 0.7957191467285156,
+          "start": 10.32,
+          "word": " consuming"
+        },
+        {
+          "end": 11.08,
+          "probability": 0.8035959005355835,
+          "start": 10.84,
+          "word": " the"
+        },
+        {
+          "end": 11.38,
+          "probability": 0.8604915738105774,
+          "start": 11.08,
+          "word": " head,"
+        },
+        {
+          "end": 12.1,
+          "probability": 0.8931847214698792,
+          "start": 11.88,
+          "word": " it"
+        },
+        {
+          "end": 12.3,
+          "probability": 0.8995712399482727,
+          "start": 12.1,
+          "word": " can"
+        },
+        {
+          "end": 12.8,
+          "probability": 0.8095132112503052,
+          "start": 12.3,
+          "word": " rapidly"
+        },
+        {
+          "end": 13.44,
+          "probability": 0.7372499704360962,
+          "start": 12.8,
+          "word": " absorb"
+        },
+        {
+          "end": 13.96,
+          "probability": 0.807170569896698,
+          "start": 13.44,
+          "word": " the"
+        },
+        {
+          "end": 14.46,
+          "probability": 0.7167322039604187,
+          "start": 13.96,
+          "word": " entire"
+        },
+        {
+          "end": 15.12,
+          "probability": 0.8940461277961731,
+          "start": 14.46,
+          "word": " organism."
+        }
+      ]
+    }
+  ],
+  "transcription": " Our new evolved species has developed a crucial hunting strategy. It must aim for the heads of its prey. By consuming the head, it can rapidly absorb the entire organism."
+}

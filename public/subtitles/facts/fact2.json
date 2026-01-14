@@ -1,0 +1,130 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3840668201446533,
+      "compression_ratio": 1.0897435897435896,
+      "end": 8.46,
+      "id": 0,
+      "no_speech_prob": 0.4209781587123871,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " The story of life is written not in grand gestures, but in countless small mutations.",
+      "tokens": [
+        50364,
+        440,
+        1657,
+        295,
+        993,
+        307,
+        3720,
+        406,
+        294,
+        2697,
+        28475,
+        11,
+        457,
+        294,
+        19223,
+        1359,
+        29243,
+        13,
+        50864
+      ],
+      "words": [
+        {
+          "end": 0.8,
+          "probability": 0.5981173515319824,
+          "start": 0,
+          "word": " The"
+        },
+        {
+          "end": 1.22,
+          "probability": 0.8282233476638794,
+          "start": 0.8,
+          "word": " story"
+        },
+        {
+          "end": 1.46,
+          "probability": 0.9084423184394836,
+          "start": 1.22,
+          "word": " of"
+        },
+        {
+          "end": 1.92,
+          "probability": 0.8057627081871033,
+          "start": 1.46,
+          "word": " life"
+        },
+        {
+          "end": 2.4,
+          "probability": 0.8737480640411377,
+          "start": 1.92,
+          "word": " is"
+        },
+        {
+          "end": 2.9,
+          "probability": 0.826041042804718,
+          "start": 2.4,
+          "word": " written"
+        },
+        {
+          "end": 3.24,
+          "probability": 0.8857942819595337,
+          "start": 2.9,
+          "word": " not"
+        },
+        {
+          "end": 3.46,
+          "probability": 0.9100011587142944,
+          "start": 3.24,
+          "word": " in"
+        },
+        {
+          "end": 3.94,
+          "probability": 0.6792165637016296,
+          "start": 3.46,
+          "word": " grand"
+        },
+        {
+          "end": 4.54,
+          "probability": 0.7691141963005066,
+          "start": 3.94,
+          "word": " gestures,"
+        },
+        {
+          "end": 5.72,
+          "probability": 0.8802137970924377,
+          "start": 5.28,
+          "word": " but"
+        },
+        {
+          "end": 5.98,
+          "probability": 0.906414806842804,
+          "start": 5.72,
+          "word": " in"
+        },
+        {
+          "end": 6.64,
+          "probability": 0.704261302947998,
+          "start": 5.98,
+          "word": " countless"
+        },
+        {
+          "end": 7.5,
+          "probability": 0.8327094912528992,
+          "start": 6.64,
+          "word": " small"
+        },
+        {
+          "end": 8.46,
+          "probability": 0.8522486090660095,
+          "start": 7.5,
+          "word": " mutations."
+        }
+      ]
+    }
+  ],
+  "transcription": " The story of life is written not in grand gestures, but in countless small mutations."
+}

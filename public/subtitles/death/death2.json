@@ -1,0 +1,191 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.2893969535827637,
+      "compression_ratio": 1.1770833333333333,
+      "end": 5.44,
+      "id": 0,
+      "no_speech_prob": 0.15182290971279144,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " It seems this creation wasn't quite ready for the big leagues.",
+      "tokens": [
+        50364,
+        467,
+        2544,
+        341,
+        8016,
+        2067,
+        380,
+        1596,
+        1919,
+        337,
+        264,
+        955,
+        48429,
+        13,
+        50632
+      ],
+      "words": [
+        {
+          "end": 0.32,
+          "probability": 0.7550405859947205,
+          "start": 0,
+          "word": " It"
+        },
+        {
+          "end": 0.84,
+          "probability": 0.7460236549377441,
+          "start": 0.32,
+          "word": " seems"
+        },
+        {
+          "end": 1.72,
+          "probability": 0.6783514618873596,
+          "start": 0.84,
+          "word": " this"
+        },
+        {
+          "end": 2.7,
+          "probability": 0.770182728767395,
+          "start": 1.72,
+          "word": " creation"
+        },
+        {
+          "end": 3.6,
+          "probability": 0.9130457043647766,
+          "start": 2.7,
+          "word": " wasn't"
+        },
+        {
+          "end": 3.92,
+          "probability": 0.8714269995689392,
+          "start": 3.6,
+          "word": " quite"
+        },
+        {
+          "end": 4.3,
+          "probability": 0.8162054419517517,
+          "start": 3.92,
+          "word": " ready"
+        },
+        {
+          "end": 4.56,
+          "probability": 0.8964652419090271,
+          "start": 4.3,
+          "word": " for"
+        },
+        {
+          "end": 4.72,
+          "probability": 0.8078781962394714,
+          "start": 4.56,
+          "word": " the"
+        },
+        {
+          "end": 4.94,
+          "probability": 0.8819738626480103,
+          "start": 4.72,
+          "word": " big"
+        },
+        {
+          "end": 5.44,
+          "probability": 0.4087600111961365,
+          "start": 4.94,
+          "word": " leagues."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2893969535827637,
+      "compression_ratio": 1.1770833333333333,
+      "end": 10.12,
+      "id": 1,
+      "no_speech_prob": 0.15182290971279144,
+      "seek": 0,
+      "start": 6.46,
+      "temperature": 0,
+      "text": " Nature has a way of weeding out the less prepared.",
+      "tokens": [
+        50688,
+        20159,
+        575,
+        257,
+        636,
+        295,
+        321,
+        9794,
+        484,
+        264,
+        1570,
+        4927,
+        13,
+        50920
+      ],
+      "words": [
+        {
+          "end": 6.9,
+          "probability": 0.793135941028595,
+          "start": 6.46,
+          "word": " Nature"
+        },
+        {
+          "end": 7.24,
+          "probability": 0.9063900113105774,
+          "start": 6.9,
+          "word": " has"
+        },
+        {
+          "end": 7.4,
+          "probability": 0.995390772819519,
+          "start": 7.24,
+          "word": " a"
+        },
+        {
+          "end": 7.72,
+          "probability": 0.8934370279312134,
+          "start": 7.4,
+          "word": " way"
+        },
+        {
+          "end": 8.02,
+          "probability": 0.9063822031021118,
+          "start": 7.72,
+          "word": " of"
+        },
+        {
+          "end": 8.42,
+          "probability": 0.8390819132328033,
+          "start": 8.02,
+          "word": " weeding"
+        },
+        {
+          "end": 8.82,
+          "probability": 0.8190172910690308,
+          "start": 8.42,
+          "word": " out"
+        },
+        {
+          "end": 9.24,
+          "probability": 0.8037692904472351,
+          "start": 8.82,
+          "word": " the"
+        },
+        {
+          "end": 9.54,
+          "probability": 0.8910831809043884,
+          "start": 9.24,
+          "word": " less"
+        },
+        {
+          "end": 10.12,
+          "probability": 0.8120313882827759,
+          "start": 9.54,
+          "word": " prepared."
+        }
+      ]
+    }
+  ],
+  "transcription": " It seems this creation wasn't quite ready for the big leagues. Nature has a way of weeding out the less prepared."
+}

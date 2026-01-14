@@ -1,0 +1,303 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.30556766354307835,
+      "compression_ratio": 1.394736842105263,
+      "end": 5.08,
+      "id": 0,
+      "no_speech_prob": 0.2894526422023773,
+      "seek": 0,
+      "start": 0.32,
+      "temperature": 0,
+      "text": " Watch closely as the cell begins to evolve once more.",
+      "tokens": [
+        50364,
+        7277,
+        8185,
+        382,
+        264,
+        2815,
+        7338,
+        281,
+        16693,
+        1564,
+        544,
+        13,
+        50614
+      ],
+      "words": [
+        {
+          "end": 1.24,
+          "probability": 0.7871954441070557,
+          "start": 0.32,
+          "word": " Watch"
+        },
+        {
+          "end": 1.86,
+          "probability": 0.8074280023574829,
+          "start": 1.24,
+          "word": " closely"
+        },
+        {
+          "end": 2.4,
+          "probability": 0.7250972390174866,
+          "start": 1.86,
+          "word": " as"
+        },
+        {
+          "end": 2.62,
+          "probability": 0.8062628507614136,
+          "start": 2.4,
+          "word": " the"
+        },
+        {
+          "end": 2.88,
+          "probability": 0.7988564372062683,
+          "start": 2.62,
+          "word": " cell"
+        },
+        {
+          "end": 3.38,
+          "probability": 0.6837166547775269,
+          "start": 2.88,
+          "word": " begins"
+        },
+        {
+          "end": 3.62,
+          "probability": 0.9087868332862854,
+          "start": 3.38,
+          "word": " to"
+        },
+        {
+          "end": 4.04,
+          "probability": 0.7843392491340637,
+          "start": 3.62,
+          "word": " evolve"
+        },
+        {
+          "end": 4.64,
+          "probability": 0.8194363117218018,
+          "start": 4.04,
+          "word": " once"
+        },
+        {
+          "end": 5.08,
+          "probability": 0.8776150345802307,
+          "start": 4.64,
+          "word": " more."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.30556766354307835,
+      "compression_ratio": 1.394736842105263,
+      "end": 11.94,
+      "id": 1,
+      "no_speech_prob": 0.2894526422023773,
+      "seek": 0,
+      "start": 5.94,
+      "temperature": 0,
+      "text": " Inside, delicate structures are emerging, forming intricate patterns within.",
+      "tokens": [
+        50614,
+        15123,
+        11,
+        21417,
+        9227,
+        366,
+        14989,
+        11,
+        15745,
+        38015,
+        8294,
+        1951,
+        13,
+        50964
+      ],
+      "words": [
+        {
+          "end": 6.6,
+          "probability": 0.8655968308448792,
+          "start": 5.94,
+          "word": " Inside,"
+        },
+        {
+          "end": 7.24,
+          "probability": 0.8177330493927002,
+          "start": 6.94,
+          "word": " delicate"
+        },
+        {
+          "end": 7.94,
+          "probability": 0.6690353155136108,
+          "start": 7.24,
+          "word": " structures"
+        },
+        {
+          "end": 8.42,
+          "probability": 0.8800253868103027,
+          "start": 7.94,
+          "word": " are"
+        },
+        {
+          "end": 8.98,
+          "probability": 0.7892934083938599,
+          "start": 8.42,
+          "word": " emerging,"
+        },
+        {
+          "end": 10.06,
+          "probability": 0.7752510905265808,
+          "start": 9.72,
+          "word": " forming"
+        },
+        {
+          "end": 10.82,
+          "probability": 0.7842793464660645,
+          "start": 10.06,
+          "word": " intricate"
+        },
+        {
+          "end": 11.46,
+          "probability": 0.7524470686912537,
+          "start": 10.82,
+          "word": " patterns"
+        },
+        {
+          "end": 11.94,
+          "probability": 0.7735565304756165,
+          "start": 11.46,
+          "word": " within."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.30556766354307835,
+      "compression_ratio": 1.394736842105263,
+      "end": 19.52,
+      "id": 2,
+      "no_speech_prob": 0.2894526422023773,
+      "seek": 0,
+      "start": 12.94,
+      "temperature": 0,
+      "text": " The color along its rim deepens, casting a soft, radiant glow in the dark waters.",
+      "tokens": [
+        50964,
+        440,
+        2017,
+        2051,
+        1080,
+        15982,
+        2452,
+        694,
+        11,
+        17301,
+        257,
+        2787,
+        11,
+        49430,
+        17513,
+        294,
+        264,
+        2877,
+        12975,
+        13,
+        51364
+      ],
+      "words": [
+        {
+          "end": 13.26,
+          "probability": 0.824509859085083,
+          "start": 12.94,
+          "word": " The"
+        },
+        {
+          "end": 13.56,
+          "probability": 0.6109691858291626,
+          "start": 13.26,
+          "word": " color"
+        },
+        {
+          "end": 13.92,
+          "probability": 0.9236325621604919,
+          "start": 13.56,
+          "word": " along"
+        },
+        {
+          "end": 14.14,
+          "probability": 0.7993008494377136,
+          "start": 13.92,
+          "word": " its"
+        },
+        {
+          "end": 14.36,
+          "probability": 0.9509985446929932,
+          "start": 14.14,
+          "word": " rim"
+        },
+        {
+          "end": 15.1,
+          "probability": 0.964729368686676,
+          "start": 14.36,
+          "word": " deepens,"
+        },
+        {
+          "end": 16.16,
+          "probability": 0.7303984761238098,
+          "start": 15.78,
+          "word": " casting"
+        },
+        {
+          "end": 16.42,
+          "probability": 0.9978836178779602,
+          "start": 16.16,
+          "word": " a"
+        },
+        {
+          "end": 16.88,
+          "probability": 0.8355447053909302,
+          "start": 16.42,
+          "word": " soft,"
+        },
+        {
+          "end": 17.66,
+          "probability": 0.741370677947998,
+          "start": 17.34,
+          "word": " radiant"
+        },
+        {
+          "end": 18.14,
+          "probability": 0.8886206150054932,
+          "start": 17.66,
+          "word": " glow"
+        },
+        {
+          "end": 18.48,
+          "probability": 0.8979801535606384,
+          "start": 18.14,
+          "word": " in"
+        },
+        {
+          "end": 18.62,
+          "probability": 0.7993988990783691,
+          "start": 18.48,
+          "word": " the"
+        },
+        {
+          "end": 18.94,
+          "probability": 0.8099681735038757,
+          "start": 18.62,
+          "word": " dark"
+        },
+        {
+          "end": 19.52,
+          "probability": 0.7149982452392578,
+          "start": 18.94,
+          "word": " waters."
+        }
+      ]
+    }
+  ],
+  "transcription": " Watch closely as the cell begins to evolve once more. Inside, delicate structures are emerging, forming intricate patterns within. The color along its rim deepens, casting a soft, radiant glow in the dark waters."
+}

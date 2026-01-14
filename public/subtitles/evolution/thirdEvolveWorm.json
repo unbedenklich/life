@@ -1,0 +1,264 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3855502106422602,
+      "compression_ratio": 1.3622047244094488,
+      "end": 7.84,
+      "id": 0,
+      "no_speech_prob": 0.0637652799487114,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " The creature has evolved again, its form broadening with a tapering tail-like end.",
+      "tokens": [
+        50364,
+        440,
+        12797,
+        575,
+        14178,
+        797,
+        11,
+        1080,
+        1254,
+        4152,
+        4559,
+        365,
+        257,
+        5119,
+        1794,
+        6838,
+        12,
+        4092,
+        917,
+        13,
+        50764
+      ],
+      "words": [
+        {
+          "end": 0.7,
+          "probability": 0.6272907853126526,
+          "start": 0,
+          "word": " The"
+        },
+        {
+          "end": 1.24,
+          "probability": 0.7294762134552002,
+          "start": 0.7,
+          "word": " creature"
+        },
+        {
+          "end": 1.62,
+          "probability": 0.8950091004371643,
+          "start": 1.24,
+          "word": " has"
+        },
+        {
+          "end": 2.28,
+          "probability": 0.7141299247741699,
+          "start": 1.62,
+          "word": " evolved"
+        },
+        {
+          "end": 3,
+          "probability": 0.8348234295845032,
+          "start": 2.28,
+          "word": " again,"
+        },
+        {
+          "end": 3.96,
+          "probability": 0.672308087348938,
+          "start": 3.82,
+          "word": " its"
+        },
+        {
+          "end": 4.44,
+          "probability": 0.821049153804779,
+          "start": 3.96,
+          "word": " form"
+        },
+        {
+          "end": 5.26,
+          "probability": 0.934546709060669,
+          "start": 4.44,
+          "word": " broadening"
+        },
+        {
+          "end": 5.78,
+          "probability": 0.7435424327850342,
+          "start": 5.26,
+          "word": " with"
+        },
+        {
+          "end": 6,
+          "probability": 0.9851581454277039,
+          "start": 5.78,
+          "word": " a"
+        },
+        {
+          "end": 6.58,
+          "probability": 0.8700557053089142,
+          "start": 6,
+          "word": " tapering"
+        },
+        {
+          "end": 7,
+          "probability": 0.5928059816360474,
+          "start": 6.58,
+          "word": " tail"
+        },
+        {
+          "end": 7.32,
+          "probability": 0.795415997505188,
+          "start": 7,
+          "word": "-like"
+        },
+        {
+          "end": 7.84,
+          "probability": 0.7958347201347351,
+          "start": 7.32,
+          "word": " end."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3855502106422602,
+      "compression_ratio": 1.3622047244094488,
+      "end": 15.84,
+      "id": 1,
+      "no_speech_prob": 0.0637652799487114,
+      "seek": 0,
+      "start": 8.66,
+      "temperature": 0,
+      "text": " With a wider body it now moves with greater power, and its larger eyes sharpen its vision.",
+      "tokens": [
+        50764,
+        2022,
+        257,
+        11842,
+        1772,
+        309,
+        586,
+        6067,
+        365,
+        5044,
+        1347,
+        11,
+        293,
+        1080,
+        4833,
+        2575,
+        31570,
+        1080,
+        5201,
+        13,
+        51164
+      ],
+      "words": [
+        {
+          "end": 8.96,
+          "probability": 0.8752154111862183,
+          "start": 8.66,
+          "word": " With"
+        },
+        {
+          "end": 9.12,
+          "probability": 0.9933133721351624,
+          "start": 8.96,
+          "word": " a"
+        },
+        {
+          "end": 9.44,
+          "probability": 0.8392332792282104,
+          "start": 9.12,
+          "word": " wider"
+        },
+        {
+          "end": 9.94,
+          "probability": 0.8280107975006104,
+          "start": 9.44,
+          "word": " body"
+        },
+        {
+          "end": 10.38,
+          "probability": 0.5684674382209778,
+          "start": 9.94,
+          "word": " it"
+        },
+        {
+          "end": 10.64,
+          "probability": 0.9035662412643433,
+          "start": 10.38,
+          "word": " now"
+        },
+        {
+          "end": 11,
+          "probability": 0.8196447491645813,
+          "start": 10.64,
+          "word": " moves"
+        },
+        {
+          "end": 11.5,
+          "probability": 0.817635715007782,
+          "start": 11,
+          "word": " with"
+        },
+        {
+          "end": 12.12,
+          "probability": 0.8167951703071594,
+          "start": 11.5,
+          "word": " greater"
+        },
+        {
+          "end": 12.68,
+          "probability": 0.8098198771476746,
+          "start": 12.12,
+          "word": " power,"
+        },
+        {
+          "end": 13.3,
+          "probability": 0.8836151361465454,
+          "start": 13.18,
+          "word": " and"
+        },
+        {
+          "end": 13.48,
+          "probability": 0.801342248916626,
+          "start": 13.3,
+          "word": " its"
+        },
+        {
+          "end": 13.88,
+          "probability": 0.833745539188385,
+          "start": 13.48,
+          "word": " larger"
+        },
+        {
+          "end": 14.4,
+          "probability": 0.8240694403648376,
+          "start": 13.88,
+          "word": " eyes"
+        },
+        {
+          "end": 15.18,
+          "probability": 0.8758467435836792,
+          "start": 14.4,
+          "word": " sharpen"
+        },
+        {
+          "end": 15.44,
+          "probability": 0.7833620309829712,
+          "start": 15.18,
+          "word": " its"
+        },
+        {
+          "end": 15.84,
+          "probability": 0.7677035331726074,
+          "start": 15.44,
+          "word": " vision."
+        }
+      ]
+    }
+  ],
+  "transcription": " The creature has evolved again, its form broadening with a tapering tail-like end. With a wider body it now moves with greater power, and its larger eyes sharpen its vision."
+}

@@ -1,0 +1,431 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3025974793867631,
+      "compression_ratio": 1.5105263157894737,
+      "end": 7.9,
+      "id": 0,
+      "no_speech_prob": 0.008260407485067844,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " 2.2 billion years ago, Earth faces its first significant ice age,",
+      "tokens": [
+        50364,
+        568,
+        13,
+        17,
+        5218,
+        924,
+        2057,
+        11,
+        4755,
+        8475,
+        1080,
+        700,
+        4776,
+        4435,
+        3205,
+        11,
+        50764
+      ],
+      "words": [
+        {
+          "end": 0.64,
+          "probability": 0.9137077927589417,
+          "start": 0,
+          "word": " 2"
+        },
+        {
+          "end": 1.44,
+          "probability": 0.9827141165733337,
+          "start": 0.64,
+          "word": ".2"
+        },
+        {
+          "end": 2.02,
+          "probability": 0.707571268081665,
+          "start": 1.44,
+          "word": " billion"
+        },
+        {
+          "end": 2.6,
+          "probability": 0.8719671368598938,
+          "start": 2.02,
+          "word": " years"
+        },
+        {
+          "end": 3.08,
+          "probability": 0.8001838326454163,
+          "start": 2.6,
+          "word": " ago,"
+        },
+        {
+          "end": 4.22,
+          "probability": 0.5998902916908264,
+          "start": 3.68,
+          "word": " Earth"
+        },
+        {
+          "end": 5.1,
+          "probability": 0.6091219186782837,
+          "start": 4.22,
+          "word": " faces"
+        },
+        {
+          "end": 5.46,
+          "probability": 0.7524699568748474,
+          "start": 5.1,
+          "word": " its"
+        },
+        {
+          "end": 5.86,
+          "probability": 0.7990348935127258,
+          "start": 5.46,
+          "word": " first"
+        },
+        {
+          "end": 6.72,
+          "probability": 0.7761818170547485,
+          "start": 5.86,
+          "word": " significant"
+        },
+        {
+          "end": 7.3,
+          "probability": 0.5733742713928223,
+          "start": 6.72,
+          "word": " ice"
+        },
+        {
+          "end": 7.9,
+          "probability": 0.9031991958618164,
+          "start": 7.3,
+          "word": " age,"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3025974793867631,
+      "compression_ratio": 1.5105263157894737,
+      "end": 12.1,
+      "id": 1,
+      "no_speech_prob": 0.008260407485067844,
+      "seek": 0,
+      "start": 8.78,
+      "temperature": 0,
+      "text": " covering vast portions of the planet in ice.",
+      "tokens": [
+        50764,
+        10322,
+        8369,
+        25070,
+        295,
+        264,
+        5054,
+        294,
+        4435,
+        13,
+        50964
+      ],
+      "words": [
+        {
+          "end": 9.18,
+          "probability": 0.7997272610664368,
+          "start": 8.78,
+          "word": " covering"
+        },
+        {
+          "end": 9.96,
+          "probability": 0.9043903946876526,
+          "start": 9.18,
+          "word": " vast"
+        },
+        {
+          "end": 10.5,
+          "probability": 0.8857106566429138,
+          "start": 9.96,
+          "word": " portions"
+        },
+        {
+          "end": 10.82,
+          "probability": 0.9086239337921143,
+          "start": 10.5,
+          "word": " of"
+        },
+        {
+          "end": 10.96,
+          "probability": 0.8096161484718323,
+          "start": 10.82,
+          "word": " the"
+        },
+        {
+          "end": 11.3,
+          "probability": 0.8588793277740479,
+          "start": 10.96,
+          "word": " planet"
+        },
+        {
+          "end": 11.6,
+          "probability": 0.8919485807418823,
+          "start": 11.3,
+          "word": " in"
+        },
+        {
+          "end": 12.1,
+          "probability": 0.8197095394134521,
+          "start": 11.6,
+          "word": " ice."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3025974793867631,
+      "compression_ratio": 1.5105263157894737,
+      "end": 17.84,
+      "id": 2,
+      "no_speech_prob": 0.008260407485067844,
+      "seek": 0,
+      "start": 12.7,
+      "temperature": 0,
+      "text": " Yet beneath the frozen surface, the oceans remain a refuge for life,",
+      "tokens": [
+        50964,
+        10890,
+        17149,
+        264,
+        12496,
+        3753,
+        11,
+        264,
+        25004,
+        6222,
+        257,
+        10991,
+        337,
+        993,
+        11,
+        51264
+      ],
+      "words": [
+        {
+          "end": 12.98,
+          "probability": 0.9539586901664734,
+          "start": 12.7,
+          "word": " Yet"
+        },
+        {
+          "end": 13.4,
+          "probability": 0.7119413018226624,
+          "start": 12.98,
+          "word": " beneath"
+        },
+        {
+          "end": 13.68,
+          "probability": 0.8113060593605042,
+          "start": 13.4,
+          "word": " the"
+        },
+        {
+          "end": 14.04,
+          "probability": 0.8470314145088196,
+          "start": 13.68,
+          "word": " frozen"
+        },
+        {
+          "end": 14.68,
+          "probability": 0.8087829947471619,
+          "start": 14.04,
+          "word": " surface,"
+        },
+        {
+          "end": 15.44,
+          "probability": 0.813819408416748,
+          "start": 15.3,
+          "word": " the"
+        },
+        {
+          "end": 15.9,
+          "probability": 0.8504431843757629,
+          "start": 15.44,
+          "word": " oceans"
+        },
+        {
+          "end": 16.46,
+          "probability": 0.7835713624954224,
+          "start": 15.9,
+          "word": " remain"
+        },
+        {
+          "end": 16.76,
+          "probability": 0.9966237545013428,
+          "start": 16.46,
+          "word": " a"
+        },
+        {
+          "end": 17.16,
+          "probability": 0.8172141909599304,
+          "start": 16.76,
+          "word": " refuge"
+        },
+        {
+          "end": 17.42,
+          "probability": 0.8979541063308716,
+          "start": 17.16,
+          "word": " for"
+        },
+        {
+          "end": 17.84,
+          "probability": 0.8229659795761108,
+          "start": 17.42,
+          "word": " life,"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3025974793867631,
+      "compression_ratio": 1.5105263157894737,
+      "end": 26.28,
+      "id": 3,
+      "no_speech_prob": 0.008260407485067844,
+      "seek": 0,
+      "start": 18.54,
+      "temperature": 0,
+      "text": " isolated from the harsh surface conditions and nurturing the early forms that will one day shape the world.",
+      "tokens": [
+        51264,
+        14621,
+        490,
+        264,
+        14897,
+        3753,
+        4487,
+        293,
+        48116,
+        264,
+        2440,
+        6422,
+        300,
+        486,
+        472,
+        786,
+        3909,
+        264,
+        1002,
+        13,
+        51714
+      ],
+      "words": [
+        {
+          "end": 18.96,
+          "probability": 0.9273902177810669,
+          "start": 18.54,
+          "word": " isolated"
+        },
+        {
+          "end": 19.74,
+          "probability": 0.8195784091949463,
+          "start": 18.96,
+          "word": " from"
+        },
+        {
+          "end": 19.96,
+          "probability": 0.8092042207717896,
+          "start": 19.74,
+          "word": " the"
+        },
+        {
+          "end": 20.32,
+          "probability": 0.788399875164032,
+          "start": 19.96,
+          "word": " harsh"
+        },
+        {
+          "end": 20.8,
+          "probability": 0.791612446308136,
+          "start": 20.32,
+          "word": " surface"
+        },
+        {
+          "end": 21.48,
+          "probability": 0.8380984663963318,
+          "start": 20.8,
+          "word": " conditions"
+        },
+        {
+          "end": 22.22,
+          "probability": 0.7645780444145203,
+          "start": 21.48,
+          "word": " and"
+        },
+        {
+          "end": 22.68,
+          "probability": 0.7376431822776794,
+          "start": 22.22,
+          "word": " nurturing"
+        },
+        {
+          "end": 23.02,
+          "probability": 0.8143488764762878,
+          "start": 22.68,
+          "word": " the"
+        },
+        {
+          "end": 23.32,
+          "probability": 0.8195996284484863,
+          "start": 23.02,
+          "word": " early"
+        },
+        {
+          "end": 23.86,
+          "probability": 0.7455164194107056,
+          "start": 23.32,
+          "word": " forms"
+        },
+        {
+          "end": 24.36,
+          "probability": 0.8619831800460815,
+          "start": 23.86,
+          "word": " that"
+        },
+        {
+          "end": 24.54,
+          "probability": 0.8267521262168884,
+          "start": 24.36,
+          "word": " will"
+        },
+        {
+          "end": 24.84,
+          "probability": 0.813269317150116,
+          "start": 24.54,
+          "word": " one"
+        },
+        {
+          "end": 25.08,
+          "probability": 0.8915016651153564,
+          "start": 24.84,
+          "word": " day"
+        },
+        {
+          "end": 25.58,
+          "probability": 0.8112183213233948,
+          "start": 25.08,
+          "word": " shape"
+        },
+        {
+          "end": 25.82,
+          "probability": 0.8135350346565247,
+          "start": 25.58,
+          "word": " the"
+        },
+        {
+          "end": 26.28,
+          "probability": 0.8811897039413452,
+          "start": 25.82,
+          "word": " world."
+        }
+      ]
+    }
+  ],
+  "transcription": " 2.2 billion years ago, Earth faces its first significant ice age, covering vast portions of the planet in ice. Yet beneath the frozen surface, the oceans remain a refuge for life, isolated from the harsh surface conditions and nurturing the early forms that will one day shape the world."
+}

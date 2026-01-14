@@ -1,0 +1,175 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3666736997407058,
+      "compression_ratio": 1.1290322580645162,
+      "end": 12.44,
+      "id": 0,
+      "no_speech_prob": 0.1211465373635292,
+      "seek": 0,
+      "start": 0.54,
+      "temperature": 0,
+      "text": " The giant tube worm found near hydrothermal vents can grow up to 2.4 meters long, all from a single cell.",
+      "tokens": [
+        50364,
+        440,
+        7410,
+        9917,
+        23835,
+        1352,
+        2651,
+        5796,
+        81,
+        47280,
+        40048,
+        393,
+        1852,
+        493,
+        281,
+        568,
+        13,
+        19,
+        8146,
+        938,
+        11,
+        439,
+        490,
+        257,
+        2167,
+        2815,
+        13,
+        51014
+      ],
+      "words": [
+        {
+          "end": 1.54,
+          "probability": 0.7058953046798706,
+          "start": 0.54,
+          "word": " The"
+        },
+        {
+          "end": 2,
+          "probability": 0.7433350086212158,
+          "start": 1.54,
+          "word": " giant"
+        },
+        {
+          "end": 2.4,
+          "probability": 0.8762454390525818,
+          "start": 2,
+          "word": " tube"
+        },
+        {
+          "end": 2.9,
+          "probability": 0.6255261898040771,
+          "start": 2.4,
+          "word": " worm"
+        },
+        {
+          "end": 3.64,
+          "probability": 0.7427844405174255,
+          "start": 2.9,
+          "word": " found"
+        },
+        {
+          "end": 4.02,
+          "probability": 0.7992227673530579,
+          "start": 3.64,
+          "word": " near"
+        },
+        {
+          "end": 5.04,
+          "probability": 0.8297564387321472,
+          "start": 4.02,
+          "word": " hydrothermal"
+        },
+        {
+          "end": 5.66,
+          "probability": 0.7326299548149109,
+          "start": 5.04,
+          "word": " vents"
+        },
+        {
+          "end": 6.64,
+          "probability": 0.8341129422187805,
+          "start": 5.66,
+          "word": " can"
+        },
+        {
+          "end": 6.94,
+          "probability": 0.7939839363098145,
+          "start": 6.64,
+          "word": " grow"
+        },
+        {
+          "end": 7.18,
+          "probability": 0.8777855634689331,
+          "start": 6.94,
+          "word": " up"
+        },
+        {
+          "end": 7.38,
+          "probability": 0.8957359790802002,
+          "start": 7.18,
+          "word": " to"
+        },
+        {
+          "end": 7.9,
+          "probability": 0.9803652763366699,
+          "start": 7.38,
+          "word": " 2"
+        },
+        {
+          "end": 8.64,
+          "probability": 0.9686591923236847,
+          "start": 7.9,
+          "word": ".4"
+        },
+        {
+          "end": 9,
+          "probability": 0.4583480954170227,
+          "start": 8.64,
+          "word": " meters"
+        },
+        {
+          "end": 9.58,
+          "probability": 0.8934338688850403,
+          "start": 9,
+          "word": " long,"
+        },
+        {
+          "end": 10.84,
+          "probability": 0.8683471083641052,
+          "start": 10.36,
+          "word": " all"
+        },
+        {
+          "end": 11.3,
+          "probability": 0.818385124206543,
+          "start": 10.84,
+          "word": " from"
+        },
+        {
+          "end": 11.5,
+          "probability": 0.9871845841407776,
+          "start": 11.3,
+          "word": " a"
+        },
+        {
+          "end": 11.9,
+          "probability": 0.8730465769767761,
+          "start": 11.5,
+          "word": " single"
+        },
+        {
+          "end": 12.44,
+          "probability": 0.8308085203170776,
+          "start": 11.9,
+          "word": " cell."
+        }
+      ]
+    }
+  ],
+  "transcription": " The giant tube worm found near hydrothermal vents can grow up to 2.4 meters long, all from a single cell."
+}

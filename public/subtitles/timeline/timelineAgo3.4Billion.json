@@ -1,0 +1,270 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.29677181243896483,
+      "compression_ratio": 1.328,
+      "end": 8.14,
+      "id": 0,
+      "no_speech_prob": 0.356611043214798,
+      "seek": 0,
+      "start": 0.04,
+      "temperature": 0,
+      "text": " Just a short time later, the seas are still dark and thick. The atmosphere",
+      "tokens": [
+        50364,
+        1449,
+        257,
+        2099,
+        565,
+        1780,
+        11,
+        264,
+        22535,
+        366,
+        920,
+        2877,
+        293,
+        5060,
+        13,
+        440,
+        8018,
+        50776
+      ],
+      "words": [
+        {
+          "end": 1.04,
+          "probability": 0.5704945921897888,
+          "start": 0.04,
+          "word": " Just"
+        },
+        {
+          "end": 1.36,
+          "probability": 0.9926639795303345,
+          "start": 1.04,
+          "word": " a"
+        },
+        {
+          "end": 1.62,
+          "probability": 0.8962283730506897,
+          "start": 1.36,
+          "word": " short"
+        },
+        {
+          "end": 1.98,
+          "probability": 0.8061330318450928,
+          "start": 1.62,
+          "word": " time"
+        },
+        {
+          "end": 2.48,
+          "probability": 0.8718225955963135,
+          "start": 1.98,
+          "word": " later,"
+        },
+        {
+          "end": 3.56,
+          "probability": 0.7920702695846558,
+          "start": 3.26,
+          "word": " the"
+        },
+        {
+          "end": 3.96,
+          "probability": 0.8908585906028748,
+          "start": 3.56,
+          "word": " seas"
+        },
+        {
+          "end": 4.26,
+          "probability": 0.8879412412643433,
+          "start": 3.96,
+          "word": " are"
+        },
+        {
+          "end": 4.8,
+          "probability": 0.9193027019500732,
+          "start": 4.26,
+          "word": " still"
+        },
+        {
+          "end": 5.68,
+          "probability": 0.7937872409820557,
+          "start": 4.8,
+          "word": " dark"
+        },
+        {
+          "end": 6.06,
+          "probability": 0.8925926685333252,
+          "start": 5.68,
+          "word": " and"
+        },
+        {
+          "end": 6.56,
+          "probability": 0.8506143093109131,
+          "start": 6.06,
+          "word": " thick."
+        },
+        {
+          "end": 7.64,
+          "probability": 0.8115688562393188,
+          "start": 7.24,
+          "word": " The"
+        },
+        {
+          "end": 8.14,
+          "probability": 0.7845496535301208,
+          "start": 7.64,
+          "word": " atmosphere"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.29677181243896483,
+      "compression_ratio": 1.328,
+      "end": 16.16,
+      "id": 1,
+      "no_speech_prob": 0.356611043214798,
+      "seek": 0,
+      "start": 8.14,
+      "temperature": 0,
+      "text": " above is filled with toxic gases which means that no light can penetrate these",
+      "tokens": [
+        50776,
+        3673,
+        307,
+        6412,
+        365,
+        12786,
+        21452,
+        597,
+        1355,
+        300,
+        572,
+        1442,
+        393,
+        36307,
+        613,
+        51166
+      ],
+      "words": [
+        {
+          "end": 8.8,
+          "probability": 0.8920617699623108,
+          "start": 8.14,
+          "word": " above"
+        },
+        {
+          "end": 9.6,
+          "probability": 0.8805143237113953,
+          "start": 8.8,
+          "word": " is"
+        },
+        {
+          "end": 9.94,
+          "probability": 0.8160186409950256,
+          "start": 9.6,
+          "word": " filled"
+        },
+        {
+          "end": 10.18,
+          "probability": 0.8164786696434021,
+          "start": 9.94,
+          "word": " with"
+        },
+        {
+          "end": 10.74,
+          "probability": 0.8569586277008057,
+          "start": 10.18,
+          "word": " toxic"
+        },
+        {
+          "end": 11.4,
+          "probability": 0.7128680944442749,
+          "start": 10.74,
+          "word": " gases"
+        },
+        {
+          "end": 12.42,
+          "probability": 0.36629238724708557,
+          "start": 11.4,
+          "word": " which"
+        },
+        {
+          "end": 12.82,
+          "probability": 0.8630776405334473,
+          "start": 12.42,
+          "word": " means"
+        },
+        {
+          "end": 13.18,
+          "probability": 0.855542778968811,
+          "start": 12.82,
+          "word": " that"
+        },
+        {
+          "end": 14.02,
+          "probability": 0.8875697255134583,
+          "start": 13.18,
+          "word": " no"
+        },
+        {
+          "end": 14.54,
+          "probability": 0.7991666793823242,
+          "start": 14.02,
+          "word": " light"
+        },
+        {
+          "end": 14.96,
+          "probability": 0.8974785208702087,
+          "start": 14.54,
+          "word": " can"
+        },
+        {
+          "end": 15.62,
+          "probability": 0.9091411232948303,
+          "start": 14.96,
+          "word": " penetrate"
+        },
+        {
+          "end": 16.16,
+          "probability": 0.6861339807510376,
+          "start": 15.62,
+          "word": " these"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.29677181243896483,
+      "compression_ratio": 1.328,
+      "end": 17.24,
+      "id": 2,
+      "no_speech_prob": 0.356611043214798,
+      "seek": 0,
+      "start": 16.16,
+      "temperature": 0,
+      "text": " deep waters.",
+      "tokens": [
+        51166,
+        2452,
+        12975,
+        13,
+        51326
+      ],
+      "words": [
+        {
+          "end": 16.62,
+          "probability": 0.9140432476997375,
+          "start": 16.16,
+          "word": " deep"
+        },
+        {
+          "end": 17.24,
+          "probability": 0.74950110912323,
+          "start": 16.62,
+          "word": " waters."
+        }
+      ]
+    }
+  ],
+  "transcription": " Just a short time later, the seas are still dark and thick. The atmosphere above is filled with toxic gases which means that no light can penetrate these deep waters."
+}

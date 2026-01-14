@@ -1,0 +1,302 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.26440521522804544,
+      "compression_ratio": 1.41875,
+      "end": 6.74,
+      "id": 0,
+      "no_speech_prob": 0.014442083425819874,
+      "seek": 0,
+      "start": 0.14,
+      "temperature": 0,
+      "text": " Roughly a billion years later, bioluminescent organisms begin to",
+      "tokens": [
+        50364,
+        42791,
+        356,
+        257,
+        5218,
+        924,
+        1780,
+        11,
+        3228,
+        401,
+        449,
+        1652,
+        2207,
+        22110,
+        1841,
+        281,
+        50698
+      ],
+      "words": [
+        {
+          "end": 1.22,
+          "probability": 0.7767490148544312,
+          "start": 0.14,
+          "word": " Roughly"
+        },
+        {
+          "end": 1.58,
+          "probability": 0.9786036610603333,
+          "start": 1.22,
+          "word": " a"
+        },
+        {
+          "end": 1.94,
+          "probability": 0.777043879032135,
+          "start": 1.58,
+          "word": " billion"
+        },
+        {
+          "end": 2.48,
+          "probability": 0.8797508478164673,
+          "start": 1.94,
+          "word": " years"
+        },
+        {
+          "end": 3.14,
+          "probability": 0.8764368295669556,
+          "start": 2.48,
+          "word": " later,"
+        },
+        {
+          "end": 5,
+          "probability": 0.9745664715766906,
+          "start": 3.88,
+          "word": " bioluminescent"
+        },
+        {
+          "end": 5.76,
+          "probability": 0.854037880897522,
+          "start": 5,
+          "word": " organisms"
+        },
+        {
+          "end": 6.46,
+          "probability": 0.7321414947509766,
+          "start": 5.76,
+          "word": " begin"
+        },
+        {
+          "end": 6.74,
+          "probability": 0.9091345071792603,
+          "start": 6.46,
+          "word": " to"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26440521522804544,
+      "compression_ratio": 1.41875,
+      "end": 14.12,
+      "id": 1,
+      "no_speech_prob": 0.014442083425819874,
+      "seek": 0,
+      "start": 6.74,
+      "temperature": 0,
+      "text": " flicker to life, casting eerie glows. These faint lights mark the beginning of",
+      "tokens": [
+        50698,
+        22774,
+        260,
+        281,
+        993,
+        11,
+        17301,
+        308,
+        17487,
+        1563,
+        1509,
+        13,
+        1981,
+        21104,
+        5811,
+        1491,
+        264,
+        2863,
+        295,
+        51066
+      ],
+      "words": [
+        {
+          "end": 7.14,
+          "probability": 0.8797668814659119,
+          "start": 6.74,
+          "word": " flicker"
+        },
+        {
+          "end": 7.36,
+          "probability": 0.9059110879898071,
+          "start": 7.14,
+          "word": " to"
+        },
+        {
+          "end": 7.8,
+          "probability": 0.8204817771911621,
+          "start": 7.36,
+          "word": " life,"
+        },
+        {
+          "end": 9.34,
+          "probability": 0.7243546843528748,
+          "start": 8.84,
+          "word": " casting"
+        },
+        {
+          "end": 10.08,
+          "probability": 0.877265065908432,
+          "start": 9.34,
+          "word": " eerie"
+        },
+        {
+          "end": 10.66,
+          "probability": 0.8860251903533936,
+          "start": 10.08,
+          "word": " glows."
+        },
+        {
+          "end": 11.82,
+          "probability": 0.9104281067848206,
+          "start": 11.52,
+          "word": " These"
+        },
+        {
+          "end": 12.32,
+          "probability": 0.8331294655799866,
+          "start": 11.82,
+          "word": " faint"
+        },
+        {
+          "end": 12.86,
+          "probability": 0.7203387022018433,
+          "start": 12.32,
+          "word": " lights"
+        },
+        {
+          "end": 13.28,
+          "probability": 0.828300952911377,
+          "start": 12.86,
+          "word": " mark"
+        },
+        {
+          "end": 13.44,
+          "probability": 0.816041111946106,
+          "start": 13.28,
+          "word": " the"
+        },
+        {
+          "end": 13.84,
+          "probability": 0.7948938608169556,
+          "start": 13.44,
+          "word": " beginning"
+        },
+        {
+          "end": 14.12,
+          "probability": 0.9067400693893433,
+          "start": 13.84,
+          "word": " of"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26440521522804544,
+      "compression_ratio": 1.41875,
+      "end": 21.32,
+      "id": 2,
+      "no_speech_prob": 0.014442083425819874,
+      "seek": 0,
+      "start": 14.12,
+      "temperature": 0,
+      "text": " communication between living creatures, a language written in flashes and glimmers.",
+      "tokens": [
+        51066,
+        6101,
+        1296,
+        2647,
+        12281,
+        11,
+        257,
+        2856,
+        3720,
+        294,
+        39665,
+        293,
+        1563,
+        43107,
+        13,
+        51528
+      ],
+      "words": [
+        {
+          "end": 14.96,
+          "probability": 0.6769195795059204,
+          "start": 14.12,
+          "word": " communication"
+        },
+        {
+          "end": 15.78,
+          "probability": 0.7849714756011963,
+          "start": 14.96,
+          "word": " between"
+        },
+        {
+          "end": 16.68,
+          "probability": 0.7476454973220825,
+          "start": 15.78,
+          "word": " living"
+        },
+        {
+          "end": 17.32,
+          "probability": 0.7897951602935791,
+          "start": 16.68,
+          "word": " creatures,"
+        },
+        {
+          "end": 18.22,
+          "probability": 0.9924450516700745,
+          "start": 18.08,
+          "word": " a"
+        },
+        {
+          "end": 18.68,
+          "probability": 0.6608866453170776,
+          "start": 18.22,
+          "word": " language"
+        },
+        {
+          "end": 19.5,
+          "probability": 0.842322587966919,
+          "start": 18.68,
+          "word": " written"
+        },
+        {
+          "end": 19.82,
+          "probability": 0.9032891392707825,
+          "start": 19.5,
+          "word": " in"
+        },
+        {
+          "end": 20.26,
+          "probability": 0.6770896315574646,
+          "start": 19.82,
+          "word": " flashes"
+        },
+        {
+          "end": 20.88,
+          "probability": 0.89276522397995,
+          "start": 20.26,
+          "word": " and"
+        },
+        {
+          "end": 21.32,
+          "probability": 0.8934025168418884,
+          "start": 20.88,
+          "word": " glimmers."
+        }
+      ]
+    }
+  ],
+  "transcription": " Roughly a billion years later, bioluminescent organisms begin to flicker to life, casting eerie glows. These faint lights mark the beginning of communication between living creatures, a language written in flashes and glimmers."
+}

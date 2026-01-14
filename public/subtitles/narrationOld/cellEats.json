@@ -1,0 +1,250 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.37093055539014863,
+      "compression_ratio": 1.318840579710145,
+      "end": 9.24,
+      "id": 0,
+      "no_speech_prob": 0.2248758226633072,
+      "seek": 0,
+      "start": 0.26,
+      "temperature": 0,
+      "text": " With each successful capture, the cell strengthens, its simple structure gradually becoming more complex.",
+      "tokens": [
+        50364,
+        2022,
+        1184,
+        4406,
+        7983,
+        11,
+        264,
+        2815,
+        3800,
+        694,
+        11,
+        1080,
+        2199,
+        3877,
+        13145,
+        5617,
+        544,
+        3997,
+        13,
+        50814
+      ],
+      "words": [
+        {
+          "end": 1.34,
+          "probability": 0.8164745569229126,
+          "start": 0.26,
+          "word": " With"
+        },
+        {
+          "end": 1.92,
+          "probability": 0.8428204655647278,
+          "start": 1.34,
+          "word": " each"
+        },
+        {
+          "end": 2.9,
+          "probability": 0.711534321308136,
+          "start": 1.92,
+          "word": " successful"
+        },
+        {
+          "end": 3.48,
+          "probability": 0.6879792213439941,
+          "start": 2.9,
+          "word": " capture,"
+        },
+        {
+          "end": 4.06,
+          "probability": 0.8078450560569763,
+          "start": 3.9,
+          "word": " the"
+        },
+        {
+          "end": 4.28,
+          "probability": 0.8199979662895203,
+          "start": 4.06,
+          "word": " cell"
+        },
+        {
+          "end": 5.6,
+          "probability": 0.831250786781311,
+          "start": 4.28,
+          "word": " strengthens,"
+        },
+        {
+          "end": 5.84,
+          "probability": 0.762182891368866,
+          "start": 5.6,
+          "word": " its"
+        },
+        {
+          "end": 6.16,
+          "probability": 0.9482511281967163,
+          "start": 5.84,
+          "word": " simple"
+        },
+        {
+          "end": 6.8,
+          "probability": 0.7354965209960938,
+          "start": 6.16,
+          "word": " structure"
+        },
+        {
+          "end": 7.82,
+          "probability": 0.7994033098220825,
+          "start": 6.8,
+          "word": " gradually"
+        },
+        {
+          "end": 8.32,
+          "probability": 0.74690842628479,
+          "start": 7.82,
+          "word": " becoming"
+        },
+        {
+          "end": 8.62,
+          "probability": 0.8740261197090149,
+          "start": 8.32,
+          "word": " more"
+        },
+        {
+          "end": 9.24,
+          "probability": 0.731880247592926,
+          "start": 8.62,
+          "word": " complex."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.37093055539014863,
+      "compression_ratio": 1.318840579710145,
+      "end": 19.38,
+      "id": 1,
+      "no_speech_prob": 0.2248758226633072,
+      "seek": 0,
+      "start": 10.16,
+      "temperature": 0,
+      "text": " This is the cycle of life in its most basic form. Hunt, consume and survive.",
+      "tokens": [
+        50814,
+        639,
+        307,
+        264,
+        6586,
+        295,
+        993,
+        294,
+        1080,
+        881,
+        3875,
+        1254,
+        13,
+        31740,
+        11,
+        14732,
+        293,
+        7867,
+        13,
+        51364
+      ],
+      "words": [
+        {
+          "end": 10.62,
+          "probability": 0.8040905594825745,
+          "start": 10.16,
+          "word": " This"
+        },
+        {
+          "end": 11,
+          "probability": 0.8985814452171326,
+          "start": 10.62,
+          "word": " is"
+        },
+        {
+          "end": 11.22,
+          "probability": 0.813122570514679,
+          "start": 11,
+          "word": " the"
+        },
+        {
+          "end": 11.62,
+          "probability": 0.9008729457855225,
+          "start": 11.22,
+          "word": " cycle"
+        },
+        {
+          "end": 11.92,
+          "probability": 0.8991294503211975,
+          "start": 11.62,
+          "word": " of"
+        },
+        {
+          "end": 12.34,
+          "probability": 0.8210234045982361,
+          "start": 11.92,
+          "word": " life"
+        },
+        {
+          "end": 12.98,
+          "probability": 0.6395629644393921,
+          "start": 12.34,
+          "word": " in"
+        },
+        {
+          "end": 13.14,
+          "probability": 0.7812269330024719,
+          "start": 12.98,
+          "word": " its"
+        },
+        {
+          "end": 13.64,
+          "probability": 0.8331917524337769,
+          "start": 13.14,
+          "word": " most"
+        },
+        {
+          "end": 14.28,
+          "probability": 0.9388701915740967,
+          "start": 13.64,
+          "word": " basic"
+        },
+        {
+          "end": 14.68,
+          "probability": 0.8115980625152588,
+          "start": 14.28,
+          "word": " form."
+        },
+        {
+          "end": 15.84,
+          "probability": 0.7914910316467285,
+          "start": 15.46,
+          "word": " Hunt,"
+        },
+        {
+          "end": 17.18,
+          "probability": 0.6621723175048828,
+          "start": 16.5,
+          "word": " consume"
+        },
+        {
+          "end": 18.48,
+          "probability": 0.48925480246543884,
+          "start": 17.18,
+          "word": " and"
+        },
+        {
+          "end": 19.38,
+          "probability": 0.826857328414917,
+          "start": 18.48,
+          "word": " survive."
+        }
+      ]
+    }
+  ],
+  "transcription": " With each successful capture, the cell strengthens, its simple structure gradually becoming more complex. This is the cycle of life in its most basic form. Hunt, consume and survive."
+}

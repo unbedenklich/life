@@ -1,0 +1,372 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.24168807170430168,
+      "compression_ratio": 1.4432432432432432,
+      "end": 6.48,
+      "id": 0,
+      "no_speech_prob": 0.02881363034248352,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " By 100 million years ago, the oceans have become rich with life.",
+      "tokens": [
+        50364,
+        3146,
+        2319,
+        2459,
+        924,
+        2057,
+        11,
+        264,
+        25004,
+        362,
+        1813,
+        4593,
+        365,
+        993,
+        13,
+        50714
+      ],
+      "words": [
+        {
+          "end": 0.94,
+          "probability": 0.8355275392532349,
+          "start": 0,
+          "word": " By"
+        },
+        {
+          "end": 1.64,
+          "probability": 0.674919843673706,
+          "start": 0.94,
+          "word": " 100"
+        },
+        {
+          "end": 2.12,
+          "probability": 0.7693414092063904,
+          "start": 1.64,
+          "word": " million"
+        },
+        {
+          "end": 2.58,
+          "probability": 0.8777511715888977,
+          "start": 2.12,
+          "word": " years"
+        },
+        {
+          "end": 2.96,
+          "probability": 0.8065235614776611,
+          "start": 2.58,
+          "word": " ago,"
+        },
+        {
+          "end": 3.94,
+          "probability": 0.8060342669487,
+          "start": 3.68,
+          "word": " the"
+        },
+        {
+          "end": 4.44,
+          "probability": 0.8503395318984985,
+          "start": 3.94,
+          "word": " oceans"
+        },
+        {
+          "end": 4.72,
+          "probability": 0.8700363039970398,
+          "start": 4.44,
+          "word": " have"
+        },
+        {
+          "end": 5.06,
+          "probability": 0.8384918570518494,
+          "start": 4.72,
+          "word": " become"
+        },
+        {
+          "end": 5.52,
+          "probability": 0.7856679558753967,
+          "start": 5.06,
+          "word": " rich"
+        },
+        {
+          "end": 5.9,
+          "probability": 0.8116863369941711,
+          "start": 5.52,
+          "word": " with"
+        },
+        {
+          "end": 6.48,
+          "probability": 0.841580867767334,
+          "start": 5.9,
+          "word": " life."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.24168807170430168,
+      "compression_ratio": 1.4432432432432432,
+      "end": 13.16,
+      "id": 1,
+      "no_speech_prob": 0.02881363034248352,
+      "seek": 0,
+      "start": 7.3,
+      "temperature": 0,
+      "text": " Coral reefs, bustling with activity, begin to dominate the shallow waters.",
+      "tokens": [
+        50714,
+        3925,
+        304,
+        50054,
+        11,
+        19432,
+        1688,
+        365,
+        5191,
+        11,
+        1841,
+        281,
+        28246,
+        264,
+        20488,
+        12975,
+        13,
+        51064
+      ],
+      "words": [
+        {
+          "end": 7.7,
+          "probability": 0.9124774634838104,
+          "start": 7.3,
+          "word": " Coral"
+        },
+        {
+          "end": 8.08,
+          "probability": 0.7230204343795776,
+          "start": 7.7,
+          "word": " reefs,"
+        },
+        {
+          "end": 9.06,
+          "probability": 0.8860056400299072,
+          "start": 8.48,
+          "word": " bustling"
+        },
+        {
+          "end": 9.3,
+          "probability": 0.810420572757721,
+          "start": 9.06,
+          "word": " with"
+        },
+        {
+          "end": 9.98,
+          "probability": 0.7704855799674988,
+          "start": 9.3,
+          "word": " activity,"
+        },
+        {
+          "end": 10.74,
+          "probability": 0.7299957275390625,
+          "start": 10.44,
+          "word": " begin"
+        },
+        {
+          "end": 11.1,
+          "probability": 0.9066711068153381,
+          "start": 10.74,
+          "word": " to"
+        },
+        {
+          "end": 11.7,
+          "probability": 0.7458363771438599,
+          "start": 11.1,
+          "word": " dominate"
+        },
+        {
+          "end": 12.22,
+          "probability": 0.8011367917060852,
+          "start": 11.7,
+          "word": " the"
+        },
+        {
+          "end": 12.48,
+          "probability": 0.676052451133728,
+          "start": 12.22,
+          "word": " shallow"
+        },
+        {
+          "end": 13.16,
+          "probability": 0.7460324168205261,
+          "start": 12.48,
+          "word": " waters."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.24168807170430168,
+      "compression_ratio": 1.4432432432432432,
+      "end": 19.88,
+      "id": 2,
+      "no_speech_prob": 0.02881363034248352,
+      "seek": 0,
+      "start": 14.2,
+      "temperature": 0,
+      "text": " These vibrant ecosystems support an incredible diversity of species,",
+      "tokens": [
+        51064,
+        1981,
+        21571,
+        32647,
+        1406,
+        364,
+        4651,
+        8811,
+        295,
+        6172,
+        11,
+        51364
+      ],
+      "words": [
+        {
+          "end": 14.68,
+          "probability": 0.9167229533195496,
+          "start": 14.2,
+          "word": " These"
+        },
+        {
+          "end": 15.36,
+          "probability": 0.7756238579750061,
+          "start": 14.68,
+          "word": " vibrant"
+        },
+        {
+          "end": 16.2,
+          "probability": 0.7423917651176453,
+          "start": 15.36,
+          "word": " ecosystems"
+        },
+        {
+          "end": 17.26,
+          "probability": 0.9284387826919556,
+          "start": 16.2,
+          "word": " support"
+        },
+        {
+          "end": 17.5,
+          "probability": 0.9124763607978821,
+          "start": 17.26,
+          "word": " an"
+        },
+        {
+          "end": 18.18,
+          "probability": 0.7486813068389893,
+          "start": 17.5,
+          "word": " incredible"
+        },
+        {
+          "end": 18.98,
+          "probability": 0.7850301861763,
+          "start": 18.18,
+          "word": " diversity"
+        },
+        {
+          "end": 19.26,
+          "probability": 0.9041929244995117,
+          "start": 18.98,
+          "word": " of"
+        },
+        {
+          "end": 19.88,
+          "probability": 0.684883177280426,
+          "start": 19.26,
+          "word": " species,"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.24168807170430168,
+      "compression_ratio": 1.4432432432432432,
+      "end": 25.6,
+      "id": 3,
+      "no_speech_prob": 0.02881363034248352,
+      "seek": 0,
+      "start": 20.54,
+      "temperature": 0,
+      "text": " from the smallest plankton to the largest marine reptiles.",
+      "tokens": [
+        51364,
+        490,
+        264,
+        16998,
+        27861,
+        1756,
+        281,
+        264,
+        6443,
+        20246,
+        29143,
+        4680,
+        13,
+        51664
+      ],
+      "words": [
+        {
+          "end": 20.92,
+          "probability": 0.8094921112060547,
+          "start": 20.54,
+          "word": " from"
+        },
+        {
+          "end": 21.16,
+          "probability": 0.8100672960281372,
+          "start": 20.92,
+          "word": " the"
+        },
+        {
+          "end": 21.8,
+          "probability": 0.8434399366378784,
+          "start": 21.16,
+          "word": " smallest"
+        },
+        {
+          "end": 22.48,
+          "probability": 0.9555235207080841,
+          "start": 21.8,
+          "word": " plankton"
+        },
+        {
+          "end": 23.18,
+          "probability": 0.8253580927848816,
+          "start": 22.48,
+          "word": " to"
+        },
+        {
+          "end": 23.42,
+          "probability": 0.8122066259384155,
+          "start": 23.18,
+          "word": " the"
+        },
+        {
+          "end": 23.98,
+          "probability": 0.8555889129638672,
+          "start": 23.42,
+          "word": " largest"
+        },
+        {
+          "end": 24.54,
+          "probability": 0.9024636149406433,
+          "start": 23.98,
+          "word": " marine"
+        },
+        {
+          "end": 25.6,
+          "probability": 0.9036296606063843,
+          "start": 24.54,
+          "word": " reptiles."
+        }
+      ]
+    }
+  ],
+  "transcription": " By 100 million years ago, the oceans have become rich with life. Coral reefs, bustling with activity, begin to dominate the shallow waters. These vibrant ecosystems support an incredible diversity of species, from the smallest plankton to the largest marine reptiles."
+}

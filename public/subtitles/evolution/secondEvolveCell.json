@@ -1,0 +1,478 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.2845726013183594,
+      "compression_ratio": 1.5665024630541873,
+      "end": 8.02,
+      "id": 0,
+      "no_speech_prob": 0.7300021052360535,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " The cell has evolved again and this time the change is within. Tiny structures",
+      "tokens": [
+        50364,
+        440,
+        2815,
+        575,
+        14178,
+        797,
+        293,
+        341,
+        565,
+        264,
+        1319,
+        307,
+        1951,
+        13,
+        39992,
+        9227,
+        50770
+      ],
+      "words": [
+        {
+          "end": 0.68,
+          "probability": 0.6785125136375427,
+          "start": 0,
+          "word": " The"
+        },
+        {
+          "end": 1.06,
+          "probability": 0.8108608722686768,
+          "start": 0.68,
+          "word": " cell"
+        },
+        {
+          "end": 1.3,
+          "probability": 0.8895072340965271,
+          "start": 1.06,
+          "word": " has"
+        },
+        {
+          "end": 1.8,
+          "probability": 0.7124360799789429,
+          "start": 1.3,
+          "word": " evolved"
+        },
+        {
+          "end": 2.46,
+          "probability": 0.8989838361740112,
+          "start": 1.8,
+          "word": " again"
+        },
+        {
+          "end": 3.24,
+          "probability": 0.46076250076293945,
+          "start": 2.46,
+          "word": " and"
+        },
+        {
+          "end": 3.52,
+          "probability": 0.8676535487174988,
+          "start": 3.24,
+          "word": " this"
+        },
+        {
+          "end": 3.92,
+          "probability": 0.8036962151527405,
+          "start": 3.52,
+          "word": " time"
+        },
+        {
+          "end": 4.38,
+          "probability": 0.7502555847167969,
+          "start": 3.92,
+          "word": " the"
+        },
+        {
+          "end": 4.78,
+          "probability": 0.8216718435287476,
+          "start": 4.38,
+          "word": " change"
+        },
+        {
+          "end": 5.18,
+          "probability": 0.9031388163566589,
+          "start": 4.78,
+          "word": " is"
+        },
+        {
+          "end": 5.94,
+          "probability": 0.7461644411087036,
+          "start": 5.18,
+          "word": " within."
+        },
+        {
+          "end": 7.42,
+          "probability": 0.8754696249961853,
+          "start": 6.94,
+          "word": " Tiny"
+        },
+        {
+          "end": 8.02,
+          "probability": 0.6525967121124268,
+          "start": 7.42,
+          "word": " structures"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2845726013183594,
+      "compression_ratio": 1.5665024630541873,
+      "end": 14.82,
+      "id": 1,
+      "no_speech_prob": 0.7300021052360535,
+      "seek": 0,
+      "start": 8.02,
+      "temperature": 0,
+      "text": " have appeared inside the cell, intricate and delicate, hinting at the emergence of",
+      "tokens": [
+        50770,
+        362,
+        8516,
+        1854,
+        264,
+        2815,
+        11,
+        38015,
+        293,
+        21417,
+        11,
+        12075,
+        278,
+        412,
+        264,
+        36211,
+        295,
+        51098
+      ],
+      "words": [
+        {
+          "end": 8.6,
+          "probability": 0.8865041136741638,
+          "start": 8.02,
+          "word": " have"
+        },
+        {
+          "end": 8.98,
+          "probability": 0.6855248808860779,
+          "start": 8.6,
+          "word": " appeared"
+        },
+        {
+          "end": 9.5,
+          "probability": 0.8781325817108154,
+          "start": 8.98,
+          "word": " inside"
+        },
+        {
+          "end": 9.8,
+          "probability": 0.8121314644813538,
+          "start": 9.5,
+          "word": " the"
+        },
+        {
+          "end": 10.12,
+          "probability": 0.8161267638206482,
+          "start": 9.8,
+          "word": " cell,"
+        },
+        {
+          "end": 11.46,
+          "probability": 0.8380225896835327,
+          "start": 11.06,
+          "word": " intricate"
+        },
+        {
+          "end": 12.18,
+          "probability": 0.8903092741966248,
+          "start": 11.46,
+          "word": " and"
+        },
+        {
+          "end": 12.58,
+          "probability": 0.762036144733429,
+          "start": 12.18,
+          "word": " delicate,"
+        },
+        {
+          "end": 13.66,
+          "probability": 0.907685399055481,
+          "start": 13.32,
+          "word": " hinting"
+        },
+        {
+          "end": 13.84,
+          "probability": 0.9052848219871521,
+          "start": 13.66,
+          "word": " at"
+        },
+        {
+          "end": 13.98,
+          "probability": 0.7813892364501953,
+          "start": 13.84,
+          "word": " the"
+        },
+        {
+          "end": 14.4,
+          "probability": 0.844182014465332,
+          "start": 13.98,
+          "word": " emergence"
+        },
+        {
+          "end": 14.82,
+          "probability": 0.9082651734352112,
+          "start": 14.4,
+          "word": " of"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2845726013183594,
+      "compression_ratio": 1.5665024630541873,
+      "end": 22.18,
+      "id": 2,
+      "no_speech_prob": 0.7300021052360535,
+      "seek": 0,
+      "start": 14.82,
+      "temperature": 0,
+      "text": " newfound complexity. These minute formations suggest a significant leap in",
+      "tokens": [
+        51098,
+        777,
+        17493,
+        14024,
+        13,
+        1981,
+        3456,
+        39652,
+        3402,
+        257,
+        4776,
+        19438,
+        294,
+        51450
+      ],
+      "words": [
+        {
+          "end": 15.88,
+          "probability": 0.7754956483840942,
+          "start": 14.82,
+          "word": " newfound"
+        },
+        {
+          "end": 16.82,
+          "probability": 0.7330611348152161,
+          "start": 15.88,
+          "word": " complexity."
+        },
+        {
+          "end": 18.38,
+          "probability": 0.9084347486495972,
+          "start": 18,
+          "word": " These"
+        },
+        {
+          "end": 18.78,
+          "probability": 0.84896320104599,
+          "start": 18.38,
+          "word": " minute"
+        },
+        {
+          "end": 19.46,
+          "probability": 0.8165116310119629,
+          "start": 18.78,
+          "word": " formations"
+        },
+        {
+          "end": 20.24,
+          "probability": 0.6471189260482788,
+          "start": 19.46,
+          "word": " suggest"
+        },
+        {
+          "end": 20.58,
+          "probability": 0.9971247315406799,
+          "start": 20.24,
+          "word": " a"
+        },
+        {
+          "end": 21.14,
+          "probability": 0.8103229403495789,
+          "start": 20.58,
+          "word": " significant"
+        },
+        {
+          "end": 21.6,
+          "probability": 0.8824442028999329,
+          "start": 21.14,
+          "word": " leap"
+        },
+        {
+          "end": 22.18,
+          "probability": 0.9041208624839783,
+          "start": 21.6,
+          "word": " in"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2845726013183594,
+      "compression_ratio": 1.5665024630541873,
+      "end": 29.34,
+      "id": 3,
+      "no_speech_prob": 0.7300021052360535,
+      "seek": 0,
+      "start": 22.18,
+      "temperature": 0,
+      "text": " the cells capabilities, perhaps enhancing its ability to process nutrients, store",
+      "tokens": [
+        51450,
+        264,
+        5438,
+        10862,
+        11,
+        4317,
+        36579,
+        1080,
+        3485,
+        281,
+        1399,
+        17617,
+        11,
+        3531,
+        51824
+      ],
+      "words": [
+        {
+          "end": 22.34,
+          "probability": 0.8100687861442566,
+          "start": 22.18,
+          "word": " the"
+        },
+        {
+          "end": 22.58,
+          "probability": 0.30011048913002014,
+          "start": 22.34,
+          "word": " cells"
+        },
+        {
+          "end": 23.34,
+          "probability": 0.6834926605224609,
+          "start": 22.58,
+          "word": " capabilities,"
+        },
+        {
+          "end": 24.78,
+          "probability": 0.8401646614074707,
+          "start": 24.22,
+          "word": " perhaps"
+        },
+        {
+          "end": 25.84,
+          "probability": 0.8483411073684692,
+          "start": 24.78,
+          "word": " enhancing"
+        },
+        {
+          "end": 26.28,
+          "probability": 0.7831557989120483,
+          "start": 25.84,
+          "word": " its"
+        },
+        {
+          "end": 26.74,
+          "probability": 0.8615278601646423,
+          "start": 26.28,
+          "word": " ability"
+        },
+        {
+          "end": 27.2,
+          "probability": 0.9033663868904114,
+          "start": 26.74,
+          "word": " to"
+        },
+        {
+          "end": 27.78,
+          "probability": 0.8396622538566589,
+          "start": 27.2,
+          "word": " process"
+        },
+        {
+          "end": 28.32,
+          "probability": 0.8971712589263916,
+          "start": 27.78,
+          "word": " nutrients,"
+        },
+        {
+          "end": 29.34,
+          "probability": 0.8087838888168335,
+          "start": 28.94,
+          "word": " store"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.4695148944854736,
+      "compression_ratio": 0.8461538461538461,
+      "end": 32.88,
+      "id": 4,
+      "no_speech_prob": 0.17038989067077637,
+      "seek": 2934,
+      "start": 29.34,
+      "temperature": 0,
+      "text": " energy or communicate with its surroundings.",
+      "tokens": [
+        50364,
+        2281,
+        420,
+        7890,
+        365,
+        1080,
+        25314,
+        13,
+        50648
+      ],
+      "words": [
+        {
+          "end": 29.88,
+          "probability": 0.7239565253257751,
+          "start": 29.34,
+          "word": " energy"
+        },
+        {
+          "end": 30.76,
+          "probability": 0.8097516894340515,
+          "start": 29.88,
+          "word": " or"
+        },
+        {
+          "end": 31.54,
+          "probability": 0.8084344267845154,
+          "start": 30.76,
+          "word": " communicate"
+        },
+        {
+          "end": 32.1,
+          "probability": 0.821826159954071,
+          "start": 31.54,
+          "word": " with"
+        },
+        {
+          "end": 32.3,
+          "probability": 0.8022830486297607,
+          "start": 32.1,
+          "word": " its"
+        },
+        {
+          "end": 32.88,
+          "probability": 0.8256992101669312,
+          "start": 32.3,
+          "word": " surroundings."
+        }
+      ]
+    }
+  ],
+  "transcription": " The cell has evolved again and this time the change is within. Tiny structures have appeared inside the cell, intricate and delicate, hinting at the emergence of newfound complexity. These minute formations suggest a significant leap in the cells capabilities, perhaps enhancing its ability to process nutrients, store energy or communicate with its surroundings."
+}

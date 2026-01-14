@@ -1,0 +1,314 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.29988084236780804,
+      "compression_ratio": 1.4210526315789473,
+      "end": 7.58,
+      "id": 0,
+      "no_speech_prob": 0.06820213049650192,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " Though victorious in its struggle for dominance, this remarkable creature finds",
+      "tokens": [
+        50364,
+        10404,
+        42557,
+        294,
+        1080,
+        7799,
+        337,
+        34987,
+        11,
+        341,
+        12802,
+        12797,
+        10704,
+        50742
+      ],
+      "words": [
+        {
+          "end": 1.02,
+          "probability": 0.7375314831733704,
+          "start": 0,
+          "word": " Though"
+        },
+        {
+          "end": 1.82,
+          "probability": 0.8362639546394348,
+          "start": 1.02,
+          "word": " victorious"
+        },
+        {
+          "end": 2.64,
+          "probability": 0.889910876750946,
+          "start": 1.82,
+          "word": " in"
+        },
+        {
+          "end": 2.84,
+          "probability": 0.7733383774757385,
+          "start": 2.64,
+          "word": " its"
+        },
+        {
+          "end": 3.24,
+          "probability": 0.7019048929214478,
+          "start": 2.84,
+          "word": " struggle"
+        },
+        {
+          "end": 3.52,
+          "probability": 0.8965709209442139,
+          "start": 3.24,
+          "word": " for"
+        },
+        {
+          "end": 4.24,
+          "probability": 0.7943945527076721,
+          "start": 3.52,
+          "word": " dominance,"
+        },
+        {
+          "end": 5.42,
+          "probability": 0.8368611335754395,
+          "start": 5.18,
+          "word": " this"
+        },
+        {
+          "end": 6.14,
+          "probability": 0.7888434529304504,
+          "start": 5.42,
+          "word": " remarkable"
+        },
+        {
+          "end": 6.84,
+          "probability": 0.8465099334716797,
+          "start": 6.14,
+          "word": " creature"
+        },
+        {
+          "end": 7.58,
+          "probability": 0.7863311171531677,
+          "start": 6.84,
+          "word": " finds"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.29988084236780804,
+      "compression_ratio": 1.4210526315789473,
+      "end": 16.7,
+      "id": 1,
+      "no_speech_prob": 0.06820213049650192,
+      "seek": 0,
+      "start": 7.58,
+      "temperature": 0,
+      "text": " itself the sole survivor in a barren landscape. In a cruel twist of fate, its",
+      "tokens": [
+        50742,
+        2564,
+        264,
+        12321,
+        25953,
+        294,
+        257,
+        2159,
+        1095,
+        9661,
+        13,
+        682,
+        257,
+        16022,
+        8203,
+        295,
+        12738,
+        11,
+        1080,
+        51190
+      ],
+      "words": [
+        {
+          "end": 8.22,
+          "probability": 0.7941200733184814,
+          "start": 7.58,
+          "word": " itself"
+        },
+        {
+          "end": 9.06,
+          "probability": 0.7011294364929199,
+          "start": 8.22,
+          "word": " the"
+        },
+        {
+          "end": 9.62,
+          "probability": 0.9279142022132874,
+          "start": 9.06,
+          "word": " sole"
+        },
+        {
+          "end": 10.3,
+          "probability": 0.6837702989578247,
+          "start": 9.62,
+          "word": " survivor"
+        },
+        {
+          "end": 11.18,
+          "probability": 0.8871940970420837,
+          "start": 10.3,
+          "word": " in"
+        },
+        {
+          "end": 11.36,
+          "probability": 0.9836017489433289,
+          "start": 11.18,
+          "word": " a"
+        },
+        {
+          "end": 11.92,
+          "probability": 0.9606029093265533,
+          "start": 11.36,
+          "word": " barren"
+        },
+        {
+          "end": 12.88,
+          "probability": 0.7562363743782043,
+          "start": 11.92,
+          "word": " landscape."
+        },
+        {
+          "end": 13.94,
+          "probability": 0.9095873832702637,
+          "start": 13.8,
+          "word": " In"
+        },
+        {
+          "end": 14.1,
+          "probability": 0.9969706535339355,
+          "start": 13.94,
+          "word": " a"
+        },
+        {
+          "end": 14.52,
+          "probability": 0.7892372608184814,
+          "start": 14.1,
+          "word": " cruel"
+        },
+        {
+          "end": 14.98,
+          "probability": 0.8660926818847656,
+          "start": 14.52,
+          "word": " twist"
+        },
+        {
+          "end": 15.22,
+          "probability": 0.9084212779998779,
+          "start": 14.98,
+          "word": " of"
+        },
+        {
+          "end": 15.56,
+          "probability": 0.8667985200881958,
+          "start": 15.22,
+          "word": " fate,"
+        },
+        {
+          "end": 16.7,
+          "probability": 0.7802699208259583,
+          "start": 16.42,
+          "word": " its"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.29988084236780804,
+      "compression_ratio": 1.4210526315789473,
+      "end": 22.96,
+      "id": 2,
+      "no_speech_prob": 0.06820213049650192,
+      "seek": 0,
+      "start": 16.7,
+      "temperature": 0,
+      "text": " very success has led to its isolation and eventual demise.",
+      "tokens": [
+        51190,
+        588,
+        2245,
+        575,
+        4684,
+        281,
+        1080,
+        16001,
+        293,
+        33160,
+        45982,
+        13,
+        51596
+      ],
+      "words": [
+        {
+          "end": 17.1,
+          "probability": 0.7203761339187622,
+          "start": 16.7,
+          "word": " very"
+        },
+        {
+          "end": 17.76,
+          "probability": 0.7415305972099304,
+          "start": 17.1,
+          "word": " success"
+        },
+        {
+          "end": 18.52,
+          "probability": 0.8851894736289978,
+          "start": 17.76,
+          "word": " has"
+        },
+        {
+          "end": 18.82,
+          "probability": 0.7994320392608643,
+          "start": 18.52,
+          "word": " led"
+        },
+        {
+          "end": 19.04,
+          "probability": 0.9005955457687378,
+          "start": 18.82,
+          "word": " to"
+        },
+        {
+          "end": 19.28,
+          "probability": 0.7747514843940735,
+          "start": 19.04,
+          "word": " its"
+        },
+        {
+          "end": 20.08,
+          "probability": 0.827258825302124,
+          "start": 19.28,
+          "word": " isolation"
+        },
+        {
+          "end": 21.06,
+          "probability": 0.866206705570221,
+          "start": 20.08,
+          "word": " and"
+        },
+        {
+          "end": 21.9,
+          "probability": 0.6752120852470398,
+          "start": 21.06,
+          "word": " eventual"
+        },
+        {
+          "end": 22.96,
+          "probability": 0.756950855255127,
+          "start": 21.9,
+          "word": " demise."
+        }
+      ]
+    }
+  ],
+  "transcription": " Though victorious in its struggle for dominance, this remarkable creature finds itself the sole survivor in a barren landscape. In a cruel twist of fate, its very success has led to its isolation and eventual demise."
+}

@@ -1,0 +1,273 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.31077930201654846,
+      "compression_ratio": 1.3333333333333333,
+      "end": 11.08,
+      "id": 0,
+      "no_speech_prob": 0.015241668559610844,
+      "seek": 0,
+      "start": 0.24,
+      "temperature": 0,
+      "text": " This simple cell, though tiny and unassuming, holds within it the power to change.",
+      "tokens": [
+        50364,
+        639,
+        2199,
+        2815,
+        11,
+        1673,
+        5870,
+        293,
+        517,
+        640,
+        24919,
+        11,
+        9190,
+        1951,
+        309,
+        264,
+        1347,
+        281,
+        1319,
+        13,
+        50964
+      ],
+      "words": [
+        {
+          "end": 1.34,
+          "probability": 0.7524861693382263,
+          "start": 0.24,
+          "word": " This"
+        },
+        {
+          "end": 2.38,
+          "probability": 0.8727632761001587,
+          "start": 1.34,
+          "word": " simple"
+        },
+        {
+          "end": 2.94,
+          "probability": 0.7917022705078125,
+          "start": 2.38,
+          "word": " cell,"
+        },
+        {
+          "end": 4.26,
+          "probability": 0.7167398929595947,
+          "start": 4.02,
+          "word": " though"
+        },
+        {
+          "end": 4.94,
+          "probability": 0.7734233140945435,
+          "start": 4.26,
+          "word": " tiny"
+        },
+        {
+          "end": 5.44,
+          "probability": 0.8923004269599915,
+          "start": 4.94,
+          "word": " and"
+        },
+        {
+          "end": 6.9,
+          "probability": 0.9505487680435181,
+          "start": 5.44,
+          "word": " unassuming,"
+        },
+        {
+          "end": 8.34,
+          "probability": 0.7633606195449829,
+          "start": 7.88,
+          "word": " holds"
+        },
+        {
+          "end": 8.74,
+          "probability": 0.7965437769889832,
+          "start": 8.34,
+          "word": " within"
+        },
+        {
+          "end": 9.06,
+          "probability": 0.8998750448226929,
+          "start": 8.74,
+          "word": " it"
+        },
+        {
+          "end": 9.74,
+          "probability": 0.8039559125900269,
+          "start": 9.06,
+          "word": " the"
+        },
+        {
+          "end": 10.1,
+          "probability": 0.7991690039634705,
+          "start": 9.74,
+          "word": " power"
+        },
+        {
+          "end": 10.34,
+          "probability": 0.9011989831924438,
+          "start": 10.1,
+          "word": " to"
+        },
+        {
+          "end": 11.08,
+          "probability": 0.8387635946273804,
+          "start": 10.34,
+          "word": " change."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.31077930201654846,
+      "compression_ratio": 1.3333333333333333,
+      "end": 22.82,
+      "id": 1,
+      "no_speech_prob": 0.015241668559610844,
+      "seek": 0,
+      "start": 12.38,
+      "temperature": 0,
+      "text": " It must find food, adapt, and evolve if it is to survive in this harsh and unforgiving world.",
+      "tokens": [
+        50964,
+        467,
+        1633,
+        915,
+        1755,
+        11,
+        6231,
+        11,
+        293,
+        16693,
+        498,
+        309,
+        307,
+        281,
+        7867,
+        294,
+        341,
+        14897,
+        293,
+        31411,
+        15441,
+        1002,
+        13,
+        51564
+      ],
+      "words": [
+        {
+          "end": 12.84,
+          "probability": 0.9081172943115234,
+          "start": 12.38,
+          "word": " It"
+        },
+        {
+          "end": 13.12,
+          "probability": 0.8087064623832703,
+          "start": 12.84,
+          "word": " must"
+        },
+        {
+          "end": 13.48,
+          "probability": 0.8264434337615967,
+          "start": 13.12,
+          "word": " find"
+        },
+        {
+          "end": 14.04,
+          "probability": 0.7025978565216064,
+          "start": 13.48,
+          "word": " food,"
+        },
+        {
+          "end": 15.28,
+          "probability": 0.8093857169151306,
+          "start": 14.88,
+          "word": " adapt,"
+        },
+        {
+          "end": 16.62,
+          "probability": 0.8996166586875916,
+          "start": 16.16,
+          "word": " and"
+        },
+        {
+          "end": 17.36,
+          "probability": 0.7906954884529114,
+          "start": 16.62,
+          "word": " evolve"
+        },
+        {
+          "end": 17.9,
+          "probability": 0.679808497428894,
+          "start": 17.36,
+          "word": " if"
+        },
+        {
+          "end": 18.06,
+          "probability": 0.9096923470497131,
+          "start": 17.9,
+          "word": " it"
+        },
+        {
+          "end": 18.36,
+          "probability": 0.9048705697059631,
+          "start": 18.06,
+          "word": " is"
+        },
+        {
+          "end": 18.84,
+          "probability": 0.9059703946113586,
+          "start": 18.36,
+          "word": " to"
+        },
+        {
+          "end": 19.32,
+          "probability": 0.8086220026016235,
+          "start": 18.84,
+          "word": " survive"
+        },
+        {
+          "end": 19.58,
+          "probability": 0.8988257050514221,
+          "start": 19.32,
+          "word": " in"
+        },
+        {
+          "end": 19.88,
+          "probability": 0.8749372363090515,
+          "start": 19.58,
+          "word": " this"
+        },
+        {
+          "end": 20.64,
+          "probability": 0.8020984530448914,
+          "start": 19.88,
+          "word": " harsh"
+        },
+        {
+          "end": 21.44,
+          "probability": 0.8940898776054382,
+          "start": 20.64,
+          "word": " and"
+        },
+        {
+          "end": 22.24,
+          "probability": 0.8666957020759583,
+          "start": 21.44,
+          "word": " unforgiving"
+        },
+        {
+          "end": 22.82,
+          "probability": 0.8779581189155579,
+          "start": 22.24,
+          "word": " world."
+        }
+      ]
+    }
+  ],
+  "transcription": " This simple cell, though tiny and unassuming, holds within it the power to change. It must find food, adapt, and evolve if it is to survive in this harsh and unforgiving world."
+}

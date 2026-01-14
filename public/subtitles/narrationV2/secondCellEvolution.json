@@ -1,0 +1,267 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.36750509572583573,
+      "compression_ratio": 1.3586206896551725,
+      "end": 7.44,
+      "id": 0,
+      "no_speech_prob": 0.13648732006549835,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " The cell is evolving once more. With enough nourishment absorbed, it begins to",
+      "tokens": [
+        50364,
+        440,
+        2815,
+        307,
+        21085,
+        1564,
+        544,
+        13,
+        2022,
+        1547,
+        22683,
+        30273,
+        20799,
+        11,
+        309,
+        7338,
+        281,
+        50734
+      ],
+      "words": [
+        {
+          "end": 0.98,
+          "probability": 0.6252909302711487,
+          "start": 0,
+          "word": " The"
+        },
+        {
+          "end": 1.38,
+          "probability": 0.8275083899497986,
+          "start": 0.98,
+          "word": " cell"
+        },
+        {
+          "end": 1.7,
+          "probability": 0.8971638083457947,
+          "start": 1.38,
+          "word": " is"
+        },
+        {
+          "end": 2.1,
+          "probability": 0.8574418425559998,
+          "start": 1.7,
+          "word": " evolving"
+        },
+        {
+          "end": 2.48,
+          "probability": 0.8243557810783386,
+          "start": 2.1,
+          "word": " once"
+        },
+        {
+          "end": 2.92,
+          "probability": 0.8766652345657349,
+          "start": 2.48,
+          "word": " more."
+        },
+        {
+          "end": 4.3,
+          "probability": 0.8891478180885315,
+          "start": 3.8,
+          "word": " With"
+        },
+        {
+          "end": 4.76,
+          "probability": 0.769525408744812,
+          "start": 4.3,
+          "word": " enough"
+        },
+        {
+          "end": 5.38,
+          "probability": 0.9511198103427887,
+          "start": 4.76,
+          "word": " nourishment"
+        },
+        {
+          "end": 6,
+          "probability": 0.7683608531951904,
+          "start": 5.38,
+          "word": " absorbed,"
+        },
+        {
+          "end": 6.78,
+          "probability": 0.9025771617889404,
+          "start": 6.38,
+          "word": " it"
+        },
+        {
+          "end": 7.18,
+          "probability": 0.6591378450393677,
+          "start": 6.78,
+          "word": " begins"
+        },
+        {
+          "end": 7.44,
+          "probability": 0.9035747051239014,
+          "start": 7.18,
+          "word": " to"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.36750509572583573,
+      "compression_ratio": 1.3586206896551725,
+      "end": 15.82,
+      "id": 1,
+      "no_speech_prob": 0.13648732006549835,
+      "seek": 0,
+      "start": 7.44,
+      "temperature": 0,
+      "text": " develop further as new structures emerge inside. Tiny yet vital components that",
+      "tokens": [
+        50734,
+        1499,
+        3052,
+        382,
+        777,
+        9227,
+        21511,
+        1854,
+        13,
+        39992,
+        1939,
+        11707,
+        6677,
+        300,
+        51152
+      ],
+      "words": [
+        {
+          "end": 7.84,
+          "probability": 0.6979848146438599,
+          "start": 7.44,
+          "word": " develop"
+        },
+        {
+          "end": 8.38,
+          "probability": 0.8685388565063477,
+          "start": 7.84,
+          "word": " further"
+        },
+        {
+          "end": 9.08,
+          "probability": 0.6243106126785278,
+          "start": 8.38,
+          "word": " as"
+        },
+        {
+          "end": 9.38,
+          "probability": 0.8194009065628052,
+          "start": 9.08,
+          "word": " new"
+        },
+        {
+          "end": 10.24,
+          "probability": 0.6344255208969116,
+          "start": 9.38,
+          "word": " structures"
+        },
+        {
+          "end": 11,
+          "probability": 0.8338137269020081,
+          "start": 10.24,
+          "word": " emerge"
+        },
+        {
+          "end": 11.64,
+          "probability": 0.8878529667854309,
+          "start": 11,
+          "word": " inside."
+        },
+        {
+          "end": 13.12,
+          "probability": 0.903482973575592,
+          "start": 12.4,
+          "word": " Tiny"
+        },
+        {
+          "end": 13.6,
+          "probability": 0.5421167016029358,
+          "start": 13.12,
+          "word": " yet"
+        },
+        {
+          "end": 14.14,
+          "probability": 0.7132120132446289,
+          "start": 13.6,
+          "word": " vital"
+        },
+        {
+          "end": 15,
+          "probability": 0.8406299948692322,
+          "start": 14.14,
+          "word": " components"
+        },
+        {
+          "end": 15.82,
+          "probability": 0.8399903178215027,
+          "start": 15,
+          "word": " that"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.36750509572583573,
+      "compression_ratio": 1.3586206896551725,
+      "end": 18.7,
+      "id": 2,
+      "no_speech_prob": 0.13648732006549835,
+      "seek": 0,
+      "start": 15.82,
+      "temperature": 0,
+      "text": " signify its increasing sophistication.",
+      "tokens": [
+        51152,
+        1465,
+        2505,
+        1080,
+        5662,
+        15572,
+        399,
+        13,
+        51398
+      ],
+      "words": [
+        {
+          "end": 16.48,
+          "probability": 0.9373641312122345,
+          "start": 15.82,
+          "word": " signify"
+        },
+        {
+          "end": 16.8,
+          "probability": 0.7466978430747986,
+          "start": 16.48,
+          "word": " its"
+        },
+        {
+          "end": 17.5,
+          "probability": 0.9211920499801636,
+          "start": 16.8,
+          "word": " increasing"
+        },
+        {
+          "end": 18.7,
+          "probability": 0.8732077181339264,
+          "start": 17.5,
+          "word": " sophistication."
+        }
+      ]
+    }
+  ],
+  "transcription": " The cell is evolving once more. With enough nourishment absorbed, it begins to develop further as new structures emerge inside. Tiny yet vital components that signify its increasing sophistication."
+}

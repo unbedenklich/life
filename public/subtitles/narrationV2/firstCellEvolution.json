@@ -1,0 +1,418 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3243717305800494,
+      "compression_ratio": 1.5,
+      "end": 4.04,
+      "id": 0,
+      "no_speech_prob": 0.001557313371449709,
+      "seek": 0,
+      "start": 0.34,
+      "temperature": 0,
+      "text": " A remarkable transformation is taking place.",
+      "tokens": [
+        50364,
+        316,
+        12802,
+        9887,
+        307,
+        1940,
+        1081,
+        13,
+        50608
+      ],
+      "words": [
+        {
+          "end": 1.26,
+          "probability": 0.9019052386283875,
+          "start": 0.34,
+          "word": " A"
+        },
+        {
+          "end": 1.88,
+          "probability": 0.7911591529846191,
+          "start": 1.26,
+          "word": " remarkable"
+        },
+        {
+          "end": 2.58,
+          "probability": 0.7843236923217773,
+          "start": 1.88,
+          "word": " transformation"
+        },
+        {
+          "end": 3.12,
+          "probability": 0.896980881690979,
+          "start": 2.58,
+          "word": " is"
+        },
+        {
+          "end": 3.5,
+          "probability": 0.7868961691856384,
+          "start": 3.12,
+          "word": " taking"
+        },
+        {
+          "end": 4.04,
+          "probability": 0.8078547120094299,
+          "start": 3.5,
+          "word": " place."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3243717305800494,
+      "compression_ratio": 1.5,
+      "end": 14.34,
+      "id": 1,
+      "no_speech_prob": 0.001557313371449709,
+      "seek": 0,
+      "start": 4.84,
+      "temperature": 0,
+      "text": " The cell's outer rim, once pale and unremarkable, now begins to show color, a sign of its evolving",
+      "tokens": [
+        50608,
+        440,
+        2815,
+        311,
+        10847,
+        15982,
+        11,
+        1564,
+        19546,
+        293,
+        517,
+        2579,
+        809,
+        712,
+        11,
+        586,
+        7338,
+        281,
+        855,
+        2017,
+        11,
+        257,
+        1465,
+        295,
+        1080,
+        21085,
+        51082
+      ],
+      "words": [
+        {
+          "end": 5.02,
+          "probability": 0.8059349656105042,
+          "start": 4.84,
+          "word": " The"
+        },
+        {
+          "end": 5.58,
+          "probability": 0.7409884929656982,
+          "start": 5.02,
+          "word": " cell's"
+        },
+        {
+          "end": 5.88,
+          "probability": 0.644666850566864,
+          "start": 5.58,
+          "word": " outer"
+        },
+        {
+          "end": 6.26,
+          "probability": 0.9595834016799927,
+          "start": 5.88,
+          "word": " rim,"
+        },
+        {
+          "end": 6.98,
+          "probability": 0.8289251327514648,
+          "start": 6.72,
+          "word": " once"
+        },
+        {
+          "end": 7.54,
+          "probability": 0.7865656018257141,
+          "start": 6.98,
+          "word": " pale"
+        },
+        {
+          "end": 8.32,
+          "probability": 0.8768554925918579,
+          "start": 7.54,
+          "word": " and"
+        },
+        {
+          "end": 9.4,
+          "probability": 0.9417209178209305,
+          "start": 8.32,
+          "word": " unremarkable,"
+        },
+        {
+          "end": 10.54,
+          "probability": 0.8995248675346375,
+          "start": 10.08,
+          "word": " now"
+        },
+        {
+          "end": 11.04,
+          "probability": 0.6761948466300964,
+          "start": 10.54,
+          "word": " begins"
+        },
+        {
+          "end": 11.28,
+          "probability": 0.9039506912231445,
+          "start": 11.04,
+          "word": " to"
+        },
+        {
+          "end": 11.5,
+          "probability": 0.8731858134269714,
+          "start": 11.28,
+          "word": " show"
+        },
+        {
+          "end": 11.86,
+          "probability": 0.6847931146621704,
+          "start": 11.5,
+          "word": " color,"
+        },
+        {
+          "end": 13.1,
+          "probability": 0.9937279224395752,
+          "start": 12.76,
+          "word": " a"
+        },
+        {
+          "end": 13.44,
+          "probability": 0.833733320236206,
+          "start": 13.1,
+          "word": " sign"
+        },
+        {
+          "end": 13.66,
+          "probability": 0.9057185053825378,
+          "start": 13.44,
+          "word": " of"
+        },
+        {
+          "end": 13.84,
+          "probability": 0.8117879033088684,
+          "start": 13.66,
+          "word": " its"
+        },
+        {
+          "end": 14.34,
+          "probability": 0.8080973625183105,
+          "start": 13.84,
+          "word": " evolving"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3243717305800494,
+      "compression_ratio": 1.5,
+      "end": 14.84,
+      "id": 2,
+      "no_speech_prob": 0.001557313371449709,
+      "seek": 0,
+      "start": 14.34,
+      "temperature": 0,
+      "text": " nature.",
+      "tokens": [
+        51082,
+        3687,
+        13,
+        51178
+      ],
+      "words": [
+        {
+          "end": 14.84,
+          "probability": 0.8001351356506348,
+          "start": 14.34,
+          "word": " nature."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3243717305800494,
+      "compression_ratio": 1.5,
+      "end": 24.28,
+      "id": 3,
+      "no_speech_prob": 0.001557313371449709,
+      "seek": 0,
+      "start": 16.06,
+      "temperature": 0,
+      "text": " This change is not just aesthetic, it represents the cell's growing complexity and its adaptation",
+      "tokens": [
+        51178,
+        639,
+        1319,
+        307,
+        406,
+        445,
+        20092,
+        11,
+        309,
+        8855,
+        264,
+        2815,
+        311,
+        4194,
+        14024,
+        293,
+        1080,
+        21549,
+        51592
+      ],
+      "words": [
+        {
+          "end": 16.4,
+          "probability": 0.8082709908485413,
+          "start": 16.06,
+          "word": " This"
+        },
+        {
+          "end": 17.04,
+          "probability": 0.8417614102363586,
+          "start": 16.4,
+          "word": " change"
+        },
+        {
+          "end": 17.34,
+          "probability": 0.9008751511573792,
+          "start": 17.04,
+          "word": " is"
+        },
+        {
+          "end": 17.52,
+          "probability": 0.9011515378952026,
+          "start": 17.34,
+          "word": " not"
+        },
+        {
+          "end": 17.84,
+          "probability": 0.880561351776123,
+          "start": 17.52,
+          "word": " just"
+        },
+        {
+          "end": 18.46,
+          "probability": 0.7360687851905823,
+          "start": 17.84,
+          "word": " aesthetic,"
+        },
+        {
+          "end": 19.54,
+          "probability": 0.898215115070343,
+          "start": 19.2,
+          "word": " it"
+        },
+        {
+          "end": 20.1,
+          "probability": 0.7994545102119446,
+          "start": 19.54,
+          "word": " represents"
+        },
+        {
+          "end": 20.42,
+          "probability": 0.8074333667755127,
+          "start": 20.1,
+          "word": " the"
+        },
+        {
+          "end": 20.78,
+          "probability": 0.8426855206489563,
+          "start": 20.42,
+          "word": " cell's"
+        },
+        {
+          "end": 21.12,
+          "probability": 0.7291404604911804,
+          "start": 20.78,
+          "word": " growing"
+        },
+        {
+          "end": 21.88,
+          "probability": 0.7410552501678467,
+          "start": 21.12,
+          "word": " complexity"
+        },
+        {
+          "end": 23.2,
+          "probability": 0.7823925614356995,
+          "start": 21.88,
+          "word": " and"
+        },
+        {
+          "end": 23.66,
+          "probability": 0.7830736637115479,
+          "start": 23.2,
+          "word": " its"
+        },
+        {
+          "end": 24.28,
+          "probability": 0.8241657614707947,
+          "start": 23.66,
+          "word": " adaptation"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3243717305800494,
+      "compression_ratio": 1.5,
+      "end": 26.2,
+      "id": 4,
+      "no_speech_prob": 0.001557313371449709,
+      "seek": 0,
+      "start": 24.28,
+      "temperature": 0,
+      "text": " to the world around it.",
+      "tokens": [
+        51592,
+        281,
+        264,
+        1002,
+        926,
+        309,
+        13,
+        51674
+      ],
+      "words": [
+        {
+          "end": 24.7,
+          "probability": 0.9062821269035339,
+          "start": 24.28,
+          "word": " to"
+        },
+        {
+          "end": 24.88,
+          "probability": 0.8084392547607422,
+          "start": 24.7,
+          "word": " the"
+        },
+        {
+          "end": 25.26,
+          "probability": 0.8766514658927917,
+          "start": 24.88,
+          "word": " world"
+        },
+        {
+          "end": 26.08,
+          "probability": 0.8709595799446106,
+          "start": 25.26,
+          "word": " around"
+        },
+        {
+          "end": 26.2,
+          "probability": 0.8881687521934509,
+          "start": 26.08,
+          "word": " it."
+        }
+      ]
+    }
+  ],
+  "transcription": " A remarkable transformation is taking place. The cell's outer rim, once pale and unremarkable, now begins to show color, a sign of its evolving nature. This change is not just aesthetic, it represents the cell's growing complexity and its adaptation to the world around it."
+}

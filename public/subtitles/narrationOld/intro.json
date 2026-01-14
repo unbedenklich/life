@@ -1,0 +1,398 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3380699157714844,
+      "compression_ratio": 1.2434782608695651,
+      "end": 12.72,
+      "id": 0,
+      "no_speech_prob": 0.5530891418457031,
+      "seek": 0,
+      "start": 1.76,
+      "temperature": 0,
+      "text": " In the depths of this primordial ocean, a single cell drifts through the vast, empty",
+      "tokens": [
+        50364,
+        682,
+        264,
+        28439,
+        295,
+        341,
+        2886,
+        765,
+        831,
+        7810,
+        11,
+        257,
+        2167,
+        2815,
+        1224,
+        8065,
+        807,
+        264,
+        8369,
+        11,
+        6707,
+        50994
+      ],
+      "words": [
+        {
+          "end": 3.1,
+          "probability": 0.6570537090301514,
+          "start": 1.76,
+          "word": " In"
+        },
+        {
+          "end": 3.4,
+          "probability": 0.8175004720687866,
+          "start": 3.1,
+          "word": " the"
+        },
+        {
+          "end": 3.8,
+          "probability": 0.7133725881576538,
+          "start": 3.4,
+          "word": " depths"
+        },
+        {
+          "end": 4.22,
+          "probability": 0.9064288139343262,
+          "start": 3.8,
+          "word": " of"
+        },
+        {
+          "end": 4.56,
+          "probability": 0.8678552508354187,
+          "start": 4.22,
+          "word": " this"
+        },
+        {
+          "end": 5.48,
+          "probability": 0.9337809880574545,
+          "start": 4.56,
+          "word": " primordial"
+        },
+        {
+          "end": 6.3,
+          "probability": 0.8643087148666382,
+          "start": 5.48,
+          "word": " ocean,"
+        },
+        {
+          "end": 7.92,
+          "probability": 0.9506979584693909,
+          "start": 7.68,
+          "word": " a"
+        },
+        {
+          "end": 8.58,
+          "probability": 0.8778754472732544,
+          "start": 7.92,
+          "word": " single"
+        },
+        {
+          "end": 9.28,
+          "probability": 0.7795632481575012,
+          "start": 8.58,
+          "word": " cell"
+        },
+        {
+          "end": 10.3,
+          "probability": 0.8790270984172821,
+          "start": 9.28,
+          "word": " drifts"
+        },
+        {
+          "end": 10.64,
+          "probability": 0.7849553227424622,
+          "start": 10.3,
+          "word": " through"
+        },
+        {
+          "end": 10.82,
+          "probability": 0.7846312522888184,
+          "start": 10.64,
+          "word": " the"
+        },
+        {
+          "end": 11.54,
+          "probability": 0.8924543857574463,
+          "start": 10.82,
+          "word": " vast,"
+        },
+        {
+          "end": 12.72,
+          "probability": 0.7368522882461548,
+          "start": 12.24,
+          "word": " empty"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3380699157714844,
+      "compression_ratio": 1.2434782608695651,
+      "end": 14.02,
+      "id": 1,
+      "no_speech_prob": 0.5530891418457031,
+      "seek": 0,
+      "start": 12.72,
+      "temperature": 0,
+      "text": " expanse.",
+      "tokens": [
+        50994,
+        1278,
+        47661,
+        13,
+        51134
+      ],
+      "words": [
+        {
+          "end": 14.02,
+          "probability": 0.9514422416687012,
+          "start": 12.72,
+          "word": " expanse."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3380699157714844,
+      "compression_ratio": 1.2434782608695651,
+      "end": 19.7,
+      "id": 2,
+      "no_speech_prob": 0.5530891418457031,
+      "seek": 0,
+      "start": 14.68,
+      "temperature": 0,
+      "text": " Its structure is basic, yet remarkably effective.",
+      "tokens": [
+        51134,
+        6953,
+        3877,
+        307,
+        3875,
+        11,
+        1939,
+        37381,
+        4942,
+        13,
+        51418
+      ],
+      "words": [
+        {
+          "end": 15.46,
+          "probability": 0.7458096146583557,
+          "start": 14.68,
+          "word": " Its"
+        },
+        {
+          "end": 16.04,
+          "probability": 0.7351033687591553,
+          "start": 15.46,
+          "word": " structure"
+        },
+        {
+          "end": 16.46,
+          "probability": 0.907961368560791,
+          "start": 16.04,
+          "word": " is"
+        },
+        {
+          "end": 17.28,
+          "probability": 0.9310399889945984,
+          "start": 16.46,
+          "word": " basic,"
+        },
+        {
+          "end": 18.12,
+          "probability": 0.9080579280853271,
+          "start": 17.78,
+          "word": " yet"
+        },
+        {
+          "end": 19.02,
+          "probability": 0.9463011026382446,
+          "start": 18.12,
+          "word": " remarkably"
+        },
+        {
+          "end": 19.7,
+          "probability": 0.772675633430481,
+          "start": 19.02,
+          "word": " effective."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.35456827708653044,
+      "compression_ratio": 1.1919191919191918,
+      "end": 29.66,
+      "id": 3,
+      "no_speech_prob": 0.1665830910205841,
+      "seek": 1970,
+      "start": 19.88,
+      "temperature": 0,
+      "text": " It moves smoothly through the dark waters, driven by the instinct to survive and the",
+      "tokens": [
+        50414,
+        467,
+        6067,
+        19565,
+        807,
+        264,
+        2877,
+        12975,
+        11,
+        9555,
+        538,
+        264,
+        16556,
+        281,
+        7867,
+        293,
+        264,
+        50858
+      ],
+      "words": [
+        {
+          "end": 21.16,
+          "probability": 0.748353898525238,
+          "start": 19.88,
+          "word": " It"
+        },
+        {
+          "end": 21.66,
+          "probability": 0.8025876879692078,
+          "start": 21.16,
+          "word": " moves"
+        },
+        {
+          "end": 22.5,
+          "probability": 0.8067933320999146,
+          "start": 21.66,
+          "word": " smoothly"
+        },
+        {
+          "end": 23.32,
+          "probability": 0.804406464099884,
+          "start": 22.5,
+          "word": " through"
+        },
+        {
+          "end": 23.5,
+          "probability": 0.7826110124588013,
+          "start": 23.32,
+          "word": " the"
+        },
+        {
+          "end": 23.96,
+          "probability": 0.8036123514175415,
+          "start": 23.5,
+          "word": " dark"
+        },
+        {
+          "end": 24.72,
+          "probability": 0.6976974606513977,
+          "start": 23.96,
+          "word": " waters,"
+        },
+        {
+          "end": 25.66,
+          "probability": 0.8211039304733276,
+          "start": 25.34,
+          "word": " driven"
+        },
+        {
+          "end": 26.06,
+          "probability": 0.9003080129623413,
+          "start": 25.66,
+          "word": " by"
+        },
+        {
+          "end": 26.28,
+          "probability": 0.8087893724441528,
+          "start": 26.06,
+          "word": " the"
+        },
+        {
+          "end": 26.86,
+          "probability": 0.8216861486434937,
+          "start": 26.28,
+          "word": " instinct"
+        },
+        {
+          "end": 27.5,
+          "probability": 0.9096364378929138,
+          "start": 26.86,
+          "word": " to"
+        },
+        {
+          "end": 28.32,
+          "probability": 0.8093658089637756,
+          "start": 27.5,
+          "word": " survive"
+        },
+        {
+          "end": 29.32,
+          "probability": 0.841275691986084,
+          "start": 28.32,
+          "word": " and"
+        },
+        {
+          "end": 29.66,
+          "probability": 0.8142937421798706,
+          "start": 29.32,
+          "word": " the"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.35456827708653044,
+      "compression_ratio": 1.1919191919191918,
+      "end": 32.88,
+      "id": 4,
+      "no_speech_prob": 0.1665830910205841,
+      "seek": 1970,
+      "start": 29.66,
+      "temperature": 0,
+      "text": " relentless search for sustenance.",
+      "tokens": [
+        50858,
+        46136,
+        3164,
+        337,
+        5402,
+        268,
+        719,
+        13,
+        51040
+      ],
+      "words": [
+        {
+          "end": 30.18,
+          "probability": 0.8316848278045654,
+          "start": 29.66,
+          "word": " relentless"
+        },
+        {
+          "end": 30.94,
+          "probability": 0.9232507348060608,
+          "start": 30.18,
+          "word": " search"
+        },
+        {
+          "end": 31.7,
+          "probability": 0.8942084312438965,
+          "start": 30.94,
+          "word": " for"
+        },
+        {
+          "end": 32.88,
+          "probability": 0.8977016806602478,
+          "start": 31.7,
+          "word": " sustenance."
+        }
+      ]
+    }
+  ],
+  "transcription": " In the depths of this primordial ocean, a single cell drifts through the vast, empty expanse. Its structure is basic, yet remarkably effective. It moves smoothly through the dark waters, driven by the instinct to survive and the relentless search for sustenance."
+}

@@ -1,0 +1,186 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.42881901033463016,
+      "compression_ratio": 1.179245283018868,
+      "end": 7.34,
+      "id": 0,
+      "no_speech_prob": 0.21497027575969696,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " In a twist of evolutionary irony, this species' triumph becomes its downfall.",
+      "tokens": [
+        50364,
+        682,
+        257,
+        8203,
+        295,
+        27567,
+        35365,
+        11,
+        341,
+        6172,
+        6,
+        29156,
+        3643,
+        1080,
+        760,
+        6691,
+        13,
+        50744
+      ],
+      "words": [
+        {
+          "end": 0.34,
+          "probability": 0.7981701493263245,
+          "start": 0,
+          "word": " In"
+        },
+        {
+          "end": 0.52,
+          "probability": 0.9908434152603149,
+          "start": 0.34,
+          "word": " a"
+        },
+        {
+          "end": 1.06,
+          "probability": 0.8505748510360718,
+          "start": 0.52,
+          "word": " twist"
+        },
+        {
+          "end": 1.64,
+          "probability": 0.9052098989486694,
+          "start": 1.06,
+          "word": " of"
+        },
+        {
+          "end": 2.46,
+          "probability": 0.7950111627578735,
+          "start": 1.64,
+          "word": " evolutionary"
+        },
+        {
+          "end": 3.2,
+          "probability": 0.6062261462211609,
+          "start": 2.46,
+          "word": " irony,"
+        },
+        {
+          "end": 4.12,
+          "probability": 0.8595330119132996,
+          "start": 3.84,
+          "word": " this"
+        },
+        {
+          "end": 4.76,
+          "probability": 0.3626030683517456,
+          "start": 4.12,
+          "word": " species'"
+        },
+        {
+          "end": 5.6,
+          "probability": 0.8388227820396423,
+          "start": 5.1,
+          "word": " triumph"
+        },
+        {
+          "end": 6.3,
+          "probability": 0.8122363686561584,
+          "start": 5.6,
+          "word": " becomes"
+        },
+        {
+          "end": 6.56,
+          "probability": 0.7970701456069946,
+          "start": 6.3,
+          "word": " its"
+        },
+        {
+          "end": 7.34,
+          "probability": 0.9137416183948517,
+          "start": 6.56,
+          "word": " downfall."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.42881901033463016,
+      "compression_ratio": 1.179245283018868,
+      "end": 12,
+      "id": 1,
+      "no_speech_prob": 0.21497027575969696,
+      "seek": 0,
+      "start": 8.02,
+      "temperature": 0,
+      "text": " Alone in its success, it fades into extinction.",
+      "tokens": [
+        50744,
+        42056,
+        294,
+        1080,
+        2245,
+        11,
+        309,
+        32679,
+        666,
+        33163,
+        13,
+        50994
+      ],
+      "words": [
+        {
+          "end": 8.42,
+          "probability": 0.9323543906211853,
+          "start": 8.02,
+          "word": " Alone"
+        },
+        {
+          "end": 8.84,
+          "probability": 0.899387538433075,
+          "start": 8.42,
+          "word": " in"
+        },
+        {
+          "end": 9.02,
+          "probability": 0.7937516570091248,
+          "start": 8.84,
+          "word": " its"
+        },
+        {
+          "end": 9.56,
+          "probability": 0.7217711210250854,
+          "start": 9.02,
+          "word": " success,"
+        },
+        {
+          "end": 10.36,
+          "probability": 0.9009110331535339,
+          "start": 10.24,
+          "word": " it"
+        },
+        {
+          "end": 10.82,
+          "probability": 0.8015416860580444,
+          "start": 10.36,
+          "word": " fades"
+        },
+        {
+          "end": 11.26,
+          "probability": 0.727894127368927,
+          "start": 10.82,
+          "word": " into"
+        },
+        {
+          "end": 12,
+          "probability": 0.849568247795105,
+          "start": 11.26,
+          "word": " extinction."
+        }
+      ]
+    }
+  ],
+  "transcription": " In a twist of evolutionary irony, this species' triumph becomes its downfall. Alone in its success, it fades into extinction."
+}

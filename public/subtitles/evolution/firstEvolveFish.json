@@ -1,0 +1,343 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.28849986621311735,
+      "compression_ratio": 1.407185628742515,
+      "end": 10.22,
+      "id": 0,
+      "no_speech_prob": 0.04555705189704895,
+      "seek": 0,
+      "start": 0.34,
+      "temperature": 0,
+      "text": " Another evolution. Now unmistakably a fish. Fins have taken shape allowing for",
+      "tokens": [
+        50364,
+        3996,
+        9303,
+        13,
+        823,
+        19334,
+        468,
+        514,
+        1188,
+        257,
+        3506,
+        13,
+        479,
+        1292,
+        362,
+        2726,
+        3909,
+        8293,
+        337,
+        50874
+      ],
+      "words": [
+        {
+          "end": 1.26,
+          "probability": 0.7331403493881226,
+          "start": 0.34,
+          "word": " Another"
+        },
+        {
+          "end": 2,
+          "probability": 0.7941018342971802,
+          "start": 1.26,
+          "word": " evolution."
+        },
+        {
+          "end": 3.94,
+          "probability": 0.8714149594306946,
+          "start": 3.56,
+          "word": " Now"
+        },
+        {
+          "end": 5.44,
+          "probability": 0.906983494758606,
+          "start": 3.94,
+          "word": " unmistakably"
+        },
+        {
+          "end": 5.92,
+          "probability": 0.9452744126319885,
+          "start": 5.44,
+          "word": " a"
+        },
+        {
+          "end": 6.26,
+          "probability": 0.8514106869697571,
+          "start": 5.92,
+          "word": " fish."
+        },
+        {
+          "end": 7.78,
+          "probability": 0.8810360729694366,
+          "start": 7.5,
+          "word": " Fins"
+        },
+        {
+          "end": 8.02,
+          "probability": 0.8757379651069641,
+          "start": 7.78,
+          "word": " have"
+        },
+        {
+          "end": 8.36,
+          "probability": 0.7518290281295776,
+          "start": 8.02,
+          "word": " taken"
+        },
+        {
+          "end": 8.92,
+          "probability": 0.7894068956375122,
+          "start": 8.36,
+          "word": " shape"
+        },
+        {
+          "end": 9.82,
+          "probability": 0.44543758034706116,
+          "start": 8.92,
+          "word": " allowing"
+        },
+        {
+          "end": 10.22,
+          "probability": 0.9041091799736023,
+          "start": 9.82,
+          "word": " for"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.28849986621311735,
+      "compression_ratio": 1.407185628742515,
+      "end": 17.1,
+      "id": 1,
+      "no_speech_prob": 0.04555705189704895,
+      "seek": 0,
+      "start": 10.22,
+      "temperature": 0,
+      "text": " agile movement and its strong tail drives it forward with ease. Scales cover",
+      "tokens": [
+        50874,
+        30072,
+        3963,
+        293,
+        1080,
+        2068,
+        6838,
+        11754,
+        309,
+        2128,
+        365,
+        12708,
+        13,
+        2747,
+        4229,
+        2060,
+        51216
+      ],
+      "words": [
+        {
+          "end": 10.66,
+          "probability": 0.7936466932296753,
+          "start": 10.22,
+          "word": " agile"
+        },
+        {
+          "end": 11.16,
+          "probability": 0.8138478994369507,
+          "start": 10.66,
+          "word": " movement"
+        },
+        {
+          "end": 12.28,
+          "probability": 0.6754522323608398,
+          "start": 11.16,
+          "word": " and"
+        },
+        {
+          "end": 12.46,
+          "probability": 0.580681562423706,
+          "start": 12.28,
+          "word": " its"
+        },
+        {
+          "end": 12.9,
+          "probability": 0.8340042233467102,
+          "start": 12.46,
+          "word": " strong"
+        },
+        {
+          "end": 13.36,
+          "probability": 0.8403626084327698,
+          "start": 12.9,
+          "word": " tail"
+        },
+        {
+          "end": 13.82,
+          "probability": 0.7779003977775574,
+          "start": 13.36,
+          "word": " drives"
+        },
+        {
+          "end": 13.98,
+          "probability": 0.8985035419464111,
+          "start": 13.82,
+          "word": " it"
+        },
+        {
+          "end": 14.28,
+          "probability": 0.8080570101737976,
+          "start": 13.98,
+          "word": " forward"
+        },
+        {
+          "end": 14.72,
+          "probability": 0.8124980926513672,
+          "start": 14.28,
+          "word": " with"
+        },
+        {
+          "end": 15.26,
+          "probability": 0.9121420383453369,
+          "start": 14.72,
+          "word": " ease."
+        },
+        {
+          "end": 16.74,
+          "probability": 0.9455313086509705,
+          "start": 16.32,
+          "word": " Scales"
+        },
+        {
+          "end": 17.1,
+          "probability": 0.8783969879150391,
+          "start": 16.74,
+          "word": " cover"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.28849986621311735,
+      "compression_ratio": 1.407185628742515,
+      "end": 22.74,
+      "id": 2,
+      "no_speech_prob": 0.04555705189704895,
+      "seek": 0,
+      "start": 17.1,
+      "temperature": 0,
+      "text": " its body offering protection as it glides confidently through its watery",
+      "tokens": [
+        51216,
+        1080,
+        1772,
+        8745,
+        6334,
+        382,
+        309,
+        1563,
+        1875,
+        41956,
+        807,
+        1080,
+        43015,
+        51502
+      ],
+      "words": [
+        {
+          "end": 17.34,
+          "probability": 0.7994425892829895,
+          "start": 17.1,
+          "word": " its"
+        },
+        {
+          "end": 17.76,
+          "probability": 0.822571873664856,
+          "start": 17.34,
+          "word": " body"
+        },
+        {
+          "end": 18.82,
+          "probability": 0.6269760727882385,
+          "start": 17.76,
+          "word": " offering"
+        },
+        {
+          "end": 19.44,
+          "probability": 0.6823536157608032,
+          "start": 18.82,
+          "word": " protection"
+        },
+        {
+          "end": 19.98,
+          "probability": 0.8944855332374573,
+          "start": 19.44,
+          "word": " as"
+        },
+        {
+          "end": 20.14,
+          "probability": 0.9109687805175781,
+          "start": 19.98,
+          "word": " it"
+        },
+        {
+          "end": 20.54,
+          "probability": 0.9592831432819366,
+          "start": 20.14,
+          "word": " glides"
+        },
+        {
+          "end": 21.3,
+          "probability": 0.8949132561683655,
+          "start": 20.54,
+          "word": " confidently"
+        },
+        {
+          "end": 22.06,
+          "probability": 0.7765589356422424,
+          "start": 21.3,
+          "word": " through"
+        },
+        {
+          "end": 22.32,
+          "probability": 0.8107579946517944,
+          "start": 22.06,
+          "word": " its"
+        },
+        {
+          "end": 22.74,
+          "probability": 0.7464127540588379,
+          "start": 22.32,
+          "word": " watery"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.28849986621311735,
+      "compression_ratio": 1.407185628742515,
+      "end": 23.2,
+      "id": 3,
+      "no_speech_prob": 0.04555705189704895,
+      "seek": 0,
+      "start": 22.74,
+      "temperature": 0,
+      "text": " realm.",
+      "tokens": [
+        51502,
+        15355,
+        13,
+        51616
+      ],
+      "words": [
+        {
+          "end": 23.2,
+          "probability": 0.829743504524231,
+          "start": 22.74,
+          "word": " realm."
+        }
+      ]
+    }
+  ],
+  "transcription": " Another evolution. Now unmistakably a fish. Fins have taken shape allowing for agile movement and its strong tail drives it forward with ease. Scales cover its body offering protection as it glides confidently through its watery realm."
+}

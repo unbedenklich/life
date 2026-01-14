@@ -1,0 +1,152 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.32680571520770035,
+      "compression_ratio": 1.3289473684210527,
+      "end": 8.9,
+      "id": 0,
+      "no_speech_prob": 0.35258522629737854,
+      "seek": 0,
+      "start": 0.2,
+      "temperature": 0,
+      "text": " Are microbes bacteria? No, not exclusively. Bacteria are microbes, but",
+      "tokens": [
+        50364,
+        2014,
+        35996,
+        11763,
+        30,
+        883,
+        11,
+        406,
+        20638,
+        13,
+        363,
+        14125,
+        654,
+        366,
+        35996,
+        11,
+        457,
+        50806
+      ],
+      "words": [
+        {
+          "end": 1.34,
+          "probability": 0.7800821661949158,
+          "start": 0.2,
+          "word": " Are"
+        },
+        {
+          "end": 2.02,
+          "probability": 0.8089977502822876,
+          "start": 1.34,
+          "word": " microbes"
+        },
+        {
+          "end": 2.72,
+          "probability": 0.7164089679718018,
+          "start": 2.02,
+          "word": " bacteria?"
+        },
+        {
+          "end": 4.14,
+          "probability": 0.848149299621582,
+          "start": 3.66,
+          "word": " No,"
+        },
+        {
+          "end": 4.86,
+          "probability": 0.8820726871490479,
+          "start": 4.46,
+          "word": " not"
+        },
+        {
+          "end": 5.72,
+          "probability": 0.8655003905296326,
+          "start": 4.86,
+          "word": " exclusively."
+        },
+        {
+          "end": 7.3,
+          "probability": 0.9000840584437052,
+          "start": 6.58,
+          "word": " Bacteria"
+        },
+        {
+          "end": 7.76,
+          "probability": 0.8104901313781738,
+          "start": 7.3,
+          "word": " are"
+        },
+        {
+          "end": 8.42,
+          "probability": 0.8180422782897949,
+          "start": 7.76,
+          "word": " microbes,"
+        },
+        {
+          "end": 8.9,
+          "probability": 0.903691828250885,
+          "start": 8.62,
+          "word": " but"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.32680571520770035,
+      "compression_ratio": 1.3289473684210527,
+      "end": 11.42,
+      "id": 1,
+      "no_speech_prob": 0.35258522629737854,
+      "seek": 0,
+      "start": 8.9,
+      "temperature": 0,
+      "text": " not all microbes are bacteria.",
+      "tokens": [
+        50806,
+        406,
+        439,
+        35996,
+        366,
+        11763,
+        13,
+        51040
+      ],
+      "words": [
+        {
+          "end": 9.16,
+          "probability": 0.8940195441246033,
+          "start": 8.9,
+          "word": " not"
+        },
+        {
+          "end": 9.64,
+          "probability": 0.9015581011772156,
+          "start": 9.16,
+          "word": " all"
+        },
+        {
+          "end": 10.24,
+          "probability": 0.8272925019264221,
+          "start": 9.64,
+          "word": " microbes"
+        },
+        {
+          "end": 10.78,
+          "probability": 0.901326596736908,
+          "start": 10.24,
+          "word": " are"
+        },
+        {
+          "end": 11.42,
+          "probability": 0.6866970062255859,
+          "start": 10.78,
+          "word": " bacteria."
+        }
+      ]
+    }
+  ],
+  "transcription": " Are microbes bacteria? No, not exclusively. Bacteria are microbes, but not all microbes are bacteria."
+}

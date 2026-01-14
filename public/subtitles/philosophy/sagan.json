@@ -1,0 +1,102 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.4152878522872925,
+      "compression_ratio": 0.8947368421052632,
+      "end": 4.72,
+      "id": 0,
+      "no_speech_prob": 0.44770845770835876,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " The cosmos is within us. We are made of star stuff.",
+      "tokens": [
+        50364,
+        440,
+        41794,
+        307,
+        1951,
+        505,
+        13,
+        492,
+        366,
+        1027,
+        295,
+        3543,
+        1507,
+        13,
+        50596
+      ],
+      "words": [
+        {
+          "end": 0.56,
+          "probability": 0.6945279836654663,
+          "start": 0,
+          "word": " The"
+        },
+        {
+          "end": 0.88,
+          "probability": 0.838760256767273,
+          "start": 0.56,
+          "word": " cosmos"
+        },
+        {
+          "end": 1.52,
+          "probability": 0.8974981307983398,
+          "start": 0.88,
+          "word": " is"
+        },
+        {
+          "end": 1.86,
+          "probability": 0.7967656254768372,
+          "start": 1.52,
+          "word": " within"
+        },
+        {
+          "end": 2.36,
+          "probability": 0.9176716208457947,
+          "start": 1.86,
+          "word": " us."
+        },
+        {
+          "end": 3.24,
+          "probability": 0.8946048617362976,
+          "start": 3.06,
+          "word": " We"
+        },
+        {
+          "end": 3.48,
+          "probability": 0.8800280094146729,
+          "start": 3.24,
+          "word": " are"
+        },
+        {
+          "end": 3.8,
+          "probability": 0.7945246696472168,
+          "start": 3.48,
+          "word": " made"
+        },
+        {
+          "end": 4,
+          "probability": 0.9087582230567932,
+          "start": 3.8,
+          "word": " of"
+        },
+        {
+          "end": 4.34,
+          "probability": 0.7558813691139221,
+          "start": 4,
+          "word": " star"
+        },
+        {
+          "end": 4.72,
+          "probability": 0.6992269158363342,
+          "start": 4.34,
+          "word": " stuff."
+        }
+      ]
+    }
+  ],
+  "transcription": " The cosmos is within us. We are made of star stuff."
+}

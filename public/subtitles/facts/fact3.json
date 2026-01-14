@@ -1,0 +1,224 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.32497353987260297,
+      "compression_ratio": 1.2380952380952381,
+      "end": 7.78,
+      "id": 0,
+      "no_speech_prob": 0.30727168917655945,
+      "seek": 0,
+      "start": 0.52,
+      "temperature": 0,
+      "text": " The pressure at the ocean floor can be more than 1000 times greater than at sea level.",
+      "tokens": [
+        50364,
+        440,
+        3321,
+        412,
+        264,
+        7810,
+        4123,
+        393,
+        312,
+        544,
+        813,
+        9714,
+        1413,
+        5044,
+        813,
+        412,
+        4158,
+        1496,
+        13,
+        50764
+      ],
+      "words": [
+        {
+          "end": 1.28,
+          "probability": 0.7123484015464783,
+          "start": 0.52,
+          "word": " The"
+        },
+        {
+          "end": 1.72,
+          "probability": 0.745783805847168,
+          "start": 1.28,
+          "word": " pressure"
+        },
+        {
+          "end": 2.04,
+          "probability": 0.8800851106643677,
+          "start": 1.72,
+          "word": " at"
+        },
+        {
+          "end": 2.22,
+          "probability": 0.808940589427948,
+          "start": 2.04,
+          "word": " the"
+        },
+        {
+          "end": 2.6,
+          "probability": 0.845511257648468,
+          "start": 2.22,
+          "word": " ocean"
+        },
+        {
+          "end": 3.16,
+          "probability": 0.838934600353241,
+          "start": 2.6,
+          "word": " floor"
+        },
+        {
+          "end": 4.12,
+          "probability": 0.8728625774383545,
+          "start": 3.16,
+          "word": " can"
+        },
+        {
+          "end": 4.26,
+          "probability": 0.901610255241394,
+          "start": 4.12,
+          "word": " be"
+        },
+        {
+          "end": 4.48,
+          "probability": 0.8751852512359619,
+          "start": 4.26,
+          "word": " more"
+        },
+        {
+          "end": 4.64,
+          "probability": 0.855444073677063,
+          "start": 4.48,
+          "word": " than"
+        },
+        {
+          "end": 5.5,
+          "probability": 0.43378686904907227,
+          "start": 4.64,
+          "word": " 1000"
+        },
+        {
+          "end": 6.02,
+          "probability": 0.75827956199646,
+          "start": 5.5,
+          "word": " times"
+        },
+        {
+          "end": 6.56,
+          "probability": 0.8336397409439087,
+          "start": 6.02,
+          "word": " greater"
+        },
+        {
+          "end": 6.94,
+          "probability": 0.8443556427955627,
+          "start": 6.56,
+          "word": " than"
+        },
+        {
+          "end": 7.14,
+          "probability": 0.8823032975196838,
+          "start": 6.94,
+          "word": " at"
+        },
+        {
+          "end": 7.42,
+          "probability": 0.7821198105812073,
+          "start": 7.14,
+          "word": " sea"
+        },
+        {
+          "end": 7.78,
+          "probability": 0.7667944431304932,
+          "start": 7.42,
+          "word": " level."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.32497353987260297,
+      "compression_ratio": 1.2380952380952381,
+      "end": 11.92,
+      "id": 1,
+      "no_speech_prob": 0.30727168917655945,
+      "seek": 0,
+      "start": 8.52,
+      "temperature": 0,
+      "text": " Enough to crush a submarine like a tin can.",
+      "tokens": [
+        50764,
+        19401,
+        281,
+        10321,
+        257,
+        33995,
+        411,
+        257,
+        15935,
+        393,
+        13,
+        51014
+      ],
+      "words": [
+        {
+          "end": 8.92,
+          "probability": 0.831643283367157,
+          "start": 8.52,
+          "word": " Enough"
+        },
+        {
+          "end": 9.16,
+          "probability": 0.904762327671051,
+          "start": 8.92,
+          "word": " to"
+        },
+        {
+          "end": 9.52,
+          "probability": 0.858582615852356,
+          "start": 9.16,
+          "word": " crush"
+        },
+        {
+          "end": 9.8,
+          "probability": 0.9884632229804993,
+          "start": 9.52,
+          "word": " a"
+        },
+        {
+          "end": 10.24,
+          "probability": 0.8183291554450989,
+          "start": 9.8,
+          "word": " submarine"
+        },
+        {
+          "end": 11.04,
+          "probability": 0.8455464243888855,
+          "start": 10.24,
+          "word": " like"
+        },
+        {
+          "end": 11.24,
+          "probability": 0.987068772315979,
+          "start": 11.04,
+          "word": " a"
+        },
+        {
+          "end": 11.46,
+          "probability": 0.9569834470748901,
+          "start": 11.24,
+          "word": " tin"
+        },
+        {
+          "end": 11.92,
+          "probability": 0.8903331756591797,
+          "start": 11.46,
+          "word": " can."
+        }
+      ]
+    }
+  ],
+  "transcription": " The pressure at the ocean floor can be more than 1000 times greater than at sea level. Enough to crush a submarine like a tin can."
+}

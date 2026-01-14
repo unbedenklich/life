@@ -1,0 +1,592 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.2586663943618091,
+      "compression_ratio": 1.4808743169398908,
+      "end": 3.44,
+      "id": 0,
+      "no_speech_prob": 0.4624181389808655,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " The cell has undergone a dramatic transformation.",
+      "tokens": [
+        50364,
+        440,
+        2815,
+        575,
+        833,
+        39743,
+        257,
+        12023,
+        9887,
+        13,
+        50564
+      ],
+      "words": [
+        {
+          "end": 0.5,
+          "probability": 0.6408817172050476,
+          "start": 0,
+          "word": " The"
+        },
+        {
+          "end": 0.92,
+          "probability": 0.7592467665672302,
+          "start": 0.5,
+          "word": " cell"
+        },
+        {
+          "end": 1.22,
+          "probability": 0.8852067589759827,
+          "start": 0.92,
+          "word": " has"
+        },
+        {
+          "end": 1.78,
+          "probability": 0.882495254278183,
+          "start": 1.22,
+          "word": " undergone"
+        },
+        {
+          "end": 2.1,
+          "probability": 0.9941535592079163,
+          "start": 1.78,
+          "word": " a"
+        },
+        {
+          "end": 2.6,
+          "probability": 0.8140648603439331,
+          "start": 2.1,
+          "word": " dramatic"
+        },
+        {
+          "end": 3.44,
+          "probability": 0.758524477481842,
+          "start": 2.6,
+          "word": " transformation."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2586663943618091,
+      "compression_ratio": 1.4808743169398908,
+      "end": 7.6,
+      "id": 1,
+      "no_speech_prob": 0.4624181389808655,
+      "seek": 0,
+      "start": 4.4,
+      "temperature": 0,
+      "text": " Its body has stretched into a worm-like form.",
+      "tokens": [
+        50564,
+        6953,
+        1772,
+        575,
+        23563,
+        666,
+        257,
+        23835,
+        12,
+        4092,
+        1254,
+        13,
+        50764
+      ],
+      "words": [
+        {
+          "end": 4.56,
+          "probability": 0.6618171334266663,
+          "start": 4.4,
+          "word": " Its"
+        },
+        {
+          "end": 4.92,
+          "probability": 0.806443452835083,
+          "start": 4.56,
+          "word": " body"
+        },
+        {
+          "end": 5.24,
+          "probability": 0.8847098350524902,
+          "start": 4.92,
+          "word": " has"
+        },
+        {
+          "end": 5.68,
+          "probability": 0.6974275708198547,
+          "start": 5.24,
+          "word": " stretched"
+        },
+        {
+          "end": 6.1,
+          "probability": 0.727848470211029,
+          "start": 5.68,
+          "word": " into"
+        },
+        {
+          "end": 6.34,
+          "probability": 0.9980307221412659,
+          "start": 6.1,
+          "word": " a"
+        },
+        {
+          "end": 6.72,
+          "probability": 0.7426906824111938,
+          "start": 6.34,
+          "word": " worm"
+        },
+        {
+          "end": 7.02,
+          "probability": 0.7841946184635162,
+          "start": 6.72,
+          "word": "-like"
+        },
+        {
+          "end": 7.6,
+          "probability": 0.788598358631134,
+          "start": 7.02,
+          "word": " form."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2586663943618091,
+      "compression_ratio": 1.4808743169398908,
+      "end": 12.9,
+      "id": 2,
+      "no_speech_prob": 0.4624181389808655,
+      "seek": 0,
+      "start": 8.64,
+      "temperature": 0,
+      "text": " This is no longer a simple single-celled organism.",
+      "tokens": [
+        50764,
+        639,
+        307,
+        572,
+        2854,
+        257,
+        2199,
+        2167,
+        12,
+        4164,
+        292,
+        24128,
+        13,
+        51014
+      ],
+      "words": [
+        {
+          "end": 8.9,
+          "probability": 0.7969974875450134,
+          "start": 8.64,
+          "word": " This"
+        },
+        {
+          "end": 9.14,
+          "probability": 0.8999334573745728,
+          "start": 8.9,
+          "word": " is"
+        },
+        {
+          "end": 9.5,
+          "probability": 0.9098244905471802,
+          "start": 9.14,
+          "word": " no"
+        },
+        {
+          "end": 9.92,
+          "probability": 0.8366216421127319,
+          "start": 9.5,
+          "word": " longer"
+        },
+        {
+          "end": 10.24,
+          "probability": 0.4898076355457306,
+          "start": 9.92,
+          "word": " a"
+        },
+        {
+          "end": 10.76,
+          "probability": 0.892315685749054,
+          "start": 10.24,
+          "word": " simple"
+        },
+        {
+          "end": 11.58,
+          "probability": 0.5965728759765625,
+          "start": 10.76,
+          "word": " single"
+        },
+        {
+          "end": 12.34,
+          "probability": 0.8238962491353353,
+          "start": 11.58,
+          "word": "-celled"
+        },
+        {
+          "end": 12.9,
+          "probability": 0.8945212960243225,
+          "start": 12.34,
+          "word": " organism."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2586663943618091,
+      "compression_ratio": 1.4808743169398908,
+      "end": 18.2,
+      "id": 3,
+      "no_speech_prob": 0.4624181389808655,
+      "seek": 0,
+      "start": 13.62,
+      "temperature": 0,
+      "text": " It has become something far more complex.",
+      "tokens": [
+        51014,
+        467,
+        575,
+        1813,
+        746,
+        1400,
+        544,
+        3997,
+        13,
+        51314
+      ],
+      "words": [
+        {
+          "end": 13.88,
+          "probability": 0.898838222026825,
+          "start": 13.62,
+          "word": " It"
+        },
+        {
+          "end": 14.12,
+          "probability": 0.897345781326294,
+          "start": 13.88,
+          "word": " has"
+        },
+        {
+          "end": 14.56,
+          "probability": 0.840630054473877,
+          "start": 14.12,
+          "word": " become"
+        },
+        {
+          "end": 15.82,
+          "probability": 0.6991795301437378,
+          "start": 14.56,
+          "word": " something"
+        },
+        {
+          "end": 16.98,
+          "probability": 0.8783341646194458,
+          "start": 15.82,
+          "word": " far"
+        },
+        {
+          "end": 17.42,
+          "probability": 0.8707927465438843,
+          "start": 16.98,
+          "word": " more"
+        },
+        {
+          "end": 18.2,
+          "probability": 0.7336117029190063,
+          "start": 17.42,
+          "word": " complex."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2586663943618091,
+      "compression_ratio": 1.4808743169398908,
+      "end": 25.68,
+      "id": 4,
+      "no_speech_prob": 0.4624181389808655,
+      "seek": 0,
+      "start": 18.9,
+      "temperature": 0,
+      "text": " With its new streamlined shape, it cuts through the water with greater efficiency.",
+      "tokens": [
+        51314,
+        2022,
+        1080,
+        777,
+        48155,
+        3909,
+        11,
+        309,
+        9992,
+        807,
+        264,
+        1281,
+        365,
+        5044,
+        10493,
+        13,
+        51714
+      ],
+      "words": [
+        {
+          "end": 19.44,
+          "probability": 0.8797715902328491,
+          "start": 18.9,
+          "word": " With"
+        },
+        {
+          "end": 19.7,
+          "probability": 0.8130022883415222,
+          "start": 19.44,
+          "word": " its"
+        },
+        {
+          "end": 20.16,
+          "probability": 0.8025559782981873,
+          "start": 19.7,
+          "word": " new"
+        },
+        {
+          "end": 20.92,
+          "probability": 0.8849138617515564,
+          "start": 20.16,
+          "word": " streamlined"
+        },
+        {
+          "end": 22.02,
+          "probability": 0.8085510730743408,
+          "start": 20.92,
+          "word": " shape,"
+        },
+        {
+          "end": 22.66,
+          "probability": 0.8955873847007751,
+          "start": 22.46,
+          "word": " it"
+        },
+        {
+          "end": 23.04,
+          "probability": 0.8075799345970154,
+          "start": 22.66,
+          "word": " cuts"
+        },
+        {
+          "end": 23.54,
+          "probability": 0.7961156964302063,
+          "start": 23.04,
+          "word": " through"
+        },
+        {
+          "end": 23.74,
+          "probability": 0.7997283935546875,
+          "start": 23.54,
+          "word": " the"
+        },
+        {
+          "end": 24.04,
+          "probability": 0.8044095635414124,
+          "start": 23.74,
+          "word": " water"
+        },
+        {
+          "end": 24.36,
+          "probability": 0.823223352432251,
+          "start": 24.04,
+          "word": " with"
+        },
+        {
+          "end": 24.92,
+          "probability": 0.8256539106369019,
+          "start": 24.36,
+          "word": " greater"
+        },
+        {
+          "end": 25.68,
+          "probability": 0.9004032611846924,
+          "start": 24.92,
+          "word": " efficiency."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.21562118883486148,
+      "compression_ratio": 1.1875,
+      "end": 32.04,
+      "id": 5,
+      "no_speech_prob": 0.025808433070778847,
+      "seek": 2568,
+      "start": 26.56,
+      "temperature": 0,
+      "text": " Its increased size now allows it to pursue larger prey,",
+      "tokens": [
+        50414,
+        6953,
+        6505,
+        2744,
+        586,
+        4045,
+        309,
+        281,
+        12392,
+        4833,
+        21107,
+        11,
+        50664
+      ],
+      "words": [
+        {
+          "end": 27.66,
+          "probability": 0.44956326484680176,
+          "start": 26.56,
+          "word": " Its"
+        },
+        {
+          "end": 28.26,
+          "probability": 0.861746609210968,
+          "start": 27.66,
+          "word": " increased"
+        },
+        {
+          "end": 28.86,
+          "probability": 0.819916844367981,
+          "start": 28.26,
+          "word": " size"
+        },
+        {
+          "end": 29.54,
+          "probability": 0.8628042340278625,
+          "start": 28.86,
+          "word": " now"
+        },
+        {
+          "end": 30.14,
+          "probability": 0.7808387279510498,
+          "start": 29.54,
+          "word": " allows"
+        },
+        {
+          "end": 30.32,
+          "probability": 0.902895987033844,
+          "start": 30.14,
+          "word": " it"
+        },
+        {
+          "end": 30.58,
+          "probability": 0.9018263220787048,
+          "start": 30.32,
+          "word": " to"
+        },
+        {
+          "end": 30.9,
+          "probability": 0.8373164534568787,
+          "start": 30.58,
+          "word": " pursue"
+        },
+        {
+          "end": 31.58,
+          "probability": 0.8245627880096436,
+          "start": 30.9,
+          "word": " larger"
+        },
+        {
+          "end": 32.04,
+          "probability": 0.7999042868614197,
+          "start": 31.58,
+          "word": " prey,"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.21562118883486148,
+      "compression_ratio": 1.1875,
+      "end": 37.94,
+      "id": 6,
+      "no_speech_prob": 0.025808433070778847,
+      "seek": 2568,
+      "start": 32.54,
+      "temperature": 0,
+      "text": " opening up food sources that were previously out of reach.",
+      "tokens": [
+        50664,
+        5193,
+        493,
+        1755,
+        7139,
+        300,
+        645,
+        8046,
+        484,
+        295,
+        2524,
+        13,
+        50964
+      ],
+      "words": [
+        {
+          "end": 33.06,
+          "probability": 0.7956612706184387,
+          "start": 32.54,
+          "word": " opening"
+        },
+        {
+          "end": 33.38,
+          "probability": 0.9084665179252625,
+          "start": 33.06,
+          "word": " up"
+        },
+        {
+          "end": 33.68,
+          "probability": 0.8845105767250061,
+          "start": 33.38,
+          "word": " food"
+        },
+        {
+          "end": 34.26,
+          "probability": 0.7194898128509521,
+          "start": 33.68,
+          "word": " sources"
+        },
+        {
+          "end": 34.92,
+          "probability": 0.848020613193512,
+          "start": 34.26,
+          "word": " that"
+        },
+        {
+          "end": 35.18,
+          "probability": 0.8697354793548584,
+          "start": 34.92,
+          "word": " were"
+        },
+        {
+          "end": 36.1,
+          "probability": 0.680894136428833,
+          "start": 35.18,
+          "word": " previously"
+        },
+        {
+          "end": 36.82,
+          "probability": 0.808456540107727,
+          "start": 36.1,
+          "word": " out"
+        },
+        {
+          "end": 37.08,
+          "probability": 0.8792197108268738,
+          "start": 36.82,
+          "word": " of"
+        },
+        {
+          "end": 37.94,
+          "probability": 0.8956603407859802,
+          "start": 37.08,
+          "word": " reach."
+        }
+      ]
+    }
+  ],
+  "transcription": " The cell has undergone a dramatic transformation. Its body has stretched into a worm-like form. This is no longer a simple single-celled organism. It has become something far more complex. With its new streamlined shape, it cuts through the water with greater efficiency. Its increased size now allows it to pursue larger prey, opening up food sources that were previously out of reach."
+}

@@ -1,0 +1,87 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.4346851935753456,
+      "compression_ratio": 0.9019607843137255,
+      "end": 3.76,
+      "id": 0,
+      "no_speech_prob": 0.5092518329620361,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " That which does not kill us makes us stronger.",
+      "tokens": [
+        50364,
+        663,
+        597,
+        775,
+        406,
+        1961,
+        505,
+        1669,
+        505,
+        7249,
+        13,
+        50614
+      ],
+      "words": [
+        {
+          "end": 0.78,
+          "probability": 0.40171828866004944,
+          "start": 0,
+          "word": " That"
+        },
+        {
+          "end": 1.2,
+          "probability": 0.8544895648956299,
+          "start": 0.78,
+          "word": " which"
+        },
+        {
+          "end": 1.48,
+          "probability": 0.8961328268051147,
+          "start": 1.2,
+          "word": " does"
+        },
+        {
+          "end": 1.7,
+          "probability": 0.9071727395057678,
+          "start": 1.48,
+          "word": " not"
+        },
+        {
+          "end": 2,
+          "probability": 0.8966120481491089,
+          "start": 1.7,
+          "word": " kill"
+        },
+        {
+          "end": 2.36,
+          "probability": 0.9019623398780823,
+          "start": 2,
+          "word": " us"
+        },
+        {
+          "end": 3.08,
+          "probability": 0.4918402433395386,
+          "start": 2.36,
+          "word": " makes"
+        },
+        {
+          "end": 3.3,
+          "probability": 0.9026871919631958,
+          "start": 3.08,
+          "word": " us"
+        },
+        {
+          "end": 3.76,
+          "probability": 0.760798454284668,
+          "start": 3.3,
+          "word": " stronger."
+        }
+      ]
+    }
+  ],
+  "transcription": " That which does not kill us makes us stronger."
+}

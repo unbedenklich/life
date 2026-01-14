@@ -1,0 +1,374 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.26959325396825395,
+      "compression_ratio": 1.4947368421052631,
+      "end": 7.16,
+      "id": 0,
+      "no_speech_prob": 0.13227716088294983,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " Having outlasted its competitors, our protagonist now faces an unforeseen",
+      "tokens": [
+        50364,
+        10222,
+        484,
+        15459,
+        292,
+        1080,
+        18333,
+        11,
+        527,
+        24506,
+        586,
+        8475,
+        364,
+        517,
+        845,
+        22008,
+        50720
+      ],
+      "words": [
+        {
+          "end": 1.02,
+          "probability": 0.48857828974723816,
+          "start": 0,
+          "word": " Having"
+        },
+        {
+          "end": 2.08,
+          "probability": 0.8811576962471008,
+          "start": 1.02,
+          "word": " outlasted"
+        },
+        {
+          "end": 2.34,
+          "probability": 0.7815998792648315,
+          "start": 2.08,
+          "word": " its"
+        },
+        {
+          "end": 2.98,
+          "probability": 0.7972886562347412,
+          "start": 2.34,
+          "word": " competitors,"
+        },
+        {
+          "end": 4.02,
+          "probability": 0.8113213181495667,
+          "start": 3.68,
+          "word": " our"
+        },
+        {
+          "end": 4.64,
+          "probability": 0.742336094379425,
+          "start": 4.02,
+          "word": " protagonist"
+        },
+        {
+          "end": 5.34,
+          "probability": 0.9066298604011536,
+          "start": 4.64,
+          "word": " now"
+        },
+        {
+          "end": 5.84,
+          "probability": 0.7554112076759338,
+          "start": 5.34,
+          "word": " faces"
+        },
+        {
+          "end": 6.22,
+          "probability": 0.8921605944633484,
+          "start": 5.84,
+          "word": " an"
+        },
+        {
+          "end": 7.16,
+          "probability": 0.9318396846453348,
+          "start": 6.22,
+          "word": " unforeseen"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26959325396825395,
+      "compression_ratio": 1.4947368421052631,
+      "end": 13.68,
+      "id": 1,
+      "no_speech_prob": 0.13227716088294983,
+      "seek": 0,
+      "start": 7.16,
+      "temperature": 0,
+      "text": " challenge. With no prey left to sustain it and no kindred spirits for",
+      "tokens": [
+        50720,
+        3430,
+        13,
+        2022,
+        572,
+        21107,
+        1411,
+        281,
+        6769,
+        309,
+        293,
+        572,
+        733,
+        986,
+        16388,
+        337,
+        51050
+      ],
+      "words": [
+        {
+          "end": 7.78,
+          "probability": 0.7800801992416382,
+          "start": 7.16,
+          "word": " challenge."
+        },
+        {
+          "end": 8.82,
+          "probability": 0.8913466930389404,
+          "start": 8.56,
+          "word": " With"
+        },
+        {
+          "end": 9.24,
+          "probability": 0.9031245112419128,
+          "start": 8.82,
+          "word": " no"
+        },
+        {
+          "end": 9.62,
+          "probability": 0.7328988313674927,
+          "start": 9.24,
+          "word": " prey"
+        },
+        {
+          "end": 10.02,
+          "probability": 0.8460391163825989,
+          "start": 9.62,
+          "word": " left"
+        },
+        {
+          "end": 10.36,
+          "probability": 0.9003075361251831,
+          "start": 10.02,
+          "word": " to"
+        },
+        {
+          "end": 10.82,
+          "probability": 0.8051086068153381,
+          "start": 10.36,
+          "word": " sustain"
+        },
+        {
+          "end": 11.08,
+          "probability": 0.9063560366630554,
+          "start": 10.82,
+          "word": " it"
+        },
+        {
+          "end": 11.74,
+          "probability": 0.5400912761688232,
+          "start": 11.08,
+          "word": " and"
+        },
+        {
+          "end": 11.98,
+          "probability": 0.9063917994499207,
+          "start": 11.74,
+          "word": " no"
+        },
+        {
+          "end": 12.44,
+          "probability": 0.8766897618770599,
+          "start": 11.98,
+          "word": " kindred"
+        },
+        {
+          "end": 13.08,
+          "probability": 0.8154935836791992,
+          "start": 12.44,
+          "word": " spirits"
+        },
+        {
+          "end": 13.68,
+          "probability": 0.8868240714073181,
+          "start": 13.08,
+          "word": " for"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26959325396825395,
+      "compression_ratio": 1.4947368421052631,
+      "end": 20.14,
+      "id": 2,
+      "no_speech_prob": 0.13227716088294983,
+      "seek": 0,
+      "start": 13.68,
+      "temperature": 0,
+      "text": " companionship, this once thriving species confronts the silent extinction that",
+      "tokens": [
+        51050,
+        28009,
+        1210,
+        11,
+        341,
+        1564,
+        30643,
+        6172,
+        12422,
+        82,
+        264,
+        12784,
+        33163,
+        300,
+        51368
+      ],
+      "words": [
+        {
+          "end": 14.62,
+          "probability": 0.9419733583927155,
+          "start": 13.68,
+          "word": " companionship,"
+        },
+        {
+          "end": 15.48,
+          "probability": 0.8707552552223206,
+          "start": 15.28,
+          "word": " this"
+        },
+        {
+          "end": 15.84,
+          "probability": 0.8035970330238342,
+          "start": 15.48,
+          "word": " once"
+        },
+        {
+          "end": 16.32,
+          "probability": 0.7213858962059021,
+          "start": 15.84,
+          "word": " thriving"
+        },
+        {
+          "end": 16.9,
+          "probability": 0.7031370997428894,
+          "start": 16.32,
+          "word": " species"
+        },
+        {
+          "end": 17.7,
+          "probability": 0.8664796352386475,
+          "start": 16.9,
+          "word": " confronts"
+        },
+        {
+          "end": 17.88,
+          "probability": 0.7758268713951111,
+          "start": 17.7,
+          "word": " the"
+        },
+        {
+          "end": 18.3,
+          "probability": 0.820933997631073,
+          "start": 17.88,
+          "word": " silent"
+        },
+        {
+          "end": 19.18,
+          "probability": 0.8776258230209351,
+          "start": 18.3,
+          "word": " extinction"
+        },
+        {
+          "end": 20.14,
+          "probability": 0.8562470078468323,
+          "start": 19.18,
+          "word": " that"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26959325396825395,
+      "compression_ratio": 1.4947368421052631,
+      "end": 25.38,
+      "id": 3,
+      "no_speech_prob": 0.13227716088294983,
+      "seek": 0,
+      "start": 20.14,
+      "temperature": 0,
+      "text": " often follows unchecked success in nature's delicate balance.",
+      "tokens": [
+        51368,
+        2049,
+        10002,
+        46672,
+        292,
+        2245,
+        294,
+        3687,
+        311,
+        21417,
+        4772,
+        13,
+        51722
+      ],
+      "words": [
+        {
+          "end": 20.52,
+          "probability": 0.7232186794281006,
+          "start": 20.14,
+          "word": " often"
+        },
+        {
+          "end": 21.08,
+          "probability": 0.8405951261520386,
+          "start": 20.52,
+          "word": " follows"
+        },
+        {
+          "end": 22.04,
+          "probability": 0.8025779724121094,
+          "start": 21.08,
+          "word": " unchecked"
+        },
+        {
+          "end": 22.66,
+          "probability": 0.7762370109558105,
+          "start": 22.04,
+          "word": " success"
+        },
+        {
+          "end": 23.42,
+          "probability": 0.8904507756233215,
+          "start": 22.66,
+          "word": " in"
+        },
+        {
+          "end": 23.94,
+          "probability": 0.8788156509399414,
+          "start": 23.42,
+          "word": " nature's"
+        },
+        {
+          "end": 24.34,
+          "probability": 0.7700695395469666,
+          "start": 23.94,
+          "word": " delicate"
+        },
+        {
+          "end": 25.38,
+          "probability": 0.9214003086090088,
+          "start": 24.34,
+          "word": " balance."
+        }
+      ]
+    }
+  ],
+  "transcription": " Having outlasted its competitors, our protagonist now faces an unforeseen challenge. With no prey left to sustain it and no kindred spirits for companionship, this once thriving species confronts the silent extinction that often follows unchecked success in nature's delicate balance."
+}

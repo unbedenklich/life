@@ -1,0 +1,346 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.23029165752863479,
+      "compression_ratio": 1.4464285714285714,
+      "end": 6.08,
+      "id": 0,
+      "no_speech_prob": 0.04385259374976158,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " Just a bit later, tectonic activity reshapes the ocean floor,",
+      "tokens": [
+        50364,
+        1449,
+        257,
+        857,
+        1780,
+        11,
+        535,
+        349,
+        11630,
+        5191,
+        725,
+        71,
+        569,
+        279,
+        264,
+        7810,
+        4123,
+        11,
+        50664
+      ],
+      "words": [
+        {
+          "end": 0.86,
+          "probability": 0.8044283986091614,
+          "start": 0,
+          "word": " Just"
+        },
+        {
+          "end": 1.26,
+          "probability": 0.9963831901550293,
+          "start": 0.86,
+          "word": " a"
+        },
+        {
+          "end": 1.44,
+          "probability": 0.8825660943984985,
+          "start": 1.26,
+          "word": " bit"
+        },
+        {
+          "end": 2.04,
+          "probability": 0.8776556253433228,
+          "start": 1.44,
+          "word": " later,"
+        },
+        {
+          "end": 3.14,
+          "probability": 0.9317251841227213,
+          "start": 2.62,
+          "word": " tectonic"
+        },
+        {
+          "end": 4.02,
+          "probability": 0.7367736101150513,
+          "start": 3.14,
+          "word": " activity"
+        },
+        {
+          "end": 5.02,
+          "probability": 0.9277619421482086,
+          "start": 4.02,
+          "word": " reshapes"
+        },
+        {
+          "end": 5.24,
+          "probability": 0.80836021900177,
+          "start": 5.02,
+          "word": " the"
+        },
+        {
+          "end": 5.66,
+          "probability": 0.8613670468330383,
+          "start": 5.24,
+          "word": " ocean"
+        },
+        {
+          "end": 6.08,
+          "probability": 0.8503361940383911,
+          "start": 5.66,
+          "word": " floor,"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.23029165752863479,
+      "compression_ratio": 1.4464285714285714,
+      "end": 10.42,
+      "id": 1,
+      "no_speech_prob": 0.04385259374976158,
+      "seek": 0,
+      "start": 6.7,
+      "temperature": 0,
+      "text": " creating massive underwater canyons and ridges.",
+      "tokens": [
+        50664,
+        4084,
+        5994,
+        20967,
+        393,
+        88,
+        892,
+        293,
+        3973,
+        2880,
+        13,
+        50914
+      ],
+      "words": [
+        {
+          "end": 7.2,
+          "probability": 0.7979060411453247,
+          "start": 6.7,
+          "word": " creating"
+        },
+        {
+          "end": 7.9,
+          "probability": 0.736237108707428,
+          "start": 7.2,
+          "word": " massive"
+        },
+        {
+          "end": 8.78,
+          "probability": 0.8617686629295349,
+          "start": 7.9,
+          "word": " underwater"
+        },
+        {
+          "end": 9.56,
+          "probability": 0.9539230068524679,
+          "start": 8.78,
+          "word": " canyons"
+        },
+        {
+          "end": 9.92,
+          "probability": 0.8873735070228577,
+          "start": 9.56,
+          "word": " and"
+        },
+        {
+          "end": 10.42,
+          "probability": 0.9538246095180511,
+          "start": 9.92,
+          "word": " ridges."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.23029165752863479,
+      "compression_ratio": 1.4464285714285714,
+      "end": 15.46,
+      "id": 2,
+      "no_speech_prob": 0.04385259374976158,
+      "seek": 0,
+      "start": 11.1,
+      "temperature": 0,
+      "text": " These structures become new homes for diverse marine life,",
+      "tokens": [
+        50914,
+        1981,
+        9227,
+        1813,
+        777,
+        7388,
+        337,
+        9521,
+        20246,
+        993,
+        11,
+        51164
+      ],
+      "words": [
+        {
+          "end": 11.76,
+          "probability": 0.9125767350196838,
+          "start": 11.1,
+          "word": " These"
+        },
+        {
+          "end": 12.28,
+          "probability": 0.6715720891952515,
+          "start": 11.76,
+          "word": " structures"
+        },
+        {
+          "end": 12.7,
+          "probability": 0.8516328930854797,
+          "start": 12.28,
+          "word": " become"
+        },
+        {
+          "end": 13.04,
+          "probability": 0.8086526393890381,
+          "start": 12.7,
+          "word": " new"
+        },
+        {
+          "end": 13.5,
+          "probability": 0.7986406683921814,
+          "start": 13.04,
+          "word": " homes"
+        },
+        {
+          "end": 14.06,
+          "probability": 0.8932873010635376,
+          "start": 13.5,
+          "word": " for"
+        },
+        {
+          "end": 14.58,
+          "probability": 0.7348126769065857,
+          "start": 14.06,
+          "word": " diverse"
+        },
+        {
+          "end": 14.98,
+          "probability": 0.8676777482032776,
+          "start": 14.58,
+          "word": " marine"
+        },
+        {
+          "end": 15.46,
+          "probability": 0.8146420121192932,
+          "start": 14.98,
+          "word": " life,"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.23029165752863479,
+      "compression_ratio": 1.4464285714285714,
+      "end": 22.54,
+      "id": 3,
+      "no_speech_prob": 0.04385259374976158,
+      "seek": 0,
+      "start": 16.32,
+      "temperature": 0,
+      "text": " offering shelter and breeding grounds in an otherwise vast and open ocean.",
+      "tokens": [
+        51164,
+        8745,
+        13341,
+        293,
+        26051,
+        19196,
+        294,
+        364,
+        5911,
+        8369,
+        293,
+        1269,
+        7810,
+        13,
+        51514
+      ],
+      "words": [
+        {
+          "end": 16.7,
+          "probability": 0.7061735987663269,
+          "start": 16.32,
+          "word": " offering"
+        },
+        {
+          "end": 17.34,
+          "probability": 0.8541204929351807,
+          "start": 16.7,
+          "word": " shelter"
+        },
+        {
+          "end": 17.94,
+          "probability": 0.8862705230712891,
+          "start": 17.34,
+          "word": " and"
+        },
+        {
+          "end": 18.28,
+          "probability": 0.8261319398880005,
+          "start": 17.94,
+          "word": " breeding"
+        },
+        {
+          "end": 18.78,
+          "probability": 0.8298449516296387,
+          "start": 18.28,
+          "word": " grounds"
+        },
+        {
+          "end": 19.1,
+          "probability": 0.8987539410591125,
+          "start": 18.78,
+          "word": " in"
+        },
+        {
+          "end": 19.36,
+          "probability": 0.9016004800796509,
+          "start": 19.1,
+          "word": " an"
+        },
+        {
+          "end": 20,
+          "probability": 0.7499056458473206,
+          "start": 19.36,
+          "word": " otherwise"
+        },
+        {
+          "end": 21.1,
+          "probability": 0.8965467810630798,
+          "start": 20,
+          "word": " vast"
+        },
+        {
+          "end": 21.46,
+          "probability": 0.8838036060333252,
+          "start": 21.1,
+          "word": " and"
+        },
+        {
+          "end": 21.88,
+          "probability": 0.7963072657585144,
+          "start": 21.46,
+          "word": " open"
+        },
+        {
+          "end": 22.54,
+          "probability": 0.8711588382720947,
+          "start": 21.88,
+          "word": " ocean."
+        }
+      ]
+    }
+  ],
+  "transcription": " Just a bit later, tectonic activity reshapes the ocean floor, creating massive underwater canyons and ridges. These structures become new homes for diverse marine life, offering shelter and breeding grounds in an otherwise vast and open ocean."
+}

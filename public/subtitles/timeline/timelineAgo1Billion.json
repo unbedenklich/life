@@ -1,0 +1,190 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3606847894602808,
+      "compression_ratio": 1.2352941176470589,
+      "end": 10.36,
+      "id": 0,
+      "no_speech_prob": 0.08836064487695694,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " 500 million years ago the waters begin to clear as oxygen levels increase",
+      "tokens": [
+        50364,
+        5923,
+        2459,
+        924,
+        2057,
+        264,
+        12975,
+        1841,
+        281,
+        1850,
+        382,
+        9169,
+        4358,
+        3488,
+        50910
+      ],
+      "words": [
+        {
+          "end": 1.38,
+          "probability": 0.6599807143211365,
+          "start": 0,
+          "word": " 500"
+        },
+        {
+          "end": 2.42,
+          "probability": 0.7648465037345886,
+          "start": 1.38,
+          "word": " million"
+        },
+        {
+          "end": 3.02,
+          "probability": 0.8816390037536621,
+          "start": 2.42,
+          "word": " years"
+        },
+        {
+          "end": 3.46,
+          "probability": 0.7952123284339905,
+          "start": 3.02,
+          "word": " ago"
+        },
+        {
+          "end": 4.8,
+          "probability": 0.37894830107688904,
+          "start": 3.46,
+          "word": " the"
+        },
+        {
+          "end": 5.42,
+          "probability": 0.7574202418327332,
+          "start": 4.8,
+          "word": " waters"
+        },
+        {
+          "end": 6.08,
+          "probability": 0.3664904832839966,
+          "start": 5.42,
+          "word": " begin"
+        },
+        {
+          "end": 6.48,
+          "probability": 0.8997822403907776,
+          "start": 6.08,
+          "word": " to"
+        },
+        {
+          "end": 7.04,
+          "probability": 0.809086263179779,
+          "start": 6.48,
+          "word": " clear"
+        },
+        {
+          "end": 7.92,
+          "probability": 0.8740715384483337,
+          "start": 7.04,
+          "word": " as"
+        },
+        {
+          "end": 8.68,
+          "probability": 0.875680148601532,
+          "start": 7.92,
+          "word": " oxygen"
+        },
+        {
+          "end": 9.44,
+          "probability": 0.7594439387321472,
+          "start": 8.68,
+          "word": " levels"
+        },
+        {
+          "end": 10.36,
+          "probability": 0.7715560793876648,
+          "start": 9.44,
+          "word": " increase"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3606847894602808,
+      "compression_ratio": 1.2352941176470589,
+      "end": 17.1,
+      "id": 1,
+      "no_speech_prob": 0.08836064487695694,
+      "seek": 0,
+      "start": 10.36,
+      "temperature": 0,
+      "text": " thanks to the photosynthetic activity of early life.",
+      "tokens": [
+        50910,
+        3231,
+        281,
+        264,
+        5787,
+        18656,
+        3532,
+        5191,
+        295,
+        2440,
+        993,
+        13,
+        51292
+      ],
+      "words": [
+        {
+          "end": 11.94,
+          "probability": 0.4471260607242584,
+          "start": 10.36,
+          "word": " thanks"
+        },
+        {
+          "end": 12.22,
+          "probability": 0.9030300974845886,
+          "start": 11.94,
+          "word": " to"
+        },
+        {
+          "end": 12.5,
+          "probability": 0.8053598403930664,
+          "start": 12.22,
+          "word": " the"
+        },
+        {
+          "end": 13.56,
+          "probability": 0.9254235426584879,
+          "start": 12.5,
+          "word": " photosynthetic"
+        },
+        {
+          "end": 14.22,
+          "probability": 0.7882710099220276,
+          "start": 13.56,
+          "word": " activity"
+        },
+        {
+          "end": 15.58,
+          "probability": 0.9061174392700195,
+          "start": 14.22,
+          "word": " of"
+        },
+        {
+          "end": 16.36,
+          "probability": 0.9095209240913391,
+          "start": 15.58,
+          "word": " early"
+        },
+        {
+          "end": 17.1,
+          "probability": 0.8175362944602966,
+          "start": 16.36,
+          "word": " life."
+        }
+      ]
+    }
+  ],
+  "transcription": " 500 million years ago the waters begin to clear as oxygen levels increase thanks to the photosynthetic activity of early life."
+}

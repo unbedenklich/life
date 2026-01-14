@@ -1,0 +1,339 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.2973248221657493,
+      "compression_ratio": 1.4352941176470588,
+      "end": 8.52,
+      "id": 0,
+      "no_speech_prob": 0.09459252655506134,
+      "seek": 0,
+      "start": 0.44,
+      "temperature": 0,
+      "text": " Ah! Tiny particles of organic matter appear, a vital source of nourishment.",
+      "tokens": [
+        50364,
+        2438,
+        0,
+        39992,
+        10007,
+        295,
+        10220,
+        1871,
+        4204,
+        11,
+        257,
+        11707,
+        4009,
+        295,
+        22683,
+        30273,
+        13,
+        50814
+      ],
+      "words": [
+        {
+          "end": 1.42,
+          "probability": 0.34574437141418457,
+          "start": 0.44,
+          "word": " Ah!"
+        },
+        {
+          "end": 3,
+          "probability": 0.6727098226547241,
+          "start": 2.02,
+          "word": " Tiny"
+        },
+        {
+          "end": 3.6,
+          "probability": 0.8722361922264099,
+          "start": 3,
+          "word": " particles"
+        },
+        {
+          "end": 3.98,
+          "probability": 0.9015357494354248,
+          "start": 3.6,
+          "word": " of"
+        },
+        {
+          "end": 4.5,
+          "probability": 0.8111768960952759,
+          "start": 3.98,
+          "word": " organic"
+        },
+        {
+          "end": 5.08,
+          "probability": 0.8355384469032288,
+          "start": 4.5,
+          "word": " matter"
+        },
+        {
+          "end": 5.9,
+          "probability": 0.7654771208763123,
+          "start": 5.08,
+          "word": " appear,"
+        },
+        {
+          "end": 6.76,
+          "probability": 0.9813812971115112,
+          "start": 6.4,
+          "word": " a"
+        },
+        {
+          "end": 7.12,
+          "probability": 0.8978452682495117,
+          "start": 6.76,
+          "word": " vital"
+        },
+        {
+          "end": 7.66,
+          "probability": 0.7528234124183655,
+          "start": 7.12,
+          "word": " source"
+        },
+        {
+          "end": 7.92,
+          "probability": 0.8972012996673584,
+          "start": 7.66,
+          "word": " of"
+        },
+        {
+          "end": 8.52,
+          "probability": 0.9546868205070496,
+          "start": 7.92,
+          "word": " nourishment."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2973248221657493,
+      "compression_ratio": 1.4352941176470588,
+      "end": 14.66,
+      "id": 1,
+      "no_speech_prob": 0.09459252655506134,
+      "seek": 0,
+      "start": 9.46,
+      "temperature": 0,
+      "text": " Watch as the cell approaches, its outer rim gently enveloping the particles.",
+      "tokens": [
+        50814,
+        7277,
+        382,
+        264,
+        2815,
+        11587,
+        11,
+        1080,
+        10847,
+        15982,
+        13073,
+        33860,
+        278,
+        264,
+        10007,
+        13,
+        51114
+      ],
+      "words": [
+        {
+          "end": 9.82,
+          "probability": 0.9075840711593628,
+          "start": 9.46,
+          "word": " Watch"
+        },
+        {
+          "end": 10.16,
+          "probability": 0.8724042177200317,
+          "start": 9.82,
+          "word": " as"
+        },
+        {
+          "end": 10.36,
+          "probability": 0.8105469942092896,
+          "start": 10.16,
+          "word": " the"
+        },
+        {
+          "end": 10.56,
+          "probability": 0.8222177028656006,
+          "start": 10.36,
+          "word": " cell"
+        },
+        {
+          "end": 11.22,
+          "probability": 0.6931148171424866,
+          "start": 10.56,
+          "word": " approaches,"
+        },
+        {
+          "end": 11.96,
+          "probability": 0.7956670522689819,
+          "start": 11.74,
+          "word": " its"
+        },
+        {
+          "end": 12.3,
+          "probability": 0.7560328245162964,
+          "start": 11.96,
+          "word": " outer"
+        },
+        {
+          "end": 12.56,
+          "probability": 0.9427804946899414,
+          "start": 12.3,
+          "word": " rim"
+        },
+        {
+          "end": 13.14,
+          "probability": 0.8423577547073364,
+          "start": 12.56,
+          "word": " gently"
+        },
+        {
+          "end": 13.84,
+          "probability": 0.790669858455658,
+          "start": 13.14,
+          "word": " enveloping"
+        },
+        {
+          "end": 14.02,
+          "probability": 0.8074017763137817,
+          "start": 13.84,
+          "word": " the"
+        },
+        {
+          "end": 14.66,
+          "probability": 0.8701332211494446,
+          "start": 14.02,
+          "word": " particles."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2973248221657493,
+      "compression_ratio": 1.4352941176470588,
+      "end": 22.34,
+      "id": 2,
+      "no_speech_prob": 0.09459252655506134,
+      "seek": 0,
+      "start": 15.38,
+      "temperature": 0,
+      "text": " Each successful capture fuels its growth, a small victory in the long journey of evolution.",
+      "tokens": [
+        51114,
+        6947,
+        4406,
+        7983,
+        24616,
+        1080,
+        4599,
+        11,
+        257,
+        1359,
+        9812,
+        294,
+        264,
+        938,
+        4671,
+        295,
+        9303,
+        13,
+        51514
+      ],
+      "words": [
+        {
+          "end": 15.82,
+          "probability": 0.8546441793441772,
+          "start": 15.38,
+          "word": " Each"
+        },
+        {
+          "end": 16.48,
+          "probability": 0.7734049558639526,
+          "start": 15.82,
+          "word": " successful"
+        },
+        {
+          "end": 17.08,
+          "probability": 0.6764892339706421,
+          "start": 16.48,
+          "word": " capture"
+        },
+        {
+          "end": 17.98,
+          "probability": 0.8151945471763611,
+          "start": 17.08,
+          "word": " fuels"
+        },
+        {
+          "end": 18.24,
+          "probability": 0.7732667922973633,
+          "start": 17.98,
+          "word": " its"
+        },
+        {
+          "end": 18.66,
+          "probability": 0.7855198383331299,
+          "start": 18.24,
+          "word": " growth,"
+        },
+        {
+          "end": 19.5,
+          "probability": 0.9932922124862671,
+          "start": 19.3,
+          "word": " a"
+        },
+        {
+          "end": 19.88,
+          "probability": 0.8658305406570435,
+          "start": 19.5,
+          "word": " small"
+        },
+        {
+          "end": 20.36,
+          "probability": 0.779081404209137,
+          "start": 19.88,
+          "word": " victory"
+        },
+        {
+          "end": 20.7,
+          "probability": 0.9018502831459045,
+          "start": 20.36,
+          "word": " in"
+        },
+        {
+          "end": 20.84,
+          "probability": 0.8124631643295288,
+          "start": 20.7,
+          "word": " the"
+        },
+        {
+          "end": 21.2,
+          "probability": 0.8806440234184265,
+          "start": 20.84,
+          "word": " long"
+        },
+        {
+          "end": 21.6,
+          "probability": 0.8520578742027283,
+          "start": 21.2,
+          "word": " journey"
+        },
+        {
+          "end": 21.84,
+          "probability": 0.9029386639595032,
+          "start": 21.6,
+          "word": " of"
+        },
+        {
+          "end": 22.34,
+          "probability": 0.8111643195152283,
+          "start": 21.84,
+          "word": " evolution."
+        }
+      ]
+    }
+  ],
+  "transcription": " Ah! Tiny particles of organic matter appear, a vital source of nourishment. Watch as the cell approaches, its outer rim gently enveloping the particles. Each successful capture fuels its growth, a small victory in the long journey of evolution."
+}

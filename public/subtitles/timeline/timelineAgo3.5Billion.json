@@ -1,0 +1,320 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.31923194726308185,
+      "compression_ratio": 1.4685314685314685,
+      "end": 7.98,
+      "id": 0,
+      "no_speech_prob": 0.013271776959300041,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " 3.5 billion years ago it is in this ancient ocean that volcanic vents",
+      "tokens": [
+        50364,
+        805,
+        13,
+        20,
+        5218,
+        924,
+        2057,
+        309,
+        307,
+        294,
+        341,
+        7832,
+        7810,
+        300,
+        35813,
+        40048,
+        50762
+      ],
+      "words": [
+        {
+          "end": 0.96,
+          "probability": 0.9172404408454895,
+          "start": 0,
+          "word": " 3"
+        },
+        {
+          "end": 1.86,
+          "probability": 0.981209397315979,
+          "start": 0.96,
+          "word": ".5"
+        },
+        {
+          "end": 2.34,
+          "probability": 0.7448503971099854,
+          "start": 1.86,
+          "word": " billion"
+        },
+        {
+          "end": 2.94,
+          "probability": 0.8721831440925598,
+          "start": 2.34,
+          "word": " years"
+        },
+        {
+          "end": 3.46,
+          "probability": 0.7925342321395874,
+          "start": 2.94,
+          "word": " ago"
+        },
+        {
+          "end": 4.24,
+          "probability": 0.5385753512382507,
+          "start": 3.46,
+          "word": " it"
+        },
+        {
+          "end": 4.4,
+          "probability": 0.8798835873603821,
+          "start": 4.24,
+          "word": " is"
+        },
+        {
+          "end": 4.58,
+          "probability": 0.9054825901985168,
+          "start": 4.4,
+          "word": " in"
+        },
+        {
+          "end": 4.82,
+          "probability": 0.8745130300521851,
+          "start": 4.58,
+          "word": " this"
+        },
+        {
+          "end": 5.58,
+          "probability": 0.7931591868400574,
+          "start": 4.82,
+          "word": " ancient"
+        },
+        {
+          "end": 6.22,
+          "probability": 0.8595050573348999,
+          "start": 5.58,
+          "word": " ocean"
+        },
+        {
+          "end": 6.68,
+          "probability": 0.8650047183036804,
+          "start": 6.22,
+          "word": " that"
+        },
+        {
+          "end": 7.28,
+          "probability": 0.7727077603340149,
+          "start": 6.68,
+          "word": " volcanic"
+        },
+        {
+          "end": 7.98,
+          "probability": 0.7450940012931824,
+          "start": 7.28,
+          "word": " vents"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.31923194726308185,
+      "compression_ratio": 1.4685314685314685,
+      "end": 15.42,
+      "id": 1,
+      "no_speech_prob": 0.013271776959300041,
+      "seek": 0,
+      "start": 7.98,
+      "temperature": 0,
+      "text": " release minerals into the water creating strange nutrient-rich environments.",
+      "tokens": [
+        50762,
+        4374,
+        22959,
+        666,
+        264,
+        1281,
+        4084,
+        5861,
+        32694,
+        12,
+        10794,
+        12388,
+        13,
+        51192
+      ],
+      "words": [
+        {
+          "end": 8.66,
+          "probability": 0.7878626585006714,
+          "start": 7.98,
+          "word": " release"
+        },
+        {
+          "end": 9.4,
+          "probability": 0.8293190598487854,
+          "start": 8.66,
+          "word": " minerals"
+        },
+        {
+          "end": 10.1,
+          "probability": 0.7424734830856323,
+          "start": 9.4,
+          "word": " into"
+        },
+        {
+          "end": 10.38,
+          "probability": 0.8126069903373718,
+          "start": 10.1,
+          "word": " the"
+        },
+        {
+          "end": 10.82,
+          "probability": 0.8072562217712402,
+          "start": 10.38,
+          "word": " water"
+        },
+        {
+          "end": 12.02,
+          "probability": 0.4364331364631653,
+          "start": 10.82,
+          "word": " creating"
+        },
+        {
+          "end": 12.88,
+          "probability": 0.8108528256416321,
+          "start": 12.02,
+          "word": " strange"
+        },
+        {
+          "end": 13.84,
+          "probability": 0.7382338047027588,
+          "start": 12.88,
+          "word": " nutrient"
+        },
+        {
+          "end": 14.28,
+          "probability": 0.7537433505058289,
+          "start": 13.84,
+          "word": "-rich"
+        },
+        {
+          "end": 15.42,
+          "probability": 0.6850759387016296,
+          "start": 14.28,
+          "word": " environments."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.31923194726308185,
+      "compression_ratio": 1.4685314685314685,
+      "end": 22.36,
+      "id": 2,
+      "no_speech_prob": 0.013271776959300041,
+      "seek": 0,
+      "start": 16.12,
+      "temperature": 0,
+      "text": " It is here in the darkness that the first sparks of life begin.",
+      "tokens": [
+        51192,
+        467,
+        307,
+        510,
+        294,
+        264,
+        11262,
+        300,
+        264,
+        700,
+        44102,
+        295,
+        993,
+        1841,
+        13,
+        51580
+      ],
+      "words": [
+        {
+          "end": 16.6,
+          "probability": 0.8749262094497681,
+          "start": 16.12,
+          "word": " It"
+        },
+        {
+          "end": 16.8,
+          "probability": 0.9028432369232178,
+          "start": 16.6,
+          "word": " is"
+        },
+        {
+          "end": 17.3,
+          "probability": 0.8124626874923706,
+          "start": 16.8,
+          "word": " here"
+        },
+        {
+          "end": 17.88,
+          "probability": 0.7624154090881348,
+          "start": 17.3,
+          "word": " in"
+        },
+        {
+          "end": 18.04,
+          "probability": 0.8083126544952393,
+          "start": 17.88,
+          "word": " the"
+        },
+        {
+          "end": 18.42,
+          "probability": 0.8751503825187683,
+          "start": 18.04,
+          "word": " darkness"
+        },
+        {
+          "end": 19.4,
+          "probability": 0.8650563359260559,
+          "start": 18.42,
+          "word": " that"
+        },
+        {
+          "end": 19.64,
+          "probability": 0.8177609443664551,
+          "start": 19.4,
+          "word": " the"
+        },
+        {
+          "end": 20.02,
+          "probability": 0.7976714372634888,
+          "start": 19.64,
+          "word": " first"
+        },
+        {
+          "end": 20.66,
+          "probability": 0.7906248569488525,
+          "start": 20.02,
+          "word": " sparks"
+        },
+        {
+          "end": 21.12,
+          "probability": 0.9039086103439331,
+          "start": 20.66,
+          "word": " of"
+        },
+        {
+          "end": 21.58,
+          "probability": 0.8239734172821045,
+          "start": 21.12,
+          "word": " life"
+        },
+        {
+          "end": 22.36,
+          "probability": 0.7497360706329346,
+          "start": 21.58,
+          "word": " begin."
+        }
+      ]
+    }
+  ],
+  "transcription": " 3.5 billion years ago it is in this ancient ocean that volcanic vents release minerals into the water creating strange nutrient-rich environments. It is here in the darkness that the first sparks of life begin."
+}

@@ -1,0 +1,182 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.32528534641972295,
+      "compression_ratio": 1.209090909090909,
+      "end": 7.68,
+      "id": 0,
+      "no_speech_prob": 0.3227682113647461,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " Certain bacteria can divide every 20 minutes, potentially producing billions",
+      "tokens": [
+        50364,
+        13407,
+        11763,
+        393,
+        9845,
+        633,
+        945,
+        2077,
+        11,
+        7263,
+        10501,
+        17375,
+        50752
+      ],
+      "words": [
+        {
+          "end": 1.2,
+          "probability": 0.7227625846862793,
+          "start": 0,
+          "word": " Certain"
+        },
+        {
+          "end": 1.9,
+          "probability": 0.6918342709541321,
+          "start": 1.2,
+          "word": " bacteria"
+        },
+        {
+          "end": 2.54,
+          "probability": 0.8874779343605042,
+          "start": 1.9,
+          "word": " can"
+        },
+        {
+          "end": 2.98,
+          "probability": 0.8547894358634949,
+          "start": 2.54,
+          "word": " divide"
+        },
+        {
+          "end": 3.5,
+          "probability": 0.7421771883964539,
+          "start": 2.98,
+          "word": " every"
+        },
+        {
+          "end": 4.1,
+          "probability": 0.7511520385742188,
+          "start": 3.5,
+          "word": " 20"
+        },
+        {
+          "end": 4.78,
+          "probability": 0.8473824858665466,
+          "start": 4.1,
+          "word": " minutes,"
+        },
+        {
+          "end": 6.1,
+          "probability": 0.5959814190864563,
+          "start": 5.48,
+          "word": " potentially"
+        },
+        {
+          "end": 6.86,
+          "probability": 0.7465511560440063,
+          "start": 6.1,
+          "word": " producing"
+        },
+        {
+          "end": 7.68,
+          "probability": 0.872424840927124,
+          "start": 6.86,
+          "word": " billions"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.32528534641972295,
+      "compression_ratio": 1.209090909090909,
+      "end": 12.88,
+      "id": 1,
+      "no_speech_prob": 0.3227682113647461,
+      "seek": 0,
+      "start": 7.68,
+      "temperature": 0,
+      "text": " of offspring in just a few hours under ideal conditions.",
+      "tokens": [
+        50752,
+        295,
+        36857,
+        294,
+        445,
+        257,
+        1326,
+        2496,
+        833,
+        7157,
+        4487,
+        13,
+        51103
+      ],
+      "words": [
+        {
+          "end": 8.06,
+          "probability": 0.9136040210723877,
+          "start": 7.68,
+          "word": " of"
+        },
+        {
+          "end": 8.68,
+          "probability": 0.6927779912948608,
+          "start": 8.06,
+          "word": " offspring"
+        },
+        {
+          "end": 9.32,
+          "probability": 0.861979067325592,
+          "start": 8.68,
+          "word": " in"
+        },
+        {
+          "end": 9.58,
+          "probability": 0.8693512082099915,
+          "start": 9.32,
+          "word": " just"
+        },
+        {
+          "end": 9.8,
+          "probability": 0.995782732963562,
+          "start": 9.58,
+          "word": " a"
+        },
+        {
+          "end": 10.14,
+          "probability": 0.8004516363143921,
+          "start": 9.8,
+          "word": " few"
+        },
+        {
+          "end": 10.66,
+          "probability": 0.8003367781639099,
+          "start": 10.14,
+          "word": " hours"
+        },
+        {
+          "end": 11.38,
+          "probability": 0.7068665623664856,
+          "start": 10.66,
+          "word": " under"
+        },
+        {
+          "end": 12.06,
+          "probability": 0.7856153845787048,
+          "start": 11.38,
+          "word": " ideal"
+        },
+        {
+          "end": 12.88,
+          "probability": 0.8319849371910095,
+          "start": 12.06,
+          "word": " conditions."
+        }
+      ]
+    }
+  ],
+  "transcription": " Certain bacteria can divide every 20 minutes, potentially producing billions of offspring in just a few hours under ideal conditions."
+}

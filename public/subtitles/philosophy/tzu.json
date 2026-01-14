@@ -1,0 +1,81 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3803950823270358,
+      "compression_ratio": 0.8709677419354839,
+      "end": 4.32,
+      "id": 0,
+      "no_speech_prob": 0.3569364547729492,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " Nature does not hurry, yet everything is accomplished.",
+      "tokens": [
+        50364,
+        20159,
+        775,
+        406,
+        11025,
+        11,
+        1939,
+        1203,
+        307,
+        15419,
+        13,
+        50614
+      ],
+      "words": [
+        {
+          "end": 0.8,
+          "probability": 0.6140663027763367,
+          "start": 0,
+          "word": " Nature"
+        },
+        {
+          "end": 1.32,
+          "probability": 0.9347952604293823,
+          "start": 0.8,
+          "word": " does"
+        },
+        {
+          "end": 1.52,
+          "probability": 0.9083239436149597,
+          "start": 1.32,
+          "word": " not"
+        },
+        {
+          "end": 1.92,
+          "probability": 0.8970080018043518,
+          "start": 1.52,
+          "word": " hurry,"
+        },
+        {
+          "end": 2.66,
+          "probability": 0.9137946367263794,
+          "start": 2.4,
+          "word": " yet"
+        },
+        {
+          "end": 3.18,
+          "probability": 0.8877407908439636,
+          "start": 2.66,
+          "word": " everything"
+        },
+        {
+          "end": 3.76,
+          "probability": 0.9044830203056335,
+          "start": 3.18,
+          "word": " is"
+        },
+        {
+          "end": 4.32,
+          "probability": 0.8184309005737305,
+          "start": 3.76,
+          "word": " accomplished."
+        }
+      ]
+    }
+  ],
+  "transcription": " Nature does not hurry, yet everything is accomplished."
+}

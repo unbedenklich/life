@@ -1,0 +1,280 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.32312256639653986,
+      "compression_ratio": 1.4265734265734267,
+      "end": 7.22,
+      "id": 0,
+      "no_speech_prob": 0.09979100525379181,
+      "seek": 0,
+      "start": 0.42,
+      "temperature": 0,
+      "text": " Nature's grand experiment has come to an end for this peculiar creature.",
+      "tokens": [
+        50364,
+        20159,
+        311,
+        2697,
+        5120,
+        575,
+        808,
+        281,
+        364,
+        917,
+        337,
+        341,
+        27149,
+        12797,
+        13,
+        50752
+      ],
+      "words": [
+        {
+          "end": 1.58,
+          "probability": 0.8246279656887054,
+          "start": 0.42,
+          "word": " Nature's"
+        },
+        {
+          "end": 2.34,
+          "probability": 0.6104304790496826,
+          "start": 1.58,
+          "word": " grand"
+        },
+        {
+          "end": 2.94,
+          "probability": 0.8779058456420898,
+          "start": 2.34,
+          "word": " experiment"
+        },
+        {
+          "end": 3.64,
+          "probability": 0.8976835608482361,
+          "start": 2.94,
+          "word": " has"
+        },
+        {
+          "end": 3.92,
+          "probability": 0.8150278329849243,
+          "start": 3.64,
+          "word": " come"
+        },
+        {
+          "end": 4.14,
+          "probability": 0.9034470319747925,
+          "start": 3.92,
+          "word": " to"
+        },
+        {
+          "end": 4.32,
+          "probability": 0.9049685597419739,
+          "start": 4.14,
+          "word": " an"
+        },
+        {
+          "end": 4.76,
+          "probability": 0.8182176351547241,
+          "start": 4.32,
+          "word": " end"
+        },
+        {
+          "end": 5.3,
+          "probability": 0.8807656168937683,
+          "start": 4.76,
+          "word": " for"
+        },
+        {
+          "end": 5.54,
+          "probability": 0.8806817531585693,
+          "start": 5.3,
+          "word": " this"
+        },
+        {
+          "end": 6.2,
+          "probability": 0.887982189655304,
+          "start": 5.54,
+          "word": " peculiar"
+        },
+        {
+          "end": 7.22,
+          "probability": 0.8479791879653931,
+          "start": 6.2,
+          "word": " creature."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.32312256639653986,
+      "compression_ratio": 1.4265734265734267,
+      "end": 14.18,
+      "id": 1,
+      "no_speech_prob": 0.09979100525379181,
+      "seek": 0,
+      "start": 8.04,
+      "temperature": 0,
+      "text": " Despite its valiant efforts, it seems this organism lacked the crucial",
+      "tokens": [
+        50752,
+        11334,
+        1080,
+        1323,
+        5798,
+        6484,
+        11,
+        309,
+        2544,
+        341,
+        24128,
+        41481,
+        264,
+        11462,
+        51074
+      ],
+      "words": [
+        {
+          "end": 8.76,
+          "probability": 0.85710608959198,
+          "start": 8.04,
+          "word": " Despite"
+        },
+        {
+          "end": 9.26,
+          "probability": 0.781498372554779,
+          "start": 8.76,
+          "word": " its"
+        },
+        {
+          "end": 9.8,
+          "probability": 0.8785957992076874,
+          "start": 9.26,
+          "word": " valiant"
+        },
+        {
+          "end": 10.5,
+          "probability": 0.8289156556129456,
+          "start": 9.8,
+          "word": " efforts,"
+        },
+        {
+          "end": 11.2,
+          "probability": 0.8940231800079346,
+          "start": 11.08,
+          "word": " it"
+        },
+        {
+          "end": 11.52,
+          "probability": 0.7566003203392029,
+          "start": 11.2,
+          "word": " seems"
+        },
+        {
+          "end": 11.92,
+          "probability": 0.8740593194961548,
+          "start": 11.52,
+          "word": " this"
+        },
+        {
+          "end": 12.52,
+          "probability": 0.9215608239173889,
+          "start": 11.92,
+          "word": " organism"
+        },
+        {
+          "end": 13.22,
+          "probability": 0.7931033372879028,
+          "start": 12.52,
+          "word": " lacked"
+        },
+        {
+          "end": 13.78,
+          "probability": 0.8173301219940186,
+          "start": 13.22,
+          "word": " the"
+        },
+        {
+          "end": 14.18,
+          "probability": 0.7931410670280457,
+          "start": 13.78,
+          "word": " crucial"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.32312256639653986,
+      "compression_ratio": 1.4265734265734267,
+      "end": 20.12,
+      "id": 2,
+      "no_speech_prob": 0.09979100525379181,
+      "seek": 0,
+      "start": 14.18,
+      "temperature": 0,
+      "text": " adaptations needed to endure in its unforgiving environment.",
+      "tokens": [
+        51074,
+        44465,
+        2978,
+        281,
+        24732,
+        294,
+        1080,
+        31411,
+        15441,
+        2823,
+        13,
+        51478
+      ],
+      "words": [
+        {
+          "end": 15,
+          "probability": 0.8356600403785706,
+          "start": 14.18,
+          "word": " adaptations"
+        },
+        {
+          "end": 16.26,
+          "probability": 0.3512542247772217,
+          "start": 15,
+          "word": " needed"
+        },
+        {
+          "end": 16.7,
+          "probability": 0.9031423330307007,
+          "start": 16.26,
+          "word": " to"
+        },
+        {
+          "end": 17.24,
+          "probability": 0.7138296365737915,
+          "start": 16.7,
+          "word": " endure"
+        },
+        {
+          "end": 17.82,
+          "probability": 0.8953902721405029,
+          "start": 17.24,
+          "word": " in"
+        },
+        {
+          "end": 18.04,
+          "probability": 0.8088783621788025,
+          "start": 17.82,
+          "word": " its"
+        },
+        {
+          "end": 18.84,
+          "probability": 0.8515813052654266,
+          "start": 18.04,
+          "word": " unforgiving"
+        },
+        {
+          "end": 20.12,
+          "probability": 0.7530869841575623,
+          "start": 18.84,
+          "word": " environment."
+        }
+      ]
+    }
+  ],
+  "transcription": " Nature's grand experiment has come to an end for this peculiar creature. Despite its valiant efforts, it seems this organism lacked the crucial adaptations needed to endure in its unforgiving environment."
+}

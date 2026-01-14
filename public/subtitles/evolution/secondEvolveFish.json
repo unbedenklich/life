@@ -1,0 +1,518 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.26853874751499723,
+      "compression_ratio": 1.4876847290640394,
+      "end": 7.2,
+      "id": 0,
+      "no_speech_prob": 0.7061246037483215,
+      "seek": 0,
+      "start": 0.18,
+      "temperature": 0,
+      "text": " Look at that! The fish-like form not only gains two additional fins for better",
+      "tokens": [
+        50364,
+        2053,
+        412,
+        300,
+        0,
+        440,
+        3506,
+        12,
+        4092,
+        1254,
+        406,
+        787,
+        16823,
+        732,
+        4497,
+        25106,
+        337,
+        1101,
+        50722
+      ],
+      "words": [
+        {
+          "end": 1,
+          "probability": 0.5826867818832397,
+          "start": 0.18,
+          "word": " Look"
+        },
+        {
+          "end": 1.16,
+          "probability": 0.8985044956207275,
+          "start": 1,
+          "word": " at"
+        },
+        {
+          "end": 1.56,
+          "probability": 0.8526650071144104,
+          "start": 1.16,
+          "word": " that!"
+        },
+        {
+          "end": 2.72,
+          "probability": 0.730737030506134,
+          "start": 2.52,
+          "word": " The"
+        },
+        {
+          "end": 3.04,
+          "probability": 0.855911135673523,
+          "start": 2.72,
+          "word": " fish"
+        },
+        {
+          "end": 3.4,
+          "probability": 0.7913477420806885,
+          "start": 3.04,
+          "word": "-like"
+        },
+        {
+          "end": 3.88,
+          "probability": 0.762797474861145,
+          "start": 3.4,
+          "word": " form"
+        },
+        {
+          "end": 4.16,
+          "probability": 0.8927728533744812,
+          "start": 3.88,
+          "word": " not"
+        },
+        {
+          "end": 4.58,
+          "probability": 0.8418896794319153,
+          "start": 4.16,
+          "word": " only"
+        },
+        {
+          "end": 5,
+          "probability": 0.7974584102630615,
+          "start": 4.58,
+          "word": " gains"
+        },
+        {
+          "end": 5.34,
+          "probability": 0.7233934998512268,
+          "start": 5,
+          "word": " two"
+        },
+        {
+          "end": 5.98,
+          "probability": 0.8459450602531433,
+          "start": 5.34,
+          "word": " additional"
+        },
+        {
+          "end": 6.48,
+          "probability": 0.898727536201477,
+          "start": 5.98,
+          "word": " fins"
+        },
+        {
+          "end": 6.94,
+          "probability": 0.8550278544425964,
+          "start": 6.48,
+          "word": " for"
+        },
+        {
+          "end": 7.2,
+          "probability": 0.8122081756591797,
+          "start": 6.94,
+          "word": " better"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26853874751499723,
+      "compression_ratio": 1.4876847290640394,
+      "end": 14.32,
+      "id": 1,
+      "no_speech_prob": 0.7061246037483215,
+      "seek": 0,
+      "start": 7.2,
+      "temperature": 0,
+      "text": " control but also starts to develop pigmentation across its body. This",
+      "tokens": [
+        50722,
+        1969,
+        457,
+        611,
+        3719,
+        281,
+        1499,
+        8120,
+        19631,
+        2108,
+        1080,
+        1772,
+        13,
+        639,
+        51072
+      ],
+      "words": [
+        {
+          "end": 7.72,
+          "probability": 0.6667237281799316,
+          "start": 7.2,
+          "word": " control"
+        },
+        {
+          "end": 8.68,
+          "probability": 0.35605376958847046,
+          "start": 7.72,
+          "word": " but"
+        },
+        {
+          "end": 9.22,
+          "probability": 0.8115538954734802,
+          "start": 8.68,
+          "word": " also"
+        },
+        {
+          "end": 9.76,
+          "probability": 0.714482307434082,
+          "start": 9.22,
+          "word": " starts"
+        },
+        {
+          "end": 10.02,
+          "probability": 0.9024255871772766,
+          "start": 9.76,
+          "word": " to"
+        },
+        {
+          "end": 10.52,
+          "probability": 0.7022871375083923,
+          "start": 10.02,
+          "word": " develop"
+        },
+        {
+          "end": 11.48,
+          "probability": 0.9482070207595825,
+          "start": 10.52,
+          "word": " pigmentation"
+        },
+        {
+          "end": 12.36,
+          "probability": 0.7165835499763489,
+          "start": 11.48,
+          "word": " across"
+        },
+        {
+          "end": 12.66,
+          "probability": 0.7890516519546509,
+          "start": 12.36,
+          "word": " its"
+        },
+        {
+          "end": 13.04,
+          "probability": 0.822266161441803,
+          "start": 12.66,
+          "word": " body."
+        },
+        {
+          "end": 14.32,
+          "probability": 0.8164650201797485,
+          "start": 13.84,
+          "word": " This"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26853874751499723,
+      "compression_ratio": 1.4876847290640394,
+      "end": 20.62,
+      "id": 2,
+      "no_speech_prob": 0.7061246037483215,
+      "seek": 0,
+      "start": 14.32,
+      "temperature": 0,
+      "text": " emerging color could be more than just camouflage. It might play a crucial role",
+      "tokens": [
+        51072,
+        14989,
+        2017,
+        727,
+        312,
+        544,
+        813,
+        445,
+        47625,
+        13,
+        467,
+        1062,
+        862,
+        257,
+        11462,
+        3090,
+        51388
+      ],
+      "words": [
+        {
+          "end": 14.94,
+          "probability": 0.677108645439148,
+          "start": 14.32,
+          "word": " emerging"
+        },
+        {
+          "end": 15.36,
+          "probability": 0.6746554970741272,
+          "start": 14.94,
+          "word": " color"
+        },
+        {
+          "end": 16.18,
+          "probability": 0.8221282958984375,
+          "start": 15.36,
+          "word": " could"
+        },
+        {
+          "end": 16.38,
+          "probability": 0.91037917137146,
+          "start": 16.18,
+          "word": " be"
+        },
+        {
+          "end": 16.7,
+          "probability": 0.891067385673523,
+          "start": 16.38,
+          "word": " more"
+        },
+        {
+          "end": 16.92,
+          "probability": 0.8874902129173279,
+          "start": 16.7,
+          "word": " than"
+        },
+        {
+          "end": 17.24,
+          "probability": 0.8821187615394592,
+          "start": 16.92,
+          "word": " just"
+        },
+        {
+          "end": 17.78,
+          "probability": 0.6795628666877747,
+          "start": 17.24,
+          "word": " camouflage."
+        },
+        {
+          "end": 18.9,
+          "probability": 0.8916172385215759,
+          "start": 18.64,
+          "word": " It"
+        },
+        {
+          "end": 19.22,
+          "probability": 0.8099656105041504,
+          "start": 18.9,
+          "word": " might"
+        },
+        {
+          "end": 19.56,
+          "probability": 0.8729203343391418,
+          "start": 19.22,
+          "word": " play"
+        },
+        {
+          "end": 19.8,
+          "probability": 0.9983861446380615,
+          "start": 19.56,
+          "word": " a"
+        },
+        {
+          "end": 20.16,
+          "probability": 0.7736560106277466,
+          "start": 19.8,
+          "word": " crucial"
+        },
+        {
+          "end": 20.62,
+          "probability": 0.7894649505615234,
+          "start": 20.16,
+          "word": " role"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26853874751499723,
+      "compression_ratio": 1.4876847290640394,
+      "end": 27.06,
+      "id": 3,
+      "no_speech_prob": 0.7061246037483215,
+      "seek": 0,
+      "start": 20.62,
+      "temperature": 0,
+      "text": " in finding a suitable partner, helping it stand out in the vast ocean and",
+      "tokens": [
+        51388,
+        294,
+        5006,
+        257,
+        12873,
+        4975,
+        11,
+        4315,
+        309,
+        1463,
+        484,
+        294,
+        264,
+        8369,
+        7810,
+        293,
+        51704
+      ],
+      "words": [
+        {
+          "end": 21.16,
+          "probability": 0.9068198800086975,
+          "start": 20.62,
+          "word": " in"
+        },
+        {
+          "end": 21.6,
+          "probability": 0.7288795113563538,
+          "start": 21.16,
+          "word": " finding"
+        },
+        {
+          "end": 21.94,
+          "probability": 0.9986898303031921,
+          "start": 21.6,
+          "word": " a"
+        },
+        {
+          "end": 22.28,
+          "probability": 0.8902764916419983,
+          "start": 21.94,
+          "word": " suitable"
+        },
+        {
+          "end": 22.84,
+          "probability": 0.8363701105117798,
+          "start": 22.28,
+          "word": " partner,"
+        },
+        {
+          "end": 23.74,
+          "probability": 0.7242574095726013,
+          "start": 23.38,
+          "word": " helping"
+        },
+        {
+          "end": 23.98,
+          "probability": 0.8984600305557251,
+          "start": 23.74,
+          "word": " it"
+        },
+        {
+          "end": 24.28,
+          "probability": 0.7810256481170654,
+          "start": 23.98,
+          "word": " stand"
+        },
+        {
+          "end": 24.62,
+          "probability": 0.799842894077301,
+          "start": 24.28,
+          "word": " out"
+        },
+        {
+          "end": 24.9,
+          "probability": 0.9073322415351868,
+          "start": 24.62,
+          "word": " in"
+        },
+        {
+          "end": 25.04,
+          "probability": 0.7966476082801819,
+          "start": 24.9,
+          "word": " the"
+        },
+        {
+          "end": 25.38,
+          "probability": 0.8820440173149109,
+          "start": 25.04,
+          "word": " vast"
+        },
+        {
+          "end": 25.88,
+          "probability": 0.8546294569969177,
+          "start": 25.38,
+          "word": " ocean"
+        },
+        {
+          "end": 27.06,
+          "probability": 0.6825085878372192,
+          "start": 25.88,
+          "word": " and"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.550481128692627,
+      "compression_ratio": 0.8928571428571429,
+      "end": 30.6,
+      "id": 4,
+      "no_speech_prob": 0.3442125618457794,
+      "seek": 2706,
+      "start": 27.06,
+      "temperature": 0,
+      "text": " increasing its chances of successful reproduction.",
+      "tokens": [
+        50364,
+        5662,
+        1080,
+        10486,
+        295,
+        4406,
+        33934,
+        13,
+        50644
+      ],
+      "words": [
+        {
+          "end": 27.74,
+          "probability": 0.4685412645339966,
+          "start": 27.06,
+          "word": " increasing"
+        },
+        {
+          "end": 28.02,
+          "probability": 0.7916551232337952,
+          "start": 27.74,
+          "word": " its"
+        },
+        {
+          "end": 28.54,
+          "probability": 0.8530251383781433,
+          "start": 28.02,
+          "word": " chances"
+        },
+        {
+          "end": 29.24,
+          "probability": 0.9044572114944458,
+          "start": 28.54,
+          "word": " of"
+        },
+        {
+          "end": 30,
+          "probability": 0.7658140659332275,
+          "start": 29.24,
+          "word": " successful"
+        },
+        {
+          "end": 30.6,
+          "probability": 0.8618869781494141,
+          "start": 30,
+          "word": " reproduction."
+        }
+      ]
+    }
+  ],
+  "transcription": " Look at that! The fish-like form not only gains two additional fins for better control but also starts to develop pigmentation across its body. This emerging color could be more than just camouflage. It might play a crucial role in finding a suitable partner, helping it stand out in the vast ocean and increasing its chances of successful reproduction."
+}

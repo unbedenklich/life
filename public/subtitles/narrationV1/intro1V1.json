@@ -1,0 +1,331 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3346156340378981,
+      "compression_ratio": 1.3286713286713288,
+      "end": 11.18,
+      "id": 0,
+      "no_speech_prob": 0.5540952086448669,
+      "seek": 0,
+      "start": 0.14,
+      "temperature": 0,
+      "text": " In the depths of Earth's ancient oceans, 3.5 billion years ago, something remarkable",
+      "tokens": [
+        50364,
+        682,
+        264,
+        28439,
+        295,
+        4755,
+        311,
+        7832,
+        25004,
+        11,
+        805,
+        13,
+        20,
+        5218,
+        924,
+        2057,
+        11,
+        746,
+        12802,
+        50946
+      ],
+      "words": [
+        {
+          "end": 1.44,
+          "probability": 0.803035318851471,
+          "start": 0.14,
+          "word": " In"
+        },
+        {
+          "end": 1.62,
+          "probability": 0.8124030828475952,
+          "start": 1.44,
+          "word": " the"
+        },
+        {
+          "end": 2.06,
+          "probability": 0.7122154235839844,
+          "start": 1.62,
+          "word": " depths"
+        },
+        {
+          "end": 2.5,
+          "probability": 0.9043970108032227,
+          "start": 2.06,
+          "word": " of"
+        },
+        {
+          "end": 3.16,
+          "probability": 0.7384350597858429,
+          "start": 2.5,
+          "word": " Earth's"
+        },
+        {
+          "end": 3.88,
+          "probability": 0.773736298084259,
+          "start": 3.16,
+          "word": " ancient"
+        },
+        {
+          "end": 4.88,
+          "probability": 0.8090323209762573,
+          "start": 3.88,
+          "word": " oceans,"
+        },
+        {
+          "end": 6.28,
+          "probability": 0.9451378583908081,
+          "start": 5.94,
+          "word": " 3"
+        },
+        {
+          "end": 7.12,
+          "probability": 0.9904081523418427,
+          "start": 6.28,
+          "word": ".5"
+        },
+        {
+          "end": 7.56,
+          "probability": 0.7802858948707581,
+          "start": 7.12,
+          "word": " billion"
+        },
+        {
+          "end": 8.06,
+          "probability": 0.8852643370628357,
+          "start": 7.56,
+          "word": " years"
+        },
+        {
+          "end": 8.48,
+          "probability": 0.8173407912254333,
+          "start": 8.06,
+          "word": " ago,"
+        },
+        {
+          "end": 10.22,
+          "probability": 0.7237661480903625,
+          "start": 9.24,
+          "word": " something"
+        },
+        {
+          "end": 11.18,
+          "probability": 0.7847056984901428,
+          "start": 10.22,
+          "word": " remarkable"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3346156340378981,
+      "compression_ratio": 1.3286713286713288,
+      "end": 12.74,
+      "id": 1,
+      "no_speech_prob": 0.5540952086448669,
+      "seek": 0,
+      "start": 11.18,
+      "temperature": 0,
+      "text": " was beginning.",
+      "tokens": [
+        50946,
+        390,
+        2863,
+        13,
+        51114
+      ],
+      "words": [
+        {
+          "end": 12.08,
+          "probability": 0.890240490436554,
+          "start": 11.18,
+          "word": " was"
+        },
+        {
+          "end": 12.74,
+          "probability": 0.7904348969459534,
+          "start": 12.08,
+          "word": " beginning."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3346156340378981,
+      "compression_ratio": 1.3286713286713288,
+      "end": 26.44,
+      "id": 2,
+      "no_speech_prob": 0.5540952086448669,
+      "seek": 0,
+      "start": 14.04,
+      "temperature": 0,
+      "text": " Here in total darkness, a single cell drifts, a small, fragile life-form, at the very dawn",
+      "tokens": [
+        51114,
+        1692,
+        294,
+        3217,
+        11262,
+        11,
+        257,
+        2167,
+        2815,
+        1224,
+        8065,
+        11,
+        257,
+        1359,
+        11,
+        23847,
+        993,
+        12,
+        837,
+        11,
+        412,
+        264,
+        588,
+        18192,
+        51710
+      ],
+      "words": [
+        {
+          "end": 15.08,
+          "probability": 0.844066858291626,
+          "start": 14.04,
+          "word": " Here"
+        },
+        {
+          "end": 15.48,
+          "probability": 0.5689489841461182,
+          "start": 15.08,
+          "word": " in"
+        },
+        {
+          "end": 16,
+          "probability": 0.7943536639213562,
+          "start": 15.48,
+          "word": " total"
+        },
+        {
+          "end": 16.8,
+          "probability": 0.8771132230758667,
+          "start": 16,
+          "word": " darkness,"
+        },
+        {
+          "end": 18.14,
+          "probability": 0.9900291562080383,
+          "start": 17.84,
+          "word": " a"
+        },
+        {
+          "end": 18.68,
+          "probability": 0.89982008934021,
+          "start": 18.14,
+          "word": " single"
+        },
+        {
+          "end": 19.22,
+          "probability": 0.770694375038147,
+          "start": 18.68,
+          "word": " cell"
+        },
+        {
+          "end": 20.02,
+          "probability": 0.8599002957344055,
+          "start": 19.22,
+          "word": " drifts,"
+        },
+        {
+          "end": 21.46,
+          "probability": 0.9775422811508179,
+          "start": 21.22,
+          "word": " a"
+        },
+        {
+          "end": 22.12,
+          "probability": 0.8577332496643066,
+          "start": 21.46,
+          "word": " small,"
+        },
+        {
+          "end": 23.42,
+          "probability": 0.6881504058837891,
+          "start": 22.86,
+          "word": " fragile"
+        },
+        {
+          "end": 24.06,
+          "probability": 0.8627979159355164,
+          "start": 23.42,
+          "word": " life"
+        },
+        {
+          "end": 24.44,
+          "probability": 0.6034109890460968,
+          "start": 24.06,
+          "word": "-form,"
+        },
+        {
+          "end": 25.36,
+          "probability": 0.9059340953826904,
+          "start": 25.34,
+          "word": " at"
+        },
+        {
+          "end": 25.54,
+          "probability": 0.8132412433624268,
+          "start": 25.36,
+          "word": " the"
+        },
+        {
+          "end": 25.86,
+          "probability": 0.7318201661109924,
+          "start": 25.54,
+          "word": " very"
+        },
+        {
+          "end": 26.44,
+          "probability": 0.9045140743255615,
+          "start": 25.86,
+          "word": " dawn"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.7583096027374268,
+      "compression_ratio": 0.6190476190476191,
+      "end": 28.14,
+      "id": 3,
+      "no_speech_prob": 0.9199799299240112,
+      "seek": 2644,
+      "start": 26.44,
+      "temperature": 0,
+      "text": " of existence.",
+      "tokens": [
+        50388,
+        295,
+        9123,
+        13,
+        50488
+      ],
+      "words": [
+        {
+          "end": 27.28,
+          "probability": 0.5469553470611572,
+          "start": 26.44,
+          "word": " of"
+        },
+        {
+          "end": 28.14,
+          "probability": 0.8922043442726135,
+          "start": 27.28,
+          "word": " existence."
+        }
+      ]
+    }
+  ],
+  "transcription": " In the depths of Earth's ancient oceans, 3.5 billion years ago, something remarkable was beginning. Here in total darkness, a single cell drifts, a small, fragile life-form, at the very dawn of existence."
+}

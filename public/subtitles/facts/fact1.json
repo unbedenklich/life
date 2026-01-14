@@ -1,0 +1,151 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.32450112052585767,
+      "compression_ratio": 1.1728395061728396,
+      "end": 9.64,
+      "id": 0,
+      "no_speech_prob": 0.3144591748714447,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " In the vast oceans of our planet, a single drop of water can contain a million bacterial cells.",
+      "tokens": [
+        50364,
+        682,
+        264,
+        8369,
+        25004,
+        295,
+        527,
+        5054,
+        11,
+        257,
+        2167,
+        3270,
+        295,
+        1281,
+        393,
+        5304,
+        257,
+        2459,
+        35632,
+        5438,
+        13,
+        50864
+      ],
+      "words": [
+        {
+          "end": 0.82,
+          "probability": 0.7850179672241211,
+          "start": 0,
+          "word": " In"
+        },
+        {
+          "end": 0.98,
+          "probability": 0.7929495573043823,
+          "start": 0.82,
+          "word": " the"
+        },
+        {
+          "end": 1.56,
+          "probability": 0.8767953515052795,
+          "start": 0.98,
+          "word": " vast"
+        },
+        {
+          "end": 2.36,
+          "probability": 0.7327947616577148,
+          "start": 1.56,
+          "word": " oceans"
+        },
+        {
+          "end": 2.6,
+          "probability": 0.9086000323295593,
+          "start": 2.36,
+          "word": " of"
+        },
+        {
+          "end": 2.88,
+          "probability": 0.8164207935333252,
+          "start": 2.6,
+          "word": " our"
+        },
+        {
+          "end": 3.48,
+          "probability": 0.8539168238639832,
+          "start": 2.88,
+          "word": " planet,"
+        },
+        {
+          "end": 4.42,
+          "probability": 0.9692399501800537,
+          "start": 4.28,
+          "word": " a"
+        },
+        {
+          "end": 4.86,
+          "probability": 0.8861158490180969,
+          "start": 4.42,
+          "word": " single"
+        },
+        {
+          "end": 5.32,
+          "probability": 0.8296419978141785,
+          "start": 4.86,
+          "word": " drop"
+        },
+        {
+          "end": 5.64,
+          "probability": 0.9052461981773376,
+          "start": 5.32,
+          "word": " of"
+        },
+        {
+          "end": 6.12,
+          "probability": 0.8083698749542236,
+          "start": 5.64,
+          "word": " water"
+        },
+        {
+          "end": 6.92,
+          "probability": 0.8736979961395264,
+          "start": 6.12,
+          "word": " can"
+        },
+        {
+          "end": 7.46,
+          "probability": 0.8090576529502869,
+          "start": 6.92,
+          "word": " contain"
+        },
+        {
+          "end": 7.68,
+          "probability": 0.9853243231773376,
+          "start": 7.46,
+          "word": " a"
+        },
+        {
+          "end": 8.04,
+          "probability": 0.7931666374206543,
+          "start": 7.68,
+          "word": " million"
+        },
+        {
+          "end": 8.72,
+          "probability": 0.6728590726852417,
+          "start": 8.04,
+          "word": " bacterial"
+        },
+        {
+          "end": 9.64,
+          "probability": 0.7295411229133606,
+          "start": 8.72,
+          "word": " cells."
+        }
+      ]
+    }
+  ],
+  "transcription": " In the vast oceans of our planet, a single drop of water can contain a million bacterial cells."
+}

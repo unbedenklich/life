@@ -1,0 +1,320 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.2553866704305013,
+      "compression_ratio": 1.394904458598726,
+      "end": 7.54,
+      "id": 0,
+      "no_speech_prob": 0.0676620677113533,
+      "seek": 0,
+      "start": 0,
+      "temperature": 0,
+      "text": " As time continues to flow, ocean currents carry with them a wealth of nutrients.",
+      "tokens": [
+        50364,
+        1018,
+        565,
+        6515,
+        281,
+        3095,
+        11,
+        7810,
+        30110,
+        3985,
+        365,
+        552,
+        257,
+        7203,
+        295,
+        17617,
+        13,
+        50764
+      ],
+      "words": [
+        {
+          "end": 0.64,
+          "probability": 0.8467512726783752,
+          "start": 0,
+          "word": " As"
+        },
+        {
+          "end": 1.14,
+          "probability": 0.8128575086593628,
+          "start": 0.64,
+          "word": " time"
+        },
+        {
+          "end": 1.78,
+          "probability": 0.842474102973938,
+          "start": 1.14,
+          "word": " continues"
+        },
+        {
+          "end": 2.02,
+          "probability": 0.9039984345436096,
+          "start": 1.78,
+          "word": " to"
+        },
+        {
+          "end": 2.48,
+          "probability": 0.7615833878517151,
+          "start": 2.02,
+          "word": " flow,"
+        },
+        {
+          "end": 3.74,
+          "probability": 0.8343328833580017,
+          "start": 3.32,
+          "word": " ocean"
+        },
+        {
+          "end": 4.46,
+          "probability": 0.7020883560180664,
+          "start": 3.74,
+          "word": " currents"
+        },
+        {
+          "end": 4.94,
+          "probability": 0.8688448071479797,
+          "start": 4.46,
+          "word": " carry"
+        },
+        {
+          "end": 5.24,
+          "probability": 0.8096255660057068,
+          "start": 4.94,
+          "word": " with"
+        },
+        {
+          "end": 5.54,
+          "probability": 0.7317249774932861,
+          "start": 5.24,
+          "word": " them"
+        },
+        {
+          "end": 5.98,
+          "probability": 0.9897191524505615,
+          "start": 5.54,
+          "word": " a"
+        },
+        {
+          "end": 6.34,
+          "probability": 0.8799192309379578,
+          "start": 5.98,
+          "word": " wealth"
+        },
+        {
+          "end": 6.88,
+          "probability": 0.9086726903915405,
+          "start": 6.34,
+          "word": " of"
+        },
+        {
+          "end": 7.54,
+          "probability": 0.9033966660499573,
+          "start": 6.88,
+          "word": " nutrients."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2553866704305013,
+      "compression_ratio": 1.394904458598726,
+      "end": 13.5,
+      "id": 1,
+      "no_speech_prob": 0.0676620677113533,
+      "seek": 0,
+      "start": 8.36,
+      "temperature": 0,
+      "text": " These vast, unexplored waters become the cradle of early life,",
+      "tokens": [
+        50764,
+        1981,
+        8369,
+        11,
+        11572,
+        564,
+        2769,
+        12975,
+        1813,
+        264,
+        48081,
+        295,
+        2440,
+        993,
+        11,
+        51064
+      ],
+      "words": [
+        {
+          "end": 8.58,
+          "probability": 0.8978643417358398,
+          "start": 8.36,
+          "word": " These"
+        },
+        {
+          "end": 9.16,
+          "probability": 0.8806885480880737,
+          "start": 8.58,
+          "word": " vast,"
+        },
+        {
+          "end": 10.22,
+          "probability": 0.9294707775115967,
+          "start": 9.6,
+          "word": " unexplored"
+        },
+        {
+          "end": 10.88,
+          "probability": 0.7814357280731201,
+          "start": 10.22,
+          "word": " waters"
+        },
+        {
+          "end": 11.66,
+          "probability": 0.836563766002655,
+          "start": 10.88,
+          "word": " become"
+        },
+        {
+          "end": 11.88,
+          "probability": 0.8147028088569641,
+          "start": 11.66,
+          "word": " the"
+        },
+        {
+          "end": 12.32,
+          "probability": 0.7763975858688354,
+          "start": 11.88,
+          "word": " cradle"
+        },
+        {
+          "end": 12.6,
+          "probability": 0.9001736044883728,
+          "start": 12.32,
+          "word": " of"
+        },
+        {
+          "end": 13.02,
+          "probability": 0.9289305806159973,
+          "start": 12.6,
+          "word": " early"
+        },
+        {
+          "end": 13.5,
+          "probability": 0.8182815909385681,
+          "start": 13.02,
+          "word": " life,"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2553866704305013,
+      "compression_ratio": 1.394904458598726,
+      "end": 20.7,
+      "id": 2,
+      "no_speech_prob": 0.0676620677113533,
+      "seek": 0,
+      "start": 13.98,
+      "temperature": 0,
+      "text": " where simple organisms start to thrive, carried by the ever-shifting tides.",
+      "tokens": [
+        51064,
+        689,
+        2199,
+        22110,
+        722,
+        281,
+        21233,
+        11,
+        9094,
+        538,
+        264,
+        1562,
+        12,
+        2716,
+        10106,
+        256,
+        1875,
+        13,
+        51414
+      ],
+      "words": [
+        {
+          "end": 14.28,
+          "probability": 0.8066394925117493,
+          "start": 13.98,
+          "word": " where"
+        },
+        {
+          "end": 14.8,
+          "probability": 0.9218083620071411,
+          "start": 14.28,
+          "word": " simple"
+        },
+        {
+          "end": 15.54,
+          "probability": 0.8543092608451843,
+          "start": 14.8,
+          "word": " organisms"
+        },
+        {
+          "end": 16.54,
+          "probability": 0.8522680997848511,
+          "start": 15.54,
+          "word": " start"
+        },
+        {
+          "end": 16.8,
+          "probability": 0.9066391587257385,
+          "start": 16.54,
+          "word": " to"
+        },
+        {
+          "end": 17.44,
+          "probability": 0.8142191171646118,
+          "start": 16.8,
+          "word": " thrive,"
+        },
+        {
+          "end": 18.5,
+          "probability": 0.8441314101219177,
+          "start": 18.18,
+          "word": " carried"
+        },
+        {
+          "end": 19.06,
+          "probability": 0.9065312743186951,
+          "start": 18.5,
+          "word": " by"
+        },
+        {
+          "end": 19.26,
+          "probability": 0.79636150598526,
+          "start": 19.06,
+          "word": " the"
+        },
+        {
+          "end": 19.54,
+          "probability": 0.7851668000221252,
+          "start": 19.26,
+          "word": " ever"
+        },
+        {
+          "end": 20.04,
+          "probability": 0.824863056341807,
+          "start": 19.54,
+          "word": "-shifting"
+        },
+        {
+          "end": 20.7,
+          "probability": 0.900781899690628,
+          "start": 20.04,
+          "word": " tides."
+        }
+      ]
+    }
+  ],
+  "transcription": " As time continues to flow, ocean currents carry with them a wealth of nutrients. These vast, unexplored waters become the cradle of early life, where simple organisms start to thrive, carried by the ever-shifting tides."
+}

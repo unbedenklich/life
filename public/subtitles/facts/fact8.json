@@ -1,0 +1,138 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.4095917181535201,
+      "compression_ratio": 1.1521739130434783,
+      "end": 8.76,
+      "id": 0,
+      "no_speech_prob": 0.2176983654499054,
+      "seek": 0,
+      "start": 0.32,
+      "temperature": 0,
+      "text": " Certain bacteria communicate with each other using a chemical language, a process known as quorum sensing.",
+      "tokens": [
+        50364,
+        13407,
+        11763,
+        7890,
+        365,
+        1184,
+        661,
+        1228,
+        257,
+        7313,
+        2856,
+        11,
+        257,
+        1399,
+        2570,
+        382,
+        421,
+        36543,
+        30654,
+        13,
+        50814
+      ],
+      "words": [
+        {
+          "end": 1.18,
+          "probability": 0.7235895395278931,
+          "start": 0.32,
+          "word": " Certain"
+        },
+        {
+          "end": 1.9,
+          "probability": 0.6921046376228333,
+          "start": 1.18,
+          "word": " bacteria"
+        },
+        {
+          "end": 2.82,
+          "probability": 0.7723890542984009,
+          "start": 1.9,
+          "word": " communicate"
+        },
+        {
+          "end": 3.14,
+          "probability": 0.8156709671020508,
+          "start": 2.82,
+          "word": " with"
+        },
+        {
+          "end": 3.4,
+          "probability": 0.865123450756073,
+          "start": 3.14,
+          "word": " each"
+        },
+        {
+          "end": 3.66,
+          "probability": 0.7821057438850403,
+          "start": 3.4,
+          "word": " other"
+        },
+        {
+          "end": 4.08,
+          "probability": 0.8254388570785522,
+          "start": 3.66,
+          "word": " using"
+        },
+        {
+          "end": 4.34,
+          "probability": 0.9868966937065125,
+          "start": 4.08,
+          "word": " a"
+        },
+        {
+          "end": 4.68,
+          "probability": 0.849865734577179,
+          "start": 4.34,
+          "word": " chemical"
+        },
+        {
+          "end": 5.34,
+          "probability": 0.6767991185188293,
+          "start": 4.68,
+          "word": " language,"
+        },
+        {
+          "end": 5.94,
+          "probability": 0.9580508470535278,
+          "start": 5.82,
+          "word": " a"
+        },
+        {
+          "end": 6.38,
+          "probability": 0.8727295994758606,
+          "start": 5.94,
+          "word": " process"
+        },
+        {
+          "end": 6.76,
+          "probability": 0.7398695945739746,
+          "start": 6.38,
+          "word": " known"
+        },
+        {
+          "end": 7.12,
+          "probability": 0.891115665435791,
+          "start": 6.76,
+          "word": " as"
+        },
+        {
+          "end": 7.98,
+          "probability": 0.6601617634296417,
+          "start": 7.12,
+          "word": " quorum"
+        },
+        {
+          "end": 8.76,
+          "probability": 0.7187052369117737,
+          "start": 7.98,
+          "word": " sensing."
+        }
+      ]
+    }
+  ],
+  "transcription": " Certain bacteria communicate with each other using a chemical language, a process known as quorum sensing."
+}

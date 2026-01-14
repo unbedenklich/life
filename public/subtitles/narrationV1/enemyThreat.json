@@ -1,0 +1,186 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.2674749128280147,
+      "compression_ratio": 1.19,
+      "end": 9.38,
+      "id": 0,
+      "no_speech_prob": 0.5431849956512451,
+      "seek": 0,
+      "start": 0.06,
+      "temperature": 0,
+      "text": " But survival is never guaranteed. Larger, more advanced forms of life lurk in the",
+      "tokens": [
+        50364,
+        583,
+        12559,
+        307,
+        1128,
+        18031,
+        13,
+        11569,
+        1321,
+        11,
+        544,
+        7339,
+        6422,
+        295,
+        993,
+        35583,
+        74,
+        294,
+        264,
+        50830
+      ],
+      "words": [
+        {
+          "end": 1.12,
+          "probability": 0.8031078577041626,
+          "start": 0.06,
+          "word": " But"
+        },
+        {
+          "end": 1.76,
+          "probability": 0.7857098579406738,
+          "start": 1.12,
+          "word": " survival"
+        },
+        {
+          "end": 2.4,
+          "probability": 0.898318886756897,
+          "start": 1.76,
+          "word": " is"
+        },
+        {
+          "end": 2.86,
+          "probability": 0.8751130700111389,
+          "start": 2.4,
+          "word": " never"
+        },
+        {
+          "end": 3.7,
+          "probability": 0.7943663001060486,
+          "start": 2.86,
+          "word": " guaranteed."
+        },
+        {
+          "end": 5.36,
+          "probability": 0.9594270586967468,
+          "start": 4.82,
+          "word": " Larger,"
+        },
+        {
+          "end": 6.1,
+          "probability": 0.8901436924934387,
+          "start": 5.76,
+          "word": " more"
+        },
+        {
+          "end": 6.62,
+          "probability": 0.8198790550231934,
+          "start": 6.1,
+          "word": " advanced"
+        },
+        {
+          "end": 7.14,
+          "probability": 0.6838597059249878,
+          "start": 6.62,
+          "word": " forms"
+        },
+        {
+          "end": 7.56,
+          "probability": 0.8990083932876587,
+          "start": 7.14,
+          "word": " of"
+        },
+        {
+          "end": 8,
+          "probability": 0.8138847947120667,
+          "start": 7.56,
+          "word": " life"
+        },
+        {
+          "end": 9.02,
+          "probability": 0.9186435341835022,
+          "start": 8,
+          "word": " lurk"
+        },
+        {
+          "end": 9.24,
+          "probability": 0.9041202068328857,
+          "start": 9.02,
+          "word": " in"
+        },
+        {
+          "end": 9.38,
+          "probability": 0.8123558759689331,
+          "start": 9.24,
+          "word": " the"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.2674749128280147,
+      "compression_ratio": 1.19,
+      "end": 13.78,
+      "id": 1,
+      "no_speech_prob": 0.5431849956512451,
+      "seek": 0,
+      "start": 9.38,
+      "temperature": 0,
+      "text": " shadows, each one a potential threat.",
+      "tokens": [
+        50830,
+        14740,
+        11,
+        1184,
+        472,
+        257,
+        3995,
+        4734,
+        13,
+        51146
+      ],
+      "words": [
+        {
+          "end": 9.96,
+          "probability": 0.877505898475647,
+          "start": 9.38,
+          "word": " shadows,"
+        },
+        {
+          "end": 11.18,
+          "probability": 0.8469530940055847,
+          "start": 10.76,
+          "word": " each"
+        },
+        {
+          "end": 11.86,
+          "probability": 0.8270313739776611,
+          "start": 11.18,
+          "word": " one"
+        },
+        {
+          "end": 12.3,
+          "probability": 0.9834499955177307,
+          "start": 11.86,
+          "word": " a"
+        },
+        {
+          "end": 12.92,
+          "probability": 0.8789798021316528,
+          "start": 12.3,
+          "word": " potential"
+        },
+        {
+          "end": 13.78,
+          "probability": 0.8627533912658691,
+          "start": 12.92,
+          "word": " threat."
+        }
+      ]
+    }
+  ],
+  "transcription": " But survival is never guaranteed. Larger, more advanced forms of life lurk in the shadows, each one a potential threat."
+}

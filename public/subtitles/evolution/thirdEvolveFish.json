@@ -1,0 +1,418 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.26956335214468147,
+      "compression_ratio": 1.5340909090909092,
+      "end": 8.48,
+      "id": 0,
+      "no_speech_prob": 0.013609057292342186,
+      "seek": 0,
+      "start": 0.2,
+      "temperature": 0,
+      "text": " A new change has taken place. The eyes of the fish have moved closer to the front",
+      "tokens": [
+        50364,
+        316,
+        777,
+        1319,
+        575,
+        2726,
+        1081,
+        13,
+        440,
+        2575,
+        295,
+        264,
+        3506,
+        362,
+        4259,
+        4966,
+        281,
+        264,
+        1868,
+        50781
+      ],
+      "words": [
+        {
+          "end": 1.04,
+          "probability": 0.7748389840126038,
+          "start": 0.2,
+          "word": " A"
+        },
+        {
+          "end": 1.36,
+          "probability": 0.8251649737358093,
+          "start": 1.04,
+          "word": " new"
+        },
+        {
+          "end": 1.98,
+          "probability": 0.8358530402183533,
+          "start": 1.36,
+          "word": " change"
+        },
+        {
+          "end": 2.34,
+          "probability": 0.9037394523620605,
+          "start": 1.98,
+          "word": " has"
+        },
+        {
+          "end": 2.76,
+          "probability": 0.7500884532928467,
+          "start": 2.34,
+          "word": " taken"
+        },
+        {
+          "end": 3.5,
+          "probability": 0.802889883518219,
+          "start": 2.76,
+          "word": " place."
+        },
+        {
+          "end": 4.46,
+          "probability": 0.8051856756210327,
+          "start": 4.3,
+          "word": " The"
+        },
+        {
+          "end": 4.94,
+          "probability": 0.8150386214256287,
+          "start": 4.46,
+          "word": " eyes"
+        },
+        {
+          "end": 5.3,
+          "probability": 0.8982595801353455,
+          "start": 4.94,
+          "word": " of"
+        },
+        {
+          "end": 5.7,
+          "probability": 0.8102230429649353,
+          "start": 5.3,
+          "word": " the"
+        },
+        {
+          "end": 6.12,
+          "probability": 0.8712586164474487,
+          "start": 5.7,
+          "word": " fish"
+        },
+        {
+          "end": 6.68,
+          "probability": 0.8778374195098877,
+          "start": 6.12,
+          "word": " have"
+        },
+        {
+          "end": 7.02,
+          "probability": 0.8054468631744385,
+          "start": 6.68,
+          "word": " moved"
+        },
+        {
+          "end": 7.64,
+          "probability": 0.8099793791770935,
+          "start": 7.02,
+          "word": " closer"
+        },
+        {
+          "end": 7.92,
+          "probability": 0.8996986746788025,
+          "start": 7.64,
+          "word": " to"
+        },
+        {
+          "end": 8.12,
+          "probability": 0.8172881603240967,
+          "start": 7.92,
+          "word": " the"
+        },
+        {
+          "end": 8.48,
+          "probability": 0.8999636769294739,
+          "start": 8.12,
+          "word": " front"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26956335214468147,
+      "compression_ratio": 1.5340909090909092,
+      "end": 14.88,
+      "id": 1,
+      "no_speech_prob": 0.013609057292342186,
+      "seek": 0,
+      "start": 8.48,
+      "temperature": 0,
+      "text": " of its head, improving its focus and awareness of its surroundings. At the",
+      "tokens": [
+        50781,
+        295,
+        1080,
+        1378,
+        11,
+        11470,
+        1080,
+        1879,
+        293,
+        8888,
+        295,
+        1080,
+        25314,
+        13,
+        1711,
+        264,
+        51104
+      ],
+      "words": [
+        {
+          "end": 8.78,
+          "probability": 0.9049763679504395,
+          "start": 8.48,
+          "word": " of"
+        },
+        {
+          "end": 8.98,
+          "probability": 0.8045864105224609,
+          "start": 8.78,
+          "word": " its"
+        },
+        {
+          "end": 9.36,
+          "probability": 0.8614105582237244,
+          "start": 8.98,
+          "word": " head,"
+        },
+        {
+          "end": 10.56,
+          "probability": 0.8735970258712769,
+          "start": 10.04,
+          "word": " improving"
+        },
+        {
+          "end": 10.86,
+          "probability": 0.792229175567627,
+          "start": 10.56,
+          "word": " its"
+        },
+        {
+          "end": 11.34,
+          "probability": 0.8537117838859558,
+          "start": 10.86,
+          "word": " focus"
+        },
+        {
+          "end": 11.82,
+          "probability": 0.8848728537559509,
+          "start": 11.34,
+          "word": " and"
+        },
+        {
+          "end": 12.42,
+          "probability": 0.6991838812828064,
+          "start": 11.82,
+          "word": " awareness"
+        },
+        {
+          "end": 12.78,
+          "probability": 0.9024391770362854,
+          "start": 12.42,
+          "word": " of"
+        },
+        {
+          "end": 12.96,
+          "probability": 0.8138130307197571,
+          "start": 12.78,
+          "word": " its"
+        },
+        {
+          "end": 13.56,
+          "probability": 0.8335204124450684,
+          "start": 12.96,
+          "word": " surroundings."
+        },
+        {
+          "end": 14.72,
+          "probability": 0.9213034510612488,
+          "start": 14.56,
+          "word": " At"
+        },
+        {
+          "end": 14.88,
+          "probability": 0.8134030699729919,
+          "start": 14.72,
+          "word": " the"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26956335214468147,
+      "compression_ratio": 1.5340909090909092,
+      "end": 21.94,
+      "id": 2,
+      "no_speech_prob": 0.013609057292342186,
+      "seek": 0,
+      "start": 14.88,
+      "temperature": 0,
+      "text": " same time crisscross patterns start to appear on its skin, hinting at the early",
+      "tokens": [
+        51104,
+        912,
+        565,
+        941,
+        891,
+        35418,
+        8294,
+        722,
+        281,
+        4204,
+        322,
+        1080,
+        3178,
+        11,
+        12075,
+        278,
+        412,
+        264,
+        2440,
+        51462
+      ],
+      "words": [
+        {
+          "end": 15.16,
+          "probability": 0.8194699287414551,
+          "start": 14.88,
+          "word": " same"
+        },
+        {
+          "end": 15.64,
+          "probability": 0.8026792407035828,
+          "start": 15.16,
+          "word": " time"
+        },
+        {
+          "end": 16.94,
+          "probability": 0.5071021318435669,
+          "start": 15.64,
+          "word": " crisscross"
+        },
+        {
+          "end": 17.8,
+          "probability": 0.6956402063369751,
+          "start": 16.94,
+          "word": " patterns"
+        },
+        {
+          "end": 18.38,
+          "probability": 0.8577654361724854,
+          "start": 17.8,
+          "word": " start"
+        },
+        {
+          "end": 18.58,
+          "probability": 0.9004772305488586,
+          "start": 18.38,
+          "word": " to"
+        },
+        {
+          "end": 19,
+          "probability": 0.7412980198860168,
+          "start": 18.58,
+          "word": " appear"
+        },
+        {
+          "end": 19.3,
+          "probability": 0.9015423059463501,
+          "start": 19,
+          "word": " on"
+        },
+        {
+          "end": 19.52,
+          "probability": 0.8019284605979919,
+          "start": 19.3,
+          "word": " its"
+        },
+        {
+          "end": 20.02,
+          "probability": 0.7892094850540161,
+          "start": 19.52,
+          "word": " skin,"
+        },
+        {
+          "end": 21.26,
+          "probability": 0.8862683773040771,
+          "start": 20.74,
+          "word": " hinting"
+        },
+        {
+          "end": 21.46,
+          "probability": 0.906345784664154,
+          "start": 21.26,
+          "word": " at"
+        },
+        {
+          "end": 21.6,
+          "probability": 0.8047810792922974,
+          "start": 21.46,
+          "word": " the"
+        },
+        {
+          "end": 21.94,
+          "probability": 0.9296789169311523,
+          "start": 21.6,
+          "word": " early"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.26956335214468147,
+      "compression_ratio": 1.5340909090909092,
+      "end": 24.76,
+      "id": 3,
+      "no_speech_prob": 0.013609057292342186,
+      "seek": 0,
+      "start": 21.94,
+      "temperature": 0,
+      "text": " development of protective scales.",
+      "tokens": [
+        51462,
+        3250,
+        295,
+        16314,
+        17408,
+        13,
+        51692
+      ],
+      "words": [
+        {
+          "end": 22.54,
+          "probability": 0.782426118850708,
+          "start": 21.94,
+          "word": " development"
+        },
+        {
+          "end": 23.34,
+          "probability": 0.9084261655807495,
+          "start": 22.54,
+          "word": " of"
+        },
+        {
+          "end": 24.04,
+          "probability": 0.688741147518158,
+          "start": 23.34,
+          "word": " protective"
+        },
+        {
+          "end": 24.76,
+          "probability": 0.8972938060760498,
+          "start": 24.04,
+          "word": " scales."
+        }
+      ]
+    }
+  ],
+  "transcription": " A new change has taken place. The eyes of the fish have moved closer to the front of its head, improving its focus and awareness of its surroundings. At the same time crisscross patterns start to appear on its skin, hinting at the early development of protective scales."
+}

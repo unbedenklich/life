@@ -1,0 +1,452 @@
+{
+  "detected_language": "english",
+  "segments": [
+    {
+      "avg_logprob": -0.3037024361746652,
+      "compression_ratio": 1.5223880597014925,
+      "end": 7.46,
+      "id": 0,
+      "no_speech_prob": 0.8038477897644043,
+      "seek": 0,
+      "start": 0.36,
+      "temperature": 0,
+      "text": " But survival in this world is never guaranteed. As the cell feeds, it is",
+      "tokens": [
+        50364,
+        583,
+        12559,
+        294,
+        341,
+        1002,
+        307,
+        1128,
+        18031,
+        13,
+        1018,
+        264,
+        2815,
+        23712,
+        11,
+        309,
+        307,
+        50734
+      ],
+      "words": [
+        {
+          "end": 1.24,
+          "probability": 0.8121275305747986,
+          "start": 0.36,
+          "word": " But"
+        },
+        {
+          "end": 2.08,
+          "probability": 0.7183844447135925,
+          "start": 1.24,
+          "word": " survival"
+        },
+        {
+          "end": 2.36,
+          "probability": 0.895115315914154,
+          "start": 2.08,
+          "word": " in"
+        },
+        {
+          "end": 2.56,
+          "probability": 0.873461127281189,
+          "start": 2.36,
+          "word": " this"
+        },
+        {
+          "end": 2.88,
+          "probability": 0.8834413886070251,
+          "start": 2.56,
+          "word": " world"
+        },
+        {
+          "end": 3.44,
+          "probability": 0.879431426525116,
+          "start": 2.88,
+          "word": " is"
+        },
+        {
+          "end": 3.76,
+          "probability": 0.8696103096008301,
+          "start": 3.44,
+          "word": " never"
+        },
+        {
+          "end": 4.44,
+          "probability": 0.7803273797035217,
+          "start": 3.76,
+          "word": " guaranteed."
+        },
+        {
+          "end": 5.74,
+          "probability": 0.8962046504020691,
+          "start": 5.5,
+          "word": " As"
+        },
+        {
+          "end": 5.94,
+          "probability": 0.7797631025314331,
+          "start": 5.74,
+          "word": " the"
+        },
+        {
+          "end": 6.26,
+          "probability": 0.8029921054840088,
+          "start": 5.94,
+          "word": " cell"
+        },
+        {
+          "end": 6.7,
+          "probability": 0.7856796383857727,
+          "start": 6.26,
+          "word": " feeds,"
+        },
+        {
+          "end": 7.3,
+          "probability": 0.899724006652832,
+          "start": 7.14,
+          "word": " it"
+        },
+        {
+          "end": 7.46,
+          "probability": 0.898662269115448,
+          "start": 7.3,
+          "word": " is"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3037024361746652,
+      "compression_ratio": 1.5223880597014925,
+      "end": 14.82,
+      "id": 1,
+      "no_speech_prob": 0.8038477897644043,
+      "seek": 0,
+      "start": 7.46,
+      "temperature": 0,
+      "text": " itself targeted by larger, more advanced organisms. A larger cell approaches, its",
+      "tokens": [
+        50734,
+        2564,
+        15045,
+        538,
+        4833,
+        11,
+        544,
+        7339,
+        22110,
+        13,
+        316,
+        4833,
+        2815,
+        11587,
+        11,
+        1080,
+        51098
+      ],
+      "words": [
+        {
+          "end": 8.12,
+          "probability": 0.8295344114303589,
+          "start": 7.46,
+          "word": " itself"
+        },
+        {
+          "end": 8.9,
+          "probability": 0.7888915538787842,
+          "start": 8.12,
+          "word": " targeted"
+        },
+        {
+          "end": 9.24,
+          "probability": 0.8977959752082825,
+          "start": 8.9,
+          "word": " by"
+        },
+        {
+          "end": 9.74,
+          "probability": 0.8476773500442505,
+          "start": 9.24,
+          "word": " larger,"
+        },
+        {
+          "end": 10.42,
+          "probability": 0.8866969347000122,
+          "start": 10.06,
+          "word": " more"
+        },
+        {
+          "end": 10.98,
+          "probability": 0.8100174069404602,
+          "start": 10.42,
+          "word": " advanced"
+        },
+        {
+          "end": 11.88,
+          "probability": 0.8456332087516785,
+          "start": 10.98,
+          "word": " organisms."
+        },
+        {
+          "end": 13,
+          "probability": 0.7684077024459839,
+          "start": 12.7,
+          "word": " A"
+        },
+        {
+          "end": 13.3,
+          "probability": 0.8821874260902405,
+          "start": 13,
+          "word": " larger"
+        },
+        {
+          "end": 13.64,
+          "probability": 0.8024728894233704,
+          "start": 13.3,
+          "word": " cell"
+        },
+        {
+          "end": 14.14,
+          "probability": 0.7231103777885437,
+          "start": 13.64,
+          "word": " approaches,"
+        },
+        {
+          "end": 14.82,
+          "probability": 0.7890845537185669,
+          "start": 14.62,
+          "word": " its"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3037024361746652,
+      "compression_ratio": 1.5223880597014925,
+      "end": 22.04,
+      "id": 2,
+      "no_speech_prob": 0.8038477897644043,
+      "seek": 0,
+      "start": 14.82,
+      "temperature": 0,
+      "text": " membrane pulsating without predatory intent. In this ancient ocean, every",
+      "tokens": [
+        51098,
+        19651,
+        32295,
+        990,
+        1553,
+        3852,
+        4745,
+        8446,
+        13,
+        682,
+        341,
+        7832,
+        7810,
+        11,
+        633,
+        51465
+      ],
+      "words": [
+        {
+          "end": 15.2,
+          "probability": 0.7692655920982361,
+          "start": 14.82,
+          "word": " membrane"
+        },
+        {
+          "end": 16.02,
+          "probability": 0.9201221466064453,
+          "start": 15.2,
+          "word": " pulsating"
+        },
+        {
+          "end": 16.66,
+          "probability": 0.5140345692634583,
+          "start": 16.02,
+          "word": " without"
+        },
+        {
+          "end": 17.3,
+          "probability": 0.8674253523349762,
+          "start": 16.66,
+          "word": " predatory"
+        },
+        {
+          "end": 17.88,
+          "probability": 0.8175260424613953,
+          "start": 17.3,
+          "word": " intent."
+        },
+        {
+          "end": 19.6,
+          "probability": 0.9081482291221619,
+          "start": 19.2,
+          "word": " In"
+        },
+        {
+          "end": 19.96,
+          "probability": 0.875257134437561,
+          "start": 19.6,
+          "word": " this"
+        },
+        {
+          "end": 20.6,
+          "probability": 0.7652016878128052,
+          "start": 19.96,
+          "word": " ancient"
+        },
+        {
+          "end": 21.06,
+          "probability": 0.8597331643104553,
+          "start": 20.6,
+          "word": " ocean,"
+        },
+        {
+          "end": 22.04,
+          "probability": 0.7415911555290222,
+          "start": 21.62,
+          "word": " every"
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.3037024361746652,
+      "compression_ratio": 1.5223880597014925,
+      "end": 28.46,
+      "id": 3,
+      "no_speech_prob": 0.8038477897644043,
+      "seek": 0,
+      "start": 22.04,
+      "temperature": 0,
+      "text": " creature is both hunter and prey, locked in a constant struggle for survival.",
+      "tokens": [
+        51465,
+        12797,
+        307,
+        1293,
+        22970,
+        293,
+        21107,
+        11,
+        9376,
+        294,
+        257,
+        5754,
+        7799,
+        337,
+        12559,
+        13,
+        51862
+      ],
+      "words": [
+        {
+          "end": 22.48,
+          "probability": 0.8449100255966187,
+          "start": 22.04,
+          "word": " creature"
+        },
+        {
+          "end": 22.84,
+          "probability": 0.902680516242981,
+          "start": 22.48,
+          "word": " is"
+        },
+        {
+          "end": 23.26,
+          "probability": 0.8178355693817139,
+          "start": 22.84,
+          "word": " both"
+        },
+        {
+          "end": 23.9,
+          "probability": 0.8093909621238708,
+          "start": 23.26,
+          "word": " hunter"
+        },
+        {
+          "end": 24.36,
+          "probability": 0.8799999356269836,
+          "start": 23.9,
+          "word": " and"
+        },
+        {
+          "end": 24.7,
+          "probability": 0.8368703722953796,
+          "start": 24.36,
+          "word": " prey,"
+        },
+        {
+          "end": 25.62,
+          "probability": 0.7329771518707275,
+          "start": 25.34,
+          "word": " locked"
+        },
+        {
+          "end": 25.92,
+          "probability": 0.8973230123519897,
+          "start": 25.62,
+          "word": " in"
+        },
+        {
+          "end": 26.5,
+          "probability": 0.9764283299446106,
+          "start": 25.92,
+          "word": " a"
+        },
+        {
+          "end": 27,
+          "probability": 0.8209449648857117,
+          "start": 26.5,
+          "word": " constant"
+        },
+        {
+          "end": 27.54,
+          "probability": 0.7289584279060364,
+          "start": 27,
+          "word": " struggle"
+        },
+        {
+          "end": 27.92,
+          "probability": 0.8956109881401062,
+          "start": 27.54,
+          "word": " for"
+        },
+        {
+          "end": 28.46,
+          "probability": 0.8263930082321167,
+          "start": 27.92,
+          "word": " survival."
+        }
+      ]
+    },
+    {
+      "avg_logprob": -0.8271371722221375,
+      "compression_ratio": 0.2727272727272727,
+      "end": 29.12,
+      "id": 4,
+      "no_speech_prob": 0.9665436148643494,
+      "seek": 2846,
+      "start": 28.46,
+      "temperature": 0,
+      "text": " you",
+      "tokens": [
+        50364,
+        291,
+        50467
+      ],
+      "words": [
+        {
+          "end": 29.12,
+          "probability": 0.05150189250707626,
+          "start": 28.46,
+          "word": " you"
+        }
+      ]
+    }
+  ],
+  "transcription": " But survival in this world is never guaranteed. As the cell feeds, it is itself targeted by larger, more advanced organisms. A larger cell approaches, its membrane pulsating without predatory intent. In this ancient ocean, every creature is both hunter and prey, locked in a constant struggle for survival. you"
+}
